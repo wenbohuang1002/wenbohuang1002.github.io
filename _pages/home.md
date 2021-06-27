@@ -33,9 +33,13 @@ You can download my CV at [here](https://shuguang-52.github.io/papers/CV.pdf)
 
   <!-- <br clear="all" /> -->
 
-  Wenbo Huang (黄文博).<br>
-  <a href="mailto:wenbohuang1002@outlook.com">wenohuang1002@outlook.com</a> <br>
+  Wenbo Huang (黄文博)<br>
+  401, Qi Ming Building.<br>
+  <a href="http://d.njnu.edu.cn/research-area/3205.html">Institute of Infirmation and Control Technologies</a> <br>
+  <a href="http://d.njnu.edu.cn/">School of Electric and Autumation Engineerning</a> <br>
+  <a href="http://www.njnu.edu.cn/">Nanjing Normal University</a> <br>
   Nanjing, Jiangsu, China.<br>
+  Email: <a href="mailto:wenbohuang1002@outlook.com">wenohuang1002@outlook.com</a> <br>
 
 
 </div>

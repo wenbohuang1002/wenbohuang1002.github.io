@@ -1,7 +1,7 @@
 ---
-title: "Shuguang Dou - Publications"
+title: "Wenbo Huang - Publications"
 layout: gridlay
-excerpt: "Shuguang Dou -- Publications."
+excerpt: "Wenbo Huang -- Publications."
 sitemap: false
 permalink: /publications/
 ---

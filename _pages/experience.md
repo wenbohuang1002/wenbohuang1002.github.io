@@ -25,9 +25,9 @@ permalink: /experience
 
 <p><strong>Nanjing Tech University</strong>, Nanjing, Jiangsu, China</p>
 
-<p>Master degree in Automation (GPA:3.51/4.0)</p>
+<p>Bachelor degree in Automation (GPA:3.51/4.0)</p>
 
-<p>Advisor: Prof. Wenju Wang </p>
+<p>Advisor: A.P. Xinguo Wang </p>
 
 <p>&nbsp;</p>
 

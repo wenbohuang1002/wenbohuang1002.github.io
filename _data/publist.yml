@@ -1,8 +1,8 @@
-- title: Incremental Generative Occlusion Adversarial Suppression Network for Person ReID
+- title: The Convolutional Neural Networks Training with Channel-Selectivity for Human Activity Recognition Based on Sensors
   image: 21_tip_igoas.png
-  description: To address the occlusion problem, we propose a novel Incremental Generative Occlusion Adversarial Suppression (IGOAS) network.
-  authors: Cairong Zhao* , Xinbi Lv* , Shuguang Dou*, Shanshan Zhang , Member, IEEE, Jun Wu , Senior Member, IEEE, and Liang Wang, Fellow, IEEE
-  venue: TIP 21
+  description: We use the Channel-selectivity method to greatly improve the classification accuracy of the sensor signals by CNN without increasing the parameters.
+  authors: Wenbo Huang , Lei Zhang*, Qi Teng, Chaoda song and Jun He
+  venue: JBHI 21
   number_link: 4
   link1:
     url: https://shuguang-52.github.io/papers/21tip_igoas.pdf

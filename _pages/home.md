@@ -28,7 +28,7 @@ You can download my CV at [here](https://shuguang-52.github.io/papers/CV.pdf)
 <div class="col-sm-4" style="display:table-cell; vertical-align:middle; text-align:center">
 
   <ul style="overflow: hidden">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/admin.jpg" class="img-responsive" width="100%" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/ad.jpg" class="img-responsive" width="100%" />
   </ul>
 
   <!-- <br clear="all" /> -->

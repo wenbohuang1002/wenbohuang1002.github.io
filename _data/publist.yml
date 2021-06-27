@@ -1,7 +1,7 @@
 - title: The Convolutional Neural Networks Training with Channel-Selectivity for Human Activity Recognition Based on Sensors
   image: 19_JBHI_SC.png
   description: We use the Channel-selectivity method to greatly improve the classification accuracy of the sensor signals by CNN without increasing the parameters.
-  authors: Wenbo Huang , Lei Zhang*, Qi Teng, Chaoda song and Jun He
+  authors: Wenbo Huang , Lei Zhang*, Qi Teng, Chaoda Song and Jun He
   venue: JBHI 21
   number_link: 4
   link1:

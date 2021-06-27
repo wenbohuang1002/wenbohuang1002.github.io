@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: gridlay
-excerpt: "Shuguang Dou"
+excerpt: "Wenbo Huang"
 sitemap: false
 permalink: /allnews.html
 ---

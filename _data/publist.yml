@@ -20,7 +20,7 @@
 - title: Shallow Convolutional Neural Networks for Human Activity Recognition using Wearable Sensors
   image: 21_TIM_C3.png
   description: We pay more attention to Cross-channel-communication and apply it on CNN. This methods can make shallow CNNs have a similar performance with deep CNNs when classify sensor singal.
-  authors: Wenbo Huang, Lei Zhang*, Wenbin Gao , Fuhong Min, Jun He
+  authors: Wenbo Huang, Lei Zhang*, Wenbin Gao , Fuhong Min and Jun He
   venue: TIM 21
   number_link: 4
   link1:

@@ -11,7 +11,7 @@ permalink: /
 <div class="row">
 
 <div class="col-sm-8">
-I am currently pursuing the Master's degree of Nanjing Normal University. My research interests are machine leraning, deep learning.
+I am currently pursuing the Master's degree of Nanjing Normal University. My research interests are machine learning, deep learning.
 
 ### CV
 You can download my CV at [here](https://shuguang-52.github.io/papers/CV_E.pdf), CV (Chinese Version) at [here](https://shuguang-52.github.io/papers/CV_C.pdf)

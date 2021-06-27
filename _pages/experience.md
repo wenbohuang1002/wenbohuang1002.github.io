@@ -17,8 +17,7 @@ permalink: /experience
 
 <p>Master degree in Control Science and engineering</p>
 
-<p>Advisor: [A.P. Lei Zhang](http://d.njnu.edu.cn/person/3288.html) </p>
-<a href="http://d.njnu.edu.cn/research-area/3205.html">Institute of Infirmation and Control Technologies</a> <br>
+<p>Advisor: <a href="http://d.njnu.edu.cn/person/3288.html">A.P. Lei Zhang</a> </p>
 
 <p>&nbsp;</p>
 

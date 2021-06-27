@@ -1,12 +1,3 @@
-- date: April 15, 2021
-  headline:  <a href="https://github.com/Vill-Lab/IGOAS">Code</a> for 'Incremental Generative Occlusion Adversarial Suppression Network for Person ReID' is released.
-
-- date: April 14, 2021
-  headline: A paper on 'Incremental Generative Occlusion Adversarial Suppression Network for Person ReID' is accepted by IEEE TIP.
-  
-- date: July 31, 2019
-  headline: <a href="https://github.com/shuguang-52/AUSSC">Code</a> for'Alternately Updated Spectral–Spatial Convolution Network for the Classification of Hyperspectral Images' is released.
-
 - date: June 27, 2021
   headline: My homepage wenbohuang1002.github.io is created.
 
@@ -16,3 +7,5 @@
 - date: June 15, 2021
   headline: A paper on 'Shallow Convolutional Neural Networks for Human Activity Recognition using Wearable Sensors' is accepted by IEEE TIM.
 
+- date: December 18, 2020
+  headline:  <a href="https://github.com/wenbohuang1002/SC-CNN-For-HAR">Code</a> for Actual Test APP of SC is released.

@@ -17,7 +17,7 @@ permalink: /experience
 
 <p>Master degree in Control Science and engineering</p>
 
-<p>Advisor: A.P. Lei Zhang </p>
+<p>Advisor: [A.P. Lei Zhang](http://d.njnu.edu.cn/person/3288.html) </p>
 
 <p>&nbsp;</p>
 

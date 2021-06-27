@@ -1,0 +1,20 @@
+---
+title: "Wenbo Huang - Codes"
+layout: gridlay
+excerpt: "Wenbo Huang: Codes"
+sitemap: false
+permalink: /codes
+---
+
+## Codes
+
+<p>The following are all public codes related to our research work:</p>
+
+<ul>
+	<li>A fast dense spectral-spatial convolutional netwrok framework for hyperspectral image classification - [<a href="https://github.com/shuguang-52/FDSSC">Code</a>(github)]</li>
+	<li>Alternately Updated Spectral–Spatial Convolution Network for the Classification of Hyperspectral Images - [<a href="https://github.com/shuguang-52/AUSSC">Code</a>(github)]</li>
+	<li>Incremental Generative Occlusion Adversarial Suppression Network for Person ReID - [<a href="https://github.com/Vill-Lab/IGOAS">Code</a>(github)]</li>
+	
+</ul>
+
+<p>&nbsp;</p>

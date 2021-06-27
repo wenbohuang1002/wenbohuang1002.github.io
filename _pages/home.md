@@ -11,10 +11,10 @@ permalink: /
 <div class="row">
 
 <div class="col-sm-8">
-I am currently pursuing the Master's degree of Nanjing Normal University. My research interests are machine learning, deep learning.
+I am currently pursuing the Master's degree of Nanjing Normal University. My research interests are machine learning, deep learning and Human activity recognition.
 
 ### CV
-You can download my [CV (In English)](https://wenbohuang1002.github.io/wenbohuang1002/papers/CV_E.pdf) and [CV (In Chinese)](https://wenbohuang1002.github.io/wenbohuang1002/papers/CV_C.pdf)
+You can download my [CV (In English)](https://wenbohuang1002.github.io/wenbohuang1002/papers/CV_E.pdf) and [CV (In Chinese)](https://wenbohuang1002.github.io/wenbohuang1002/papers/CV_C.pdf).
 
 ### News
 {% for article in site.data.news limit:8 %}

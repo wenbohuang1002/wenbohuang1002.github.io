@@ -14,7 +14,7 @@ permalink: /
 I am currently pursuing the Master's degree of Nanjing Normal University. My research interests are machine learning, deep learning and Human activity recognition.
 
 ### CV
-You can download my [CV (In English)](https://wenbohuang1002.github.io/wenbohuang1002/papers/CV_E.pdf) and [CV (In Chinese)](https://wenbohuang1002.github.io/wenbohuang1002/papers/CV_C.pdf).
+You can download my [CV (In English)](https://wenbohuang1002.github.io/papers/CV_E.pdf) and [CV (In Chinese)](https://wenbohuang1002.github.io/papers/CV_C.pdf).
 
 ### News
 {% for article in site.data.news limit:8 %}
@@ -28,7 +28,7 @@ You can download my [CV (In English)](https://wenbohuang1002.github.io/wenbohuan
 <div class="col-sm-4" style="display:table-cell; vertical-align:middle; text-align:center">
 
   <ul style="overflow: hidden">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/admin.jpg" class="img-responsive" width="100%" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/adminX.jpg" class="img-responsive" width="100%" />
   </ul>
 
   <!-- <br clear="all" /> -->

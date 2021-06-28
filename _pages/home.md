@@ -11,8 +11,8 @@ permalink: /
 <div class="row">
 
 <div class="col-sm-8">
-I am currently pursuing the Master's degree of Nanjing Normal University. My research interests are machine learning, deep learning and Human activity recognition.
-
+I am currently pursuing the Master's degree of Nanjing Normal University. My research interests are Machine Learning, Deep Learning and Human Activity Recognition.  
+  
 ### CV
 You can download my [CV (In English)](https://wenbohuang1002.github.io/papers/CV_E.pdf) and [CV (In Chinese)](https://wenbohuang1002.github.io/papers/CV_C.pdf).
 
@@ -39,7 +39,8 @@ You can download my [CV (In English)](https://wenbohuang1002.github.io/papers/CV
   <a href="http://d.njnu.edu.cn/">School of Electric and Autumation Engineerning</a> <br>
   <a href="http://www.njnu.edu.cn/">Nanjing Normal University</a> <br>
   Nanjing, Jiangsu, China.<br>
-  Email: <a href="mailto:wenbohuang1002@outlook.com">wenbohuang1002@outlook.com</a> <br>
+  E-mail: <a href="mailto:wenbohuang1002@outlook.com">wenbohuang1002@outlook.com</a> <br>
+  Github: <a href="https://github.com/wenbohuang1002">https://github.com/wenbohuang1002</a> <br>
 
 
 </div>

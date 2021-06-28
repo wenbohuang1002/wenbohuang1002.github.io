@@ -41,8 +41,8 @@ You can download my [CV (In English)](https://wenbohuang1002.github.io/papers/CV
   Nanjing, Jiangsu, China.<br>  
   E-mail: <a href="mailto:wenbohuang1002@outlook.com">wenbohuang1002@outlook.com</a> or <a href="mailto:191802024@njnu.edu.cn">191802024@njnu.edu.cn</a><br>  
   Github: <a href="wenbohuang1002">https://github.com/wenbohuang1002</a> <br>  
-  ORCID: <a href="0000-0002-6664-1172">https://orcid.org/0000-0002-6664-1172</a> <br>  
-  ResearchGate: <a href="Wenbo-Huang-9">https://www.researchgate.net/profile/Wenbo-Huang-9</a> <br>
+  ORCID: 0000-0002-6664-1172 <br>
+  ResearchGate: Wenbo-Huang-9 <br>
 
 
 </div>

@@ -40,7 +40,7 @@ You can download my [CV (In English)](https://wenbohuang1002.github.io/papers/CV
   <a href="http://www.njnu.edu.cn/">Nanjing Normal University</a> <br>
   Nanjing, Jiangsu, China.<br>
   E-mail: <a href="mailto:wenbohuang1002@outlook.com">wenbohuang1002@outlook.com</a> <br>
-  Github: <a href="https://github.com/wenbohuang1002">https://github.com/wenbohuang1002</a> <br>
+  Github: <a href="wenbohuang1002">https://github.com/wenbohuang1002</a> <br>
 
 
 </div>

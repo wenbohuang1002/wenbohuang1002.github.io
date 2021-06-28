@@ -35,12 +35,12 @@ You can download my [CV (In English)](https://wenbohuang1002.github.io/papers/CV
 
   Wenbo Huang (黄文博)<br>
   401, Qi Ming Building.<br>
-  <a href="http://d.njnu.edu.cn/research-area/3205.html">Institute of Infirmation and Control Technologies</a> <br>  
-  <a href="http://d.njnu.edu.cn/">School of Electric and Autumation Engineerning</a> <br>  
-  <a href="http://www.njnu.edu.cn/">Nanjing Normal University</a> <br>  
-  Nanjing, Jiangsu, China.<br>  
-  E-mail: <a href="mailto:wenbohuang1002@outlook.com">wenbohuang1002@outlook.com</a> or <a href="mailto:191802024@njnu.edu.cn">191802024@njnu.edu.cn</a><br>  
-  Github: wenbohuang1002 <br>  
+  <a href="http://d.njnu.edu.cn/research-area/3205.html">Institute of Infirmation and Control Technologies</a> <br>
+  <a href="http://d.njnu.edu.cn/">School of Electric and Autumation Engineerning</a> <br>
+  <a href="http://www.njnu.edu.cn/">Nanjing Normal University</a> <br>
+  Nanjing, Jiangsu, China.<br>
+  E-mail: <a href="mailto:wenbohuang1002@outlook.com">wenbohuang1002@outlook.com</a> or <a href="mailto:191802024@njnu.edu.cn">191802024@njnu.edu.cn</a><br>
+  Github: wenbohuang1002 <br> 
   ORCID: 0000-0002-6664-1172 <br>
   ResearchGate: Wenbo-Huang-9 <br>
 

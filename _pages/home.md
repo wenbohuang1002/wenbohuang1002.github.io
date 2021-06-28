@@ -39,7 +39,7 @@ You can download my [CV (In English)](https://wenbohuang1002.github.io/wenbohuan
   <a href="http://d.njnu.edu.cn/">School of Electric and Autumation Engineerning</a> <br>
   <a href="http://www.njnu.edu.cn/">Nanjing Normal University</a> <br>
   Nanjing, Jiangsu, China.<br>
-  Email: <a href="mailto:wenbohuang1002@outlook.com">wenohuang1002@outlook.com</a> <br>
+  Email: <a href="mailto:wenbohuang1002@outlook.com">wenbohuang1002@outlook.com</a> <br>
 
 
 </div>

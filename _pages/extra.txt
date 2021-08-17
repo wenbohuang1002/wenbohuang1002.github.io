@@ -1,0 +1,34 @@
+<div style="width: 14%; float: left; min-width: 9em;">
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/fuhongmin.jpg"/>
+<p style="text-align: center;"> <a href="http://d.njnu.edu.cn/person/3245.html">Fuhong Min</a><br />Professor<br />NJNU</p>
+</div>
+
+<div style="width: 14%; float: left; min-width: 9em;">
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/yintang.jpg"/>
+<p style="text-align: center;"> <a href="https://github.com/yinntag">Yin Tang</a><br />Master Student<br />NJNU</p>
+</div>
+
+<div style="width: 14%; float: left; min-width: 9em;">
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/wenbingao.jpg"/>
+<p style="text-align: center;"> <a href="https://github.com/tengqi159">Wenbin Gao</a><br />Master Student<br />NJNU</p>
+</div>
+
+<div style="width: 14%; float: left; min-width: 9em;">
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/xingwang.jpg"/>
+<p style="text-align: center;"> <a href=" ">Xing Wang</a><br />Master Student<br />NJNU</p>
+</div>
+
+<div style="width: 14%; float: left; min-width: 9em;">
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/shigexu.jpg"/>
+<p style="text-align: center;"> <a href="https://github.com/xushige">Shige Xu</a><br />Master Student<br />NJNU</p>
+</div>
+
+<div style="width: 14%; float: left; min-width: 9em;">
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/chaoleihan.jpg"/>
+<p style="text-align: center;"> <a href="https://github.com/Chaolei98">Chaolei Han</a><br />Master Student<br />NJNU</p>
+</div>
+
+<div style="width: 14%; float: left; min-width: 9em;">
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/shuoyuanwang.jpg"/>
+<p style="text-align: center;"> <a href="https://github.com/Clayden-Wang">Shuoyuan Wang</a><br />Bachelor Student<br />NJNU</p>
+</div>

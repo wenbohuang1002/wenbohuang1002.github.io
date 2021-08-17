@@ -1,13 +1,13 @@
 ---
-title: "Wenbo Huang - Publications"
+title: "Wenbo Huang (黄文博) - Publications"
 layout: gridlay
 excerpt: "Wenbo Huang -- Publications."
 sitemap: false
-permalink: /publications/
+permalink: /publications
 ---
 
 
-### Publications/Reports
+## Publications
 
 {% for publi in site.data.publist %}
 
@@ -22,45 +22,48 @@ permalink: /publications/
  <p><em>{{ publi.authors }}</em></p>
 
  <p>{{ publi.venue }}</p>
+ 
+ <p>{{ publi.name }}</p>
+ 
+ <p>{{ publi.DOI }}</p>
 
  {% if publi.number_link == 1 %}
- <p><a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a></p>
+ <p>[<a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>]</p>
  {% endif %}
 
  {% if publi.number_link == 2 %}
- <p><a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>
- /
- <a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a></p>
+ <p>[<a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>]
+ [<a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>]</p>
  {% endif %}
 
  {% if publi.number_link == 3 %}
- <p><a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>
- /
- <a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>
- /
- <a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a></p>
+ <p>[<a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>]
+ [<a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>]
+ [<a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>]</p>
  {% endif %}
 
  {% if publi.number_link == 4 %}
- <p><a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>
- /
- <a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>
- /
- <a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>
- /
- <a href="{{ publi.link4.url }}">{{ publi.link4.display }}</a></p>
+ <p>[<a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>]
+ [<a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>]
+ [<a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>]
+ [<a href="{{ publi.link4.url }}">{{ publi.link4.display }}</a>]</p>
  {% endif %}
 
  {% if publi.number_link == 5 %}
- <p><a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>
- /
- <a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>
- /
- <a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>
- /
- <a href="{{ publi.link4.url }}">{{ publi.link4.display }}</a>
- /
- <a href="{{ publi.link5.url }}">{{ publi.link5.display }}</a></p>
+ <p>[<a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>]
+ [<a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>]
+ [<a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>]
+ [<a href="{{ publi.link4.url }}">{{ publi.link4.display }}</a>]
+ [<a href="{{ publi.link5.url }}">{{ publi.link5.display }}</a>]</p>
+ {% endif %}
+
+ {% if publi.number_link == 6 %}
+ <p>[<a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>]
+ [<a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>]
+ [<a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>]
+ [<a href="{{ publi.link4.url }}">{{ publi.link4.display }}</a>]
+ [<a href="{{ publi.link5.url }}">{{ publi.link5.display }}</a>]
+ [<a href="{{ publi.link6.url }}">{{ publi.link6.display }}</a>]</p>
  {% endif %}
 
  </div>
@@ -71,7 +74,7 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-### Theses
+## Theses
 
 {% for publi in site.data.theseslist limit:6 %}
 
@@ -86,49 +89,53 @@ permalink: /publications/
  <p><em>{{ publi.authors }}</em></p>
 
  <p>{{ publi.venue }}</p>
+ 
+ <p>{{ publi.name }}</p>
+ 
+ <p>{{ publi.DOI }}</p>
 
  {% if publi.number_link == 1 %}
- <p><a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a></p>
+ <p>[<a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>]</p>
  {% endif %}
 
  {% if publi.number_link == 2 %}
- <p><a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>
- /
- <a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a></p>
+ <p>[<a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>]
+ [<a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>]</p>
  {% endif %}
 
  {% if publi.number_link == 3 %}
- <p><a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>
- /
- <a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>
- /
- <a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a></p>
+ <p>[<a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>]
+ [<a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>]
+ [<a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>]</p>
  {% endif %}
 
  {% if publi.number_link == 4 %}
- <p><a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>
- /
- <a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>
- /
- <a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>
- /
- <a href="{{ publi.link4.url }}">{{ publi.link4.display }}</a></p>
+ <p>[<a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>]
+ [<a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>]
+ [<a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>]
+ [<a href="{{ publi.link4.url }}">{{ publi.link4.display }}</a>]</p>
  {% endif %}
 
  {% if publi.number_link == 5 %}
- <p><a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>
- /
- <a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>
- /
- <a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>
- /
- <a href="{{ publi.link4.url }}">{{ publi.link4.display }}</a>
- /
- <a href="{{ publi.link5.url }}">{{ publi.link5.display }}</a></p>
+ <p>[<a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>]
+ [<a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>]
+ [<a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>]
+ [<a href="{{ publi.link4.url }}">{{ publi.link4.display }}</a>]
+ [<a href="{{ publi.link5.url }}">{{ publi.link5.display }}</a>]</p>
+ {% endif %}
+
+ {% if publi.number_link == 6 %}
+ <p>[<a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>]
+ [<a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>]
+ [<a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>]
+ [<a href="{{ publi.link4.url }}">{{ publi.link4.display }}</a>]
+ [<a href="{{ publi.link5.url }}">{{ publi.link5.display }}</a>]
+ [<a href="{{ publi.link6.url }}">{{ publi.link6.display }}</a>]</p>
  {% endif %}
 
  </div>
 </div>
+
 
 {% endfor %}
 

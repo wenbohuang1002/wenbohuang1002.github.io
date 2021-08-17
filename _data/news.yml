@@ -1,14 +1,41 @@
+# - date: October 12, 2021
+#   headline: As a <font color="red">Chinese</font>, I uninstalled and boycotted the bad editor <del>Notepad++</del> due to its anti-China comments, I recommend to use the excellent editor  <a href="https://dcloud.io/hbuilderx.html">HBuilder X</a> instead.
+
+- date: October 10, 2021
+  headline: <a href="https://github.com/wenbohuang1002/-IEEE-TIM-2021-1-Shallow-CNN-for-HAR">Code</a> for paper <a href="https://wenbohuang1002.github.io/papers/Huang-2021-Shallow-convolutional-neural-networ.pdf">'Shallow Convolutional Neural Networks for Human Activity Recognition using Wearable Sensors'</a> is released
+
+- date: October 8, 2021
+  headline: I have built the Organization <a href="https://github.com/Xero-H">Xero (Github Public Repositories)</a>. I will synchronizedly upload our code on it.
+  
+# - date: August 25, 2021
+#   headline: I have registered an ID on <a href="https://publons.com/">Publons</a>. I have also released my ID. 
+
+# - date: August 21, 2021
+#   headline: I have an idea that we can transform our codes into <a href="https://cg.cs.tsinghua.edu.cn/jittor/">Jittor (计图)</a>. The domestic programming ecosystem needs our support. 
+
+# - date: August 20, 2021
+#   headline: I have registered an ID on <a href="https://www.koushare.com/">KouShare (蔻享)</a>. I will also release my codes on this platform. 
+
+# - date: August 18, 2021
+#   headline: My partners are revealed in my homepage. I strongly support Prof. Mingming Cheng's <a href="https://mmcheng.net/docx/">'DOCX' advocacy (开放共享科研记录行动倡议)</a>.
+
+# - date: August 17, 2021
+#   headline: My master thesis 'Research on Mutiple-Channel Convolutional Neural Network based Human Activity Recognition' is released. Today is also my father's 53th birthday. Happy Birthday, my dear father!
+  
+- date: July 23, 2021
+  headline: A paper on <a href="https://wenbohuang1002.github.io/papers/10.1109_tim.2021.3102735.pdf">'Deep Neural Networks for Sensor-Based Human Activity Recognition Using Selective Kernel Convolution'</a> is accepted by IEEE Transactions on Instrumentation and Measurement (IEEE TIM).
+  
 - date: July 1, 2021
-  headline:  <a href="https://github.com/wenbohuang1002/-IEEE-JBHI-2021-Channel-Selectivity-CNN-for-HAR">Code</a> for paper 'The convolutional neural networks training with Channel-Selectivity for human activity recognition based on sensors' is released
+  headline:  <a href="https://github.com/wenbohuang1002/-IEEE-JBHI-2021-Channel-Selectivity-CNN-for-HAR">Code</a> for paper <a href="https://wenbohuang1002.github.io/papers/Huang-2021-The-convolutional-neural-networks-t.pdf">'The Convolutional Neural Networks Training with Channel-Selectivity for Human Activity Recognition Based on Sensors'</a> is released
 
 - date: June 27, 2021
-  headline: My homepage wenbohuang1002.github.io is created.
+  headline: My homepage <a href="https://wenbohuang1002.github.io">wenbohuang1002.github.io</a> is created.
 
 - date: June 22, 2021
-  headline: A paper on 'The Convolutional Neural Networks Training with Channel-Selectivity for Human Activity Recognition Based on Sensors' is accepted by IEEE JBHI.
+  headline: A paper on <a href="https://wenbohuang1002.github.io/papers/Huang-2021-The-convolutional-neural-networks-t.pdf">'The Convolutional Neural Networks Training with Channel-Selectivity for Human Activity Recognition Based on Sensors'</a> is accepted by IEEE Journal of Biomedical and Health Informatics (IEEE JBHI, Old Name：IEEE Transactions on Information Technology in Biomedicine, IEEE TITB).
 
 - date: June 15, 2021
-  headline: A paper on 'Shallow Convolutional Neural Networks for Human Activity Recognition using Wearable Sensors' is accepted by IEEE TIM.
+  headline: A paper on <a href="https://wenbohuang1002.github.io/papers/Huang-2021-Shallow-convolutional-neural-networ.pdf">'Shallow Convolutional Neural Networks for Human Activity Recognition using Wearable Sensors'</a> is accepted by IEEE Transactions on Instrumentation and Measurement (IEEE TIM).
 
 - date: December 18, 2020
   headline:  <a href="https://github.com/wenbohuang1002/SC-CNN-For-HAR">Code</a> for Actual Test APP of SC is released.

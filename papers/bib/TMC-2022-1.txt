@@ -1,0 +1,7 @@
+@article{huang2022channel,
+  title={Channel-Equalization-HAR: A Light-weight Convolutional Neural Network for Wearable Sensor Based Human Activity Recognition},
+  author={Huang, Wenbo and Zhang, Lei and Wu, Hao and Min, Fuhong and Song, Aiguo},
+  journal={IEEE Transactions on Mobile Computing},
+  year={2022},
+  publisher={IEEE}
+}

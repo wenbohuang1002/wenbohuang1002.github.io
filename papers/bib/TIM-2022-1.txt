@@ -1,0 +1,9 @@
+@article{xu2022deformable,
+  title={Deformable Convolutional Networks for Multimodal Human Activity Recognition Using Wearable Sensors},
+  author={Xu, Shige and Zhang, Lei and Huang, Wenbo and Wu, Hao and Song, Aiguo},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  volume={71},
+  pages={1--14},
+  year={2022},
+  publisher={IEEE}
+}

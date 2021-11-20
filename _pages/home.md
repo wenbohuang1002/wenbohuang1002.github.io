@@ -11,29 +11,34 @@ permalink: /
 <div class="row">
 <div class="col-sm-8">
 
-### <strong>About Me</strong>
+### **About <font color="#00d1ff">Me</font>**
 <!-- <a href ="https://wenbohuang1002.github.io/allnews"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/Eagle.png" class="img-responsive" width="35%"  /> </a> -->
-I was a <del>script kiddie</del> and received the B.S. degree from <a href="http://www.njtech.edu.cn/">Nanjing Tech University</a>, Nanjing, China, in 2019. I am currently 
-pursuing the M.S degree of <a href="http://www.njnu.edu.cn/">Nanjing Normal University</a>, Nanjing, China. I am looking for a passionate research group to sutdy for Ph.D.
+I come from Nanjing, Jiangsu, China, where is known as 'Capital of Six Dynasties' and 'City of Stone'. I was a <del>script kiddie</del> and received the 
+B.S. degree from <a href="http://www.njtech.edu.cn/" target="_blank">Nanjing Tech University</a>, Nanjing, China, in 2019. I received the M.S degree with the supervision by <a href="http://leizhangnjnu.github.io">A.P Lei Zhang</a> 
+from <a href="http://www.njnu.edu.cn/" target="_blank">Nanjing Normal University</a>, Nanjing, China, in 2022. Now I am a Ph.D student and pursuing my degree in
+<a href="http://palm.seu.edu.cn/" target="_blank">PAttern Learning and Mining (PALM) Lab</a>, <a href="https://cse.seu.edu.cn/" target="_blank">School of Computer Science and Engineering</a>, <a href="https://www.seu.edu.cn/">Southeast University</a>,
+Nanjing, China, under the supervision by <a href="http://palm.seu.edu.cn/hxue/" target="_blank">Prof. Hui Xue</a>. 
 <br>
-My research interests including Machine Learning, Deep Learning, Computer Vision and Human Activity Recognition. My advisor is <a href="http://d.njnu.edu.cn/person/3288.html">A.P Lei Zhang</a> now. 
-By the way, I must express my gratitude to <a href="https://sci-hub.se/alexandra">Alexandra Elbakyan</a>. The website built by her helps me much on paper writing and search.
-Everyone can find the papers they need <a href="https://sci-hub.st/">here [Sci-Hub]</a>.
+My research interests including Ubiquitous Computing and Machine Learning.
+<!-- By the way, I must express my gratitude to <a href="https://sci-hub.se/alexandra">Alexandra Elbakyan</a>. The website built by her helps me much on paper writing and search.
+Everyone can find the papers they need <a href="https://sci-hub.st/">here [Sci-Hub]</a>. -->
 <br>
-→ <font color="white">The Homepage is designed under my self-righteous aesthetics</font> ← <br>
+
+### **Notice**
+在尝试联系我前请阅读这个<a href="https://wenbohuang1002.github.io/document">文档</a>。
 <!-- <del>Select the part inside the arrow to reveal the hidden content.</del> -->
 
 <!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=128&d=Xit1o4P9tPO4V5F-vf13Il6mKflR-sERYSPiKcWoLcM"></script> -->
 
-<!-- ### <strong>Skills & Hobbies (Sort by Proficiency)</strong>
+<!-- ### **Skills & Hobbies (Sort by Proficiency)**
 
-#### <strong>Skills</strong>
+#### **Skills**
 * Languages
     - Python (PyTorch, Jittor, Keras, TensorFlow).
 	- C#, LaTeX.
 	- SQL, Kotlin.
 
-#### <strong>Hobbies</strong>
+#### **Hobbies**
 * Sports
     - Cycling.
 	- Rope Skipping.
@@ -44,9 +49,9 @@ Everyone can find the papers they need <a href="https://sci-hub.st/">here [Sci-H
 	- Drawing. -->
 
 
-### <strong>CV</strong>
-You can download my latest [CV (English Version)](https://wenbohuang1002.github.io/papers/Wenbo Huang's CV.pdf) and [CV (Chinese Version)](https://wenbohuang1002.github.io/papers/黄文博的简历.pdf).<br>
-CV was last updated on October 25, 2021.<br>
+### **CV**
+You can download my latest CV (<a href="https://wenbohuang1002.github.io/papers/resume/Wenbo Huang's CV.pdf" target="_blank">English Version</a> and <a href="https://wenbohuang1002.github.io/papers/resume/黄文博的简历.pdf" target="_blank">Chinese Version</a>).<br>
+CV was last updated on 2022.7.22.<br>
 <!-- <pre>
                             CV was last updated on October 25, 2021.
 　　　　　／＞＿＿＿フ       
@@ -56,36 +61,39 @@ CV was last updated on October 25, 2021.<br>
 　　　 /　 ヽ　　 ﾉ
 　 　 │　　|　|　|
 　／￣|　　 |　|　|
-　| (￣ヽ＿_ヽ_)__) 
+　| (￣ヽ＿_ヽ_)__)
 　＼二つ
 </pre> -->
 
-### <strong>News</strong>
+### **News** 
 {% for article in site.data.news limit:8 %}
 {{ article.date }} :
 <em>{{ article.headline }}</em>
+{{article.news}}
+{{article.hot}}
 {% endfor %}
-#### <a href="{{ site.url }}{{ site.baseurl }}/allnews">[See All News]</a>
-#### <a href="#top">[Go Back to Top]</a>
+
+#### <a href="{{ site.url }}{{ site.baseurl }}/allnews" class="btn-xs btn-success">See All News</a>
+#### <a href="#top" class="btn-xs btn-primary">Go Back to Top</a>
 
 </div>
 
 <div class="col-sm-4" style="display:table-cell; vertical-align:middle; text-align:center">
 
   <ul style="overflow: hidden">
-  <a href ="{{ site.url }}{{ site.baseurl }}/experience"> <img src="{{ site.url }}{{ site.baseurl }}/images/adminR.jpg" class="img-responsive" width="100%" /></a>
+  <a href ="{{ site.url }}{{ site.baseurl }}/experience"> <img src="{{ site.url }}{{ site.baseurl }}/images/pages/adminRR.jpg" class="img-responsive" width="100%" alt="我自己"/></a>
   </ul>
 
   <!-- <br clear="all" /> -->
 
   Wenbo Huang (黄文博)<br>  
-  401, Qi Ming Building (<a href="https://j.map.baidu.com/f3/pAk">Maps</a>).<br>  
-  <a href="http://d.njnu.edu.cn/research-area/3205.html">Institute of Infirmation and Control Technologies</a>  <br>  
-  <a href="http://d.njnu.edu.cn/">School of Electric and Autumation Engineerning</a> <br>  
-  <a href="http://www.njnu.edu.cn/">Nanjing Normal University</a> <br>  
+  211189, Computer Building, Jiulong Lake Campus (<a href="https://j.map.baidu.com/d6/Gugf">Maps</a>).<br>  
+  <a href="http://palm.seu.edu.cn/" target="_blank">PAttern Learning and Mining (PALM) Lab</a> <br>  
+  <a href="https://cse.seu.edu.cn/" target="_blank">School of Computer Science and Engineering</a> <br>  
+  <a href="http://www.seu.edu.cn/" target="_blank">Southeast University (SEU)</a> <br>  
   Nanjing, Jiangsu, China. <br>  
   <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=00acff&w=268&t=tt&d=Xit1o4P9tPO4V5F-vf13Il6mKflR-sERYSPiKcWoLcM&ct=000000&co=ffffff&cmo=f87d00&cmn=00ff10'></script>
-  <a href="{{ site.url }}{{ site.baseurl }}/treasures"><font color="white">All failures are my treasures.</font></a> <br>  
+  <!-- <a href="{{ site.url }}{{ site.baseurl }}/treasures"><font color="white">All failures are my treasures.</font></a> <br> --> 
 </div>
 
 </div>
@@ -93,7 +101,9 @@ CV was last updated on October 25, 2021.<br>
 
 <div class="col-sm-12">
 
-### <strong>Publications (<font color="red">Journal Papers</font> <font color="green">&</font> <font color="blue">Conference Papers</font>)</strong>
+### **Publications (<font color="red">Journal Papers</font> <font color="green">&</font> <font color="blue">Conference Papers</font>)**
+
+<!-- #### * means corresponding authors -->
 
 {% for publi in site.data.publist limit:100 %}
 
@@ -114,42 +124,42 @@ CV was last updated on October 25, 2021.<br>
  <p>{{ publi.DOI }}</p>
 
  {% if publi.number_link == 1 %}
- <p>[<a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>]</p>
+ <p><a href="{{ publi.link1.url }}" target="_blank" class="btn btn-default">{{ publi.link1.display }}</a>
  {% endif %}
-
+ 
  {% if publi.number_link == 2 %}
- <p>[<a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>]
- [<a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>]</p>
+ <p><a href="{{ publi.link1.url }}" target="_blank" class="btn btn-default">{{ publi.link1.display }}</a>
+ <a href="{{ publi.link2.url }}" target="_blank" class="btn btn-primary">{{ publi.link2.display }}</a></p>
  {% endif %}
-
+ 
  {% if publi.number_link == 3 %}
- <p>[<a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>]
- [<a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>]
- [<a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>]</p>
+ <p><a href="{{ publi.link1.url }}" target="_blank" class="btn btn-default">{{ publi.link1.display }}</a>
+ <a href="{{ publi.link2.url }}" target="_blank" class="btn btn-primary">{{ publi.link2.display }}</a>
+ <a href="{{ publi.link3.url }}" target="_blank" class="btn btn-success">{{ publi.link3.display }}</a></p>
  {% endif %}
-
+ 
  {% if publi.number_link == 4 %}
- <p>[<a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>]
- [<a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>]
- [<a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>]
- [<a href="{{ publi.link4.url }}">{{ publi.link4.display }}</a>]</p>
+ <p><a href="{{ publi.link1.url }}" target="_blank" class="btn btn-default">{{ publi.link1.display }}</a>
+ <a href="{{ publi.link2.url }}" target="_blank" class="btn btn-primary">{{ publi.link2.display }}</a>
+ <a href="{{ publi.link3.url }}" target="_blank" class="btn btn-success">{{ publi.link3.display }}</a>
+ <a href="{{ publi.link4.url }}" target="_blank" class="btn btn-info">{{ publi.link4.display }}</a></p>
  {% endif %}
-
+ 
  {% if publi.number_link == 5 %}
- <p>[<a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>]
- [<a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>]
- [<a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>]
- [<a href="{{ publi.link4.url }}">{{ publi.link4.display }}</a>]
- [<a href="{{ publi.link5.url }}">{{ publi.link5.display }}</a>]</p>
+ <p><a href="{{ publi.link1.url }}" target="_blank" class="btn btn-default">{{ publi.link1.display }}</a>
+ <a href="{{ publi.link2.url }}" target="_blank" class="btn btn-primary">{{ publi.link2.display }}</a>
+ <a href="{{ publi.link3.url }}" target="_blank" class="btn btn-success">{{ publi.link3.display }}</a>
+ <a href="{{ publi.link4.url }}" target="_blank" class="btn btn-info">{{ publi.link4.display }}</a>
+ <a href="{{ publi.link5.url }}" target="_blank" class="btn btn-warning">{{ publi.link5.display }}</a></p>
  {% endif %}
-
+ 
  {% if publi.number_link == 6 %}
- <p>[<a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>]
- [<a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>]
- [<a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>]
- [<a href="{{ publi.link4.url }}">{{ publi.link4.display }}</a>]
- [<a href="{{ publi.link5.url }}">{{ publi.link5.display }}</a>]
- [<a href="{{ publi.link6.url }}">{{ publi.link6.display }}</a>]</p>
+ <p><a href="{{ publi.link1.url }}" target="_blank" class="btn btn-default">{{ publi.link1.display }}</a>
+ <a href="{{ publi.link2.url }}" target="_blank" class="btn btn-primary">{{ publi.link2.display }}</a>
+ <a href="{{ publi.link3.url }}" target="_blank" class="btn btn-success">{{ publi.link3.display }}</a>
+ <a href="{{ publi.link4.url }}" target="_blank" class="btn btn-info">{{ publi.link4.display }}</a>
+ <a href="{{ publi.link5.url }}" target="_blank" class="btn btn-warning">{{ publi.link5.display }}</a>
+ <a href="{{ publi.link6.url }}" target="_blank" class="btn btn-danger">{{ publi.link6.display }}</a></p>
  {% endif %}
 
  </div>
@@ -159,15 +169,15 @@ CV was last updated on October 25, 2021.<br>
 
 <br clear="all"/>
 
-#### <a href="{{ site.url }}{{ site.baseurl }}/publications">[See All Publications]</a>
+#### <a href="{{ site.url }}{{ site.baseurl }}/publications" class="btn-xs btn-success">See All Publications</a>
 
 </div>
 
 <div class="col-sm-12">
 
-#### <a href="#top">[Go Back to Top]</a>
+#### <a href="#top" class="btn-xs btn-primary">Go Back to Top</a>
 
-### <strong>Theses</strong>
+### **Theses**
 
 {% for publi in site.data.theseslist limit:6 %}
 
@@ -175,7 +185,7 @@ CV was last updated on October 25, 2021.<br>
  <div class="well">
  <pubtit>{{ publi.title }}</pubtit>
 
- <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="200px" style="float: left" />
+ <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="180px" style="float: left" />
 
  <p>{{ publi.description }}</p>
 
@@ -188,42 +198,42 @@ CV was last updated on October 25, 2021.<br>
  <p>{{ publi.DOI }}</p>
 
  {% if publi.number_link == 1 %}
- <p>[<a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>]</p>
+ <p><a href="{{ publi.link1.url }}" target="_blank" class="btn btn-default">{{ publi.link1.display }}</a>
  {% endif %}
-
+ 
  {% if publi.number_link == 2 %}
- <p>[<a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>]
- [<a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>]</p>
+ <p><a href="{{ publi.link1.url }}" target="_blank" class="btn btn-default">{{ publi.link1.display }}</a>
+ <a href="{{ publi.link2.url }}" target="_blank" class="btn btn-primary">{{ publi.link2.display }}</a></p>
  {% endif %}
-
+ 
  {% if publi.number_link == 3 %}
- <p>[<a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>]
- [<a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>]
- [<a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>]</p>
+ <p><a href="{{ publi.link1.url }}" target="_blank" class="btn btn-default">{{ publi.link1.display }}</a>
+ <a href="{{ publi.link2.url }}" target="_blank" class="btn btn-primary">{{ publi.link2.display }}</a>
+ <a href="{{ publi.link3.url }}" target="_blank" class="btn btn-success">{{ publi.link3.display }}</a></p>
  {% endif %}
-
+ 
  {% if publi.number_link == 4 %}
- <p>[<a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>]
- [<a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>]
- [<a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>]
- [<a href="{{ publi.link4.url }}">{{ publi.link4.display }}</a>]</p>
+ <p><a href="{{ publi.link1.url }}" target="_blank" class="btn btn-default">{{ publi.link1.display }}</a>
+ <a href="{{ publi.link2.url }}" target="_blank" class="btn btn-primary">{{ publi.link2.display }}</a>
+ <a href="{{ publi.link3.url }}" target="_blank" class="btn btn-success">{{ publi.link3.display }}</a>
+ <a href="{{ publi.link4.url }}" target="_blank" class="btn btn-info">{{ publi.link4.display }}</a></p>
  {% endif %}
-
+ 
  {% if publi.number_link == 5 %}
- <p>[<a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>]
- [<a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>]
- [<a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>]
- [<a href="{{ publi.link4.url }}">{{ publi.link4.display }}</a>]
- [<a href="{{ publi.link5.url }}">{{ publi.link5.display }}</a>]</p>
+ <p><a href="{{ publi.link1.url }}" target="_blank" class="btn btn-default">{{ publi.link1.display }}</a>
+ <a href="{{ publi.link2.url }}" target="_blank" class="btn btn-primary">{{ publi.link2.display }}</a>
+ <a href="{{ publi.link3.url }}" target="_blank" class="btn btn-success">{{ publi.link3.display }}</a>
+ <a href="{{ publi.link4.url }}" target="_blank" class="btn btn-info">{{ publi.link4.display }}</a>
+ <a href="{{ publi.link5.url }}" target="_blank" class="btn btn-warning">{{ publi.link5.display }}</a></p>
  {% endif %}
-
+ 
  {% if publi.number_link == 6 %}
- <p>[<a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>]
- [<a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>]
- [<a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>]
- [<a href="{{ publi.link4.url }}">{{ publi.link4.display }}</a>]
- [<a href="{{ publi.link5.url }}">{{ publi.link5.display }}</a>]
- [<a href="{{ publi.link6.url }}">{{ publi.link6.display }}</a>]</p>
+ <p><a href="{{ publi.link1.url }}" target="_blank" class="btn btn-default">{{ publi.link1.display }}</a>
+ <a href="{{ publi.link2.url }}" target="_blank" class="btn btn-primary">{{ publi.link2.display }}</a>
+ <a href="{{ publi.link3.url }}" target="_blank" class="btn btn-success">{{ publi.link3.display }}</a>
+ <a href="{{ publi.link4.url }}" target="_blank" class="btn btn-info">{{ publi.link4.display }}</a>
+ <a href="{{ publi.link5.url }}" target="_blank" class="btn btn-warning">{{ publi.link5.display }}</a>
+ <a href="{{ publi.link6.url }}" target="_blank" class="btn btn-danger">{{ publi.link6.display }}</a></p>
  {% endif %}
 
  </div>
@@ -235,77 +245,131 @@ CV was last updated on October 25, 2021.<br>
 
 </div>
 
-#### <a href="#top">[Go Back to Top]</a>
+#### <a href="#top" class="btn-xs btn-primary">Go Back to Top</a>
 
-### <strong>Academic Related</strong>
+### **Academic Related**
 
-#### <strong>Academic Service</strong>
-* <strong>Journal Reviewer</strong>
-    - <a href="https://www.mdpi.com/journal/sensors">MDPI Sensors</a>, 2021
+#### **Academic Service**
+* **Journal Reviewer**
+	- <a href="https://benthamscience.com/journals/current-computer-aided-drug-design">Current Computer-Aided Drug Design</a>, 2022.
+    - <a href="https://www.mdpi.com/journal/sensors">MDPI Sensors</a>, 2021.
 
-* <strong>Conference Reviewer</strong>
-    - I am working on it...
+* **Conference Reviewer**
+	- <a href="http://www.icctis.org/ ">International Conference on Computer Technology and Information Science (CITS 2023)</a>, 2023.
+    - <a href="http://www.csaeconf.org/">ACM The 6th International Conference on Computer Science and Application Engineering (CSAE 2022)</a>, 2022, <a href="https://wenbohuang1002.github.io/papers/CSAE2022 Certificate of Appreciation_Wenbo Huang.pdf">Certificate</a>.
+	- <a href="http://www.icoice.org/">International Conference on Optoelectronic Information and Computer Engineering (OCIE 2022)</a>, 2022.
+	
+* **Book Reviewer**
+    - Book entitled--'Digital Innovation Adoption: Architectural Recommendations and Security Solutions', 2022.
 
-#### <strong>Award & Honor</strong>
-* <strong>Competition</strong> 
-    - Provincial Third Prize, The 17th "Challenge Cup" National University Student Extracurricular Academic Science and 
-	Technology Works Competition "Science and Technology" Special Competition, 2021
+* **Teaching Activity**
+	- Teaching assistant of Edu-By: The Time of Robotics - Artificial Intelligence and Social Change (博雅课：机器人时代 - 人工智能与社会变革), Fall 2021, Nanjing Normal University.
+	- Teaching assistant of Artificial Intelligence and Big Data, Spring 2022, Nanjing Normal University.
+	- Security Administrator for the Institute of Information and Control Technologies, School of Electric and Autumation Engineerning, 2020-2021, Nanjing Normal University.
 
-* <strong>Scholarship</strong>
-    - National Scholarship for Postgraduate Students in 2021 (rank 1, total 65)
-	- First-class Academic Scholarship of Nanjing Normal University in 2021 (rank 6, total 65)
+#### **Award & Honor**
+* **Scholarship**
+    - National Scholarship for Postgraduate Students (rank 1, total 65), 2021, The Chinese Ministry of Education (MOE), <a href="https://wenbohuang1002.github.io/papers/2021national.pdf">Certificate No.SSY202120653</a>.
+	- First-class Academic Scholarship (rank 6, total 65), 2021, Nanjing Normal University.
+
+* **Competition** 
+    - Provincial Third Prize, The 17th 'Challenge Cup' National University Student Extracurricular Academic Science and 
+	Technology Works Competition 'Science and Technology' Special Competition, 2021, Jiangsu Province/Central Committee of the Communist Youth League/China Association for Science and Technology/The Chinese Ministry of Education (MOE)
+	/Chinese Academy of Social Sciences/National Federation of Students.
+
+* **Honor**
+	- Outstanding graduate, 2022, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/2022graduate.pdf">Certificate</a>.
+	- Outstanding postgraduate (rank 3, total 31), 2021, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/2021outstanding.pdf">Certificate</a>.
 
 
-#### <a href="#top">[Go Back to Top]</a>
+#### <a href="#top" class="btn-xs btn-primary">Go Back to Top</a>
 
-### <strong>Research Partners (Partial)</strong>
-
-#### <strong>Research Advisors</strong>
+### **Research Partners (Partial)**
+<!-- <div style="clear:both"></div> 每六个人后便需要加这句 -->
+#### **Supervisors**
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/leizhang.jpg"/>
-<p style="text-align: center;"> <a href="http://d.njnu.edu.cn/person/3288.html">Lei Zhang</a><br />Associate Professor<br />NNU</p>
+<p style="text-align: center;"> <a href="http://leizhangnjnu.github.io">Lei Zhang</a></p>
 </div>
 
+<div style="clear:both"></div>
+
+#### **Instructors**
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/junhe.jpg"/>
-<p style="text-align: center;"> <a href="https://sites.google.com/site/hejunzz/">Jun He</a><br />Associate Professor<br />NUIST</p>
+<p style="text-align: center;"> <a href="https://sites.google.com/site/hejunzz/">Jun He</a></p>
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/haowu.jpg"/>
-<p style="text-align: center;"> <a href="http://www.ise.ynu.edu.cn/teacher/805">Hao Wu</a><br />Associate Professor<br />YNU</p>
+<p style="text-align: center;"> <a href="https://www.researchgate.net/profile/Hao-Wu-19">Hao Wu</a></p>
 </div>
+
+<!-- <div style="width: 14%; float: left; min-width: 9em;">
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/fuhongmin.jpg"/>
+<p style="text-align: center;"> <a href="https://www.researchgate.net/profile/Fuhong-Min">Fuhong Min</a></p>
+</div> -->
 
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/aiguosong.jpg"/>
-<p style="text-align: center;"> <a href="https://scholar.google.com/citations?hl=zh-CN&user=RjQ5TrEAAAAJ">Aiguo Song</a><br />Professor<br />SEU</p>
+<p style="text-align: center;"> <a href="https://scholar.google.com/citations?hl=zh-CN&user=RjQ5TrEAAAAJ">Aiguo Song</a></p>
 </div>
 
 <div style="clear:both"></div>
 
-#### <strong>Schoolmates</strong>
+#### **Friends**
 
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/qiteng.jpg"/>
-<p style="text-align: center;"> <a href="https://github.com/tengqi159">Qi Teng</a><br />Ph.D Student<br />NJU</p>
+<p style="text-align: center;"> <a href="https://github.com/tengqi159">Qi Teng</a></p>
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/kunwang.jpg"/>
-<p style="text-align: center;"> <a href="https://github.com/KennCoder7">Kun Wang (Kenn)</a><br />Ph.D Student<br />SEU</p>
+<p style="text-align: center;"> <a href="https://github.com/KennCoder7">Kun Wang</a></p>
 </div>
+
+<!-- <div style="width: 14%; float: left; min-width: 9em;">
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/zhenyuwang.jpg"/>
+<p style="text-align: center;"> <a href="https://github.com/Divine-w">Zhenyu Wang</a></p>
+</div> -->
 
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/yintang.jpg"/>
-<p style="text-align: center;"> <a href="https://yinntag.github.io/">Yin Tang</a><br />M.S Student<br />NNU</p>
+<p style="text-align: center;"> <a href="https://yinntag.github.io/">Yin Tang</a></p>
+</div>
+
+<!-- <div style="width: 14%; float: left; min-width: 9em;">
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/tianyiliu.jpg"/>
+<p style="text-align: center;"> <a href=" ">Tianyi Liu</a></p>
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/wenbingao.jpg"/>
+<p style="text-align: center;"> <a href="https://scholar.google.com/citations?user=ggPvJNgAAAAJ&hl=zh-CN">Wenbin Gao</a></p>
+</div> -->
+
+<div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/xingwang.jpg"/>
-<p style="text-align: center;"> <a href="https://github.com/Chauncey-Wang">Xing Wang</a><br />M.S Student<br />NNU</p>
+<p style="text-align: center;"> <a href="https://chauncey-wang.github.io/">Xing Wang</a></p>
 </div>
 
-<div style="clear:both"></div>
+<div style="width: 14%; float: left; min-width: 9em;">
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/chaoleihan1.jpg"/>
+<p style="text-align: center;"> <a href="https://chaolei98.github.io/">Chaolei Han</a></p>
+</div>
 
-#### <a href="#top">[Go Back to Top]</a>
+<div style="width: 14%; float: left; min-width: 9em;">
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/shuoyuanwang.jpg"/>
+<p style="text-align: center;"> <a href="https://claydon-wang.github.io/">Shuoyuan Wang</a></p>
+</div>
+
+<!-- <div style="width: 14%; float: left; min-width: 9em;">
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/zhixiangwang.jpg"/>
+<p style="text-align: center;"> <a href="https://claydon-wang.github.io/">Zhixiang Wang</a></p>
+</div> -->
+
+<div style="clear:both"></div> <!-- 每六个人后便需要加这句 -->
+
+#### <a href="#top" class="btn-xs btn-primary">Go Back to Top</a>
 

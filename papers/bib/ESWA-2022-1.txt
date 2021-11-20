@@ -1,0 +1,9 @@
+@article{han2022human,
+  title={Human activity recognition using wearable sensors by heterogeneous convolutional neural networks},
+  author={Han, Chaolei and Zhang, Lei and Tang, Yin and Huang, Wenbo and Min, Fuhong and He, Jun},
+  journal={Expert Systems with Applications},
+  volume={198},
+  pages={116764},
+  year={2022},
+  publisher={Elsevier}
+}

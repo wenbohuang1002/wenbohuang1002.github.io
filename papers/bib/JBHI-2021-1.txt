@@ -1,0 +1,10 @@
+@article{huang2021convolutional,
+  title={The convolutional neural networks training with channel-selectivity for human activity recognition based on sensors},
+  author={Huang, Wenbo and Zhang, Lei and Teng, Qi and Song, Chaoda and He, Jun},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  volume={25},
+  number={10},
+  pages={3834--3843},
+  year={2021},
+  publisher={IEEE}
+}

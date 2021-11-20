@@ -5,8 +5,8 @@ title: Wenbo Huang
 email: wenbohuang1002@outlook.com
 description: Homepage of Wenbo Huang
 baseurl: ""
-url: "https://wenbohuang1002.github.io/"
-repository: "wenbohuang1002/wenbohuang1002.github.io"
+url: "https://wenbohuang1002X.github.io/"
+repository: "wenbohuang1002X/wenbohuang1002X.github.io"
 
 include:
   - .htaccess

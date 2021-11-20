@@ -1,0 +1,9 @@
+@article{huang2021shallow,
+  title={Shallow convolutional neural networks for human activity recognition using wearable sensors},
+  author={Huang, Wenbo and Zhang, Lei and Gao, Wenbin and Min, Fuhong and He, Jun},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  volume={70},
+  pages={1--11},
+  year={2021},
+  publisher={IEEE}
+}

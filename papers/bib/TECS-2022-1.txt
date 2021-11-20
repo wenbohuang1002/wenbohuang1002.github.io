@@ -1,0 +1,7 @@
+@article{huangdeep,
+  title={Deep Ensemble Learning for Human Activity Recognition Using Wearable Sensors via Filter Activation},
+  author={Huang, Wenbo and Zhang, Lei and Wang, Shuoyuan and Wu, Hao and Song, Aiguo},
+  journal={ACM Transactions on Embedded Computing Systems (TECS)},
+  publisher={ACM New York, NY}
+  year={2022}
+}

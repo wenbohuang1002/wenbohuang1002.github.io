@@ -1,8 +1,8 @@
 - title: Research on Mutiple-Channel Convolutional Neural Network based Human Activity Recognition
-  image: xero.png
-  description: Learning the influence of mutiple channels on CNN based HAR tasks. Because of some people's obstruction, this work process is very bumpy. This work will be done before 12/2021.
+  image: logo.png
+  description: Learning the influence of mutiple channels on CNN based HAR tasks. Because of some people's obstruction, this work process is very bumpy. This work will be done before 6/2022.
   authors: <strong>Wenbo Huang</strong>
-  venue: Master Thesis, School of Electrical and Automation Engineering, Nanjing Normal University; December, 2021
+  venue: Master Thesis, School of Electrical and Automation Engineering, Nanjing Normal University; June, 2022
   number_link: 1
   link1:
     url: 

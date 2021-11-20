@@ -1,8 +1,11 @@
-# - date: October 12, 2021
-#   headline: As a <font color="red">Chinese</font>, I uninstalled and boycotted the bad editor <del>Notepad++</del> due to its anti-China comments, I recommend to use the excellent editor  <a href="https://dcloud.io/hbuilderx.html">HBuilder X</a> instead.
+- date: December 2, 2021
+  headline: <a href="https://github.com/Xero-H/IEEE-TIM-2021-3">Code (Public Repositories)</a> and <a href="https://github.com/Chauncey-Wang/Tunable-Speed-Accuracy-Trade-off-for-HAR">Code</a> for paper <a href="https://wenbohuang1002.github.io/papers/Deep_Convolutional_Networks_with_Tunable_Speed-Accuracy_Trade-off_for_Human_Activity_Recognition_Using_Wearables.pdf">'Deep Convolutional Networks with Tunable Speed-Accuracy Trade-off for Human Activity Recognition Using Wearables'</a> is released. By the way, today is my mother's birthday, 2021.12.02 is a symmetrical day, happy birthday, my dear mother!  
+
+- date: November 25, 2021
+  headline: A paper on <a href="https://wenbohuang1002.github.io/papers/Huang-2021-Shallow-convolutional-neural-networ.pdf">'Deep Convolutional Networks with Tunable Speed-Accuracy Trade-off for Human Activity Recognition Using Wearables'</a> is accepted by IEEE Transactions on Instrumentation and Measurement (IEEE TIM).
 
 - date: October 10, 2021
-  headline: <a href="https://github.com/wenbohuang1002/-IEEE-TIM-2021-1-Shallow-CNN-for-HAR">Code</a> for paper <a href="https://wenbohuang1002.github.io/papers/Huang-2021-Shallow-convolutional-neural-networ.pdf">'Shallow Convolutional Neural Networks for Human Activity Recognition using Wearable Sensors'</a> is released
+  headline: <a href="https://github.com/wenbohuang1002/-IEEE-TIM-2021-1-Shallow-CNN-for-HAR">Code</a> for paper <a href="https://wenbohuang1002.github.io/papers/Huang-2021-Shallow-convolutional-neural-networ.pdf">'Shallow Convolutional Neural Networks for Human Activity Recognition using Wearable Sensors'</a> is released.
 
 - date: October 8, 2021
   headline: I have built the Organization <a href="https://github.com/Xero-H">Xero (Github Public Repositories)</a>. I will synchronizedly upload our code on it.
@@ -19,14 +22,14 @@
 # - date: August 18, 2021
 #   headline: My partners are revealed in my homepage. I strongly support Prof. Mingming Cheng's <a href="https://mmcheng.net/docx/">'DOCX' advocacy (开放共享科研记录行动倡议)</a>.
 
-# - date: August 17, 2021
-#   headline: My master thesis 'Research on Mutiple-Channel Convolutional Neural Network based Human Activity Recognition' is released. Today is also my father's 53th birthday. Happy Birthday, my dear father!
+- date: August 17, 2021
+  headline: My master thesis 'Research on Mutiple-Channel Convolutional Neural Network based Human Activity Recognition' is released. Today is also my father's birthday. Happy Birthday, my dear father!
   
 - date: July 23, 2021
   headline: A paper on <a href="https://wenbohuang1002.github.io/papers/10.1109_tim.2021.3102735.pdf">'Deep Neural Networks for Sensor-Based Human Activity Recognition Using Selective Kernel Convolution'</a> is accepted by IEEE Transactions on Instrumentation and Measurement (IEEE TIM).
   
 - date: July 1, 2021
-  headline:  <a href="https://github.com/wenbohuang1002/-IEEE-JBHI-2021-Channel-Selectivity-CNN-for-HAR">Code</a> for paper <a href="https://wenbohuang1002.github.io/papers/Huang-2021-The-convolutional-neural-networks-t.pdf">'The Convolutional Neural Networks Training with Channel-Selectivity for Human Activity Recognition Based on Sensors'</a> is released
+  headline:  <a href="https://github.com/wenbohuang1002/-IEEE-JBHI-2021-Channel-Selectivity-CNN-for-HAR">Code</a> for paper <a href="https://wenbohuang1002.github.io/papers/Huang-2021-The-convolutional-neural-networks-t.pdf">'The Convolutional Neural Networks Training with Channel-Selectivity for Human Activity Recognition Based on Sensors'</a> is released.
 
 - date: June 27, 2021
   headline: My homepage <a href="https://wenbohuang1002.github.io">wenbohuang1002.github.io</a> is created.

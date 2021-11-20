@@ -13,7 +13,8 @@ permalink: /
 
 ### <strong>About Me</strong>
 <!-- <a href ="https://wenbohuang1002.github.io/allnews"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/Eagle.png" class="img-responsive" width="35%"  /> </a> -->
-I was a <del>script kiddie</del> and received the B.S. degree from <a href="http://www.njtech.edu.cn/">Nanjing Tech University</a>, Nanjing, China, in 2019. I am currently 
+I come from Nanjing, Jiangsu, China, where is known as 'Capital of Six Dynasties' and 'City of Stone'.  I was a <del>script kiddie</del> and received the 
+B.S. degree from <a href="http://www.njtech.edu.cn/">Nanjing Tech University</a>, Nanjing, China, in 2019. I am currently 
 pursuing the M.S degree of <a href="http://www.njnu.edu.cn/">Nanjing Normal University</a>, Nanjing, China. I am looking for a passionate research group to sutdy for Ph.D.
 <br>
 My research interests including Machine Learning, Deep Learning, Computer Vision and Human Activity Recognition. My advisor is <a href="http://d.njnu.edu.cn/person/3288.html">A.P Lei Zhang</a> now. 
@@ -46,7 +47,7 @@ Everyone can find the papers they need <a href="https://sci-hub.st/">here [Sci-H
 
 ### <strong>CV</strong>
 You can download my latest [CV (English Version)](https://wenbohuang1002.github.io/papers/Wenbo Huang's CV.pdf) and [CV (Chinese Version)](https://wenbohuang1002.github.io/papers/黄文博的简历.pdf).<br>
-CV was last updated on October 25, 2021.<br>
+CV was last updated on December 6, 2021.<br>
 <!-- <pre>
                             CV was last updated on October 25, 2021.
 　　　　　／＞＿＿＿フ       
@@ -56,7 +57,7 @@ CV was last updated on October 25, 2021.<br>
 　　　 /　 ヽ　　 ﾉ
 　 　 │　　|　|　|
 　／￣|　　 |　|　|
-　| (￣ヽ＿_ヽ_)__) 
+　| (￣ヽ＿_ヽ_)__)
 　＼二つ
 </pre> -->
 
@@ -85,7 +86,7 @@ CV was last updated on October 25, 2021.<br>
   <a href="http://www.njnu.edu.cn/">Nanjing Normal University</a> <br>  
   Nanjing, Jiangsu, China. <br>  
   <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=00acff&w=268&t=tt&d=Xit1o4P9tPO4V5F-vf13Il6mKflR-sERYSPiKcWoLcM&ct=000000&co=ffffff&cmo=f87d00&cmn=00ff10'></script>
-  <a href="{{ site.url }}{{ site.baseurl }}/treasures"><font color="white">All failures are my treasures.</font></a> <br>  
+  <!-- <a href="{{ site.url }}{{ site.baseurl }}/treasures"><font color="white">All failures are my treasures.</font></a> <br> --> 
 </div>
 
 </div>
@@ -254,6 +255,7 @@ CV was last updated on October 25, 2021.<br>
 * <strong>Scholarship</strong>
     - National Scholarship for Postgraduate Students in 2021 (rank 1, total 65)
 	- First-class Academic Scholarship of Nanjing Normal University in 2021 (rank 6, total 65)
+	- Outstanding postgraduate of Nanjing Normal University in 2021 (rank 3, total 31)
 
 
 #### <a href="#top">[Go Back to Top]</a>
@@ -295,10 +297,10 @@ CV was last updated on October 25, 2021.<br>
 <p style="text-align: center;"> <a href="https://github.com/KennCoder7">Kun Wang (Kenn)</a><br />Ph.D Student<br />SEU</p>
 </div>
 
-<div style="width: 14%; float: left; min-width: 9em;">
+<!-- <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/yintang.jpg"/>
 <p style="text-align: center;"> <a href="https://yinntag.github.io/">Yin Tang</a><br />M.S Student<br />NNU</p>
-</div>
+</div> -->
 
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/xingwang.jpg"/>

@@ -78,3 +78,30 @@
   link6:
     url: https://wenbohuang1002.github.io/404
     display: 中译版
+
+- title: Deep Convolutional Networks with Tunable Speed-Accuracy Trade-off for Human Activity Recognition Using Wearables
+  image: 21_TIM_TSAT1.png
+  description: We use  Tunable Speed-Accuracy Trade-off on CNN. This method can complete Human Activity Recognition tasks more effectiviely.
+  authors: Xing Wang, Lei Zhang*, <strong>Wenbo Huang</strong>, Shuoyuan Wang, Jun He and Aiguo Song
+  venue: TIM 2021-3 <font color="red">(Journal Paper)</font>
+  name: IEEE Transactions on Instrumentation and Measurement (IF=4.016)
+  DOI: 10.1109/TIM.2021.3132088
+  number_link: 6
+  link1:
+    url: https://wenbohuang1002.github.io/papers/Deep_Convolutional_Networks_with_Tunable_Speed-Accuracy_Trade-off_for_Human_Activity_Recognition_Using_Wearables.pdf
+    display: PDF
+  link2:
+    url: http://wenbohuang1002.github.io/tsat
+    display: Project Page
+  link3:
+    url: https://github.com/Chauncey-Wang/Tunable-Speed-Accuracy-Trade-off-for-HAR
+    display: Code (GitHub)
+  link4:
+    url: https://wenbohuang1002.github.io/404
+    display: Code (In Jittor)
+  link5:
+    url: https://ieeexplore.ieee.org/document/9632601
+    display: Website Online
+  link6:
+    url: https://wenbohuang1002.github.io/404
+    display: 中译版

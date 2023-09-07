@@ -6,9 +6,9 @@ sitemap: false
 permalink: /document
 ---
 
-<a href ="https://wenbohuang1002X.github.io"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/logo/adv.gif" class="img-responsive" width="20%"  /> </a>
+<a href ="https://wenbohuang1002.github.io"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/logo/adv.gif" class="img-responsive" width="20%"  /> </a>
 
-当前的实验室要求提供个人主页，所以我有预感这个页面会被频繁进入，如果是长辈、老师或同学，请直接点<a href="https://wenbohuang1002X.github.io">这里</a>返回吧，被看到还挺不好意思的，有时候都想换个域名了Orz。
+当前的实验室要求提供个人主页，所以我有预感这个页面会被频繁进入，如果是长辈、老师或同学，请直接点<a href="https://wenbohuang1002.github.io">这里</a>返回吧，被看到还挺不好意思的，有时候都想换个域名了Orz。
 首先，感谢访问我的主页，各种联系我的人已对我的日常学习与生活造成一定困扰，大部分联系我的人为高校学生，
 有直接索取全部工程文件的、有从解压LaTeX模板文件到投稿系统填写都要询问的、我不回消息给我连发半个多小时消息的、更有甚者给我直接拉进课题组的群一个个教其他人的，还有很多我不一
 一列举。说来很有意思的一件事，很多时候我收到求助时，经常是我自己第一个打开搜索引擎查相关解答并转述。但无奈我就是家里人经常说的尽管
@@ -16,7 +16,7 @@ permalink: /document
 
 * **关于我**
 	- Q: 哪些问题会让我非常抓狂？
-	- A: 举个<a href="https://wenbohuang1002X.github.io/images/pages/mad.jpg">栗子</a>，遇到这种我也真的不知道怎么回复。
+	- A: 举个<a href="https://wenbohuang1002.github.io/images/pages/mad.jpg">栗子</a>，遇到这种我也真的不知道怎么回复。
 	- Q: 我平时不回消息都在干嘛？
 	- A: 应该是没看到，出于礼貌都会回。
 	- Q: 我能顺着网线来打人吗？
@@ -64,8 +64,8 @@ permalink: /document
 <a href ="https://weibo.com/u/7745118461?sudaref=cn.bing.com" target="_blank"> <img align="left" alt="旅舍" src="{{ site.url }}{{ site.baseurl }}/images/album/cute.jpg" class="img-responsive" width="30%" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px"/> </a>
 
 **画外音1：**夹带私货，但请先别走，我还算个动物爱好者。最近发现淘宝做了一个休闲小程序叫做<a href="https://weibo.com/u/7745118461?sudaref=cn.bing.com" target="_blank">小流浪旅舍</a>，
-打开淘宝→我的淘宝→从上向下数第四个模块，也就是领淘金币那一栏左滑便可以看到小流浪旅舍了，实在不会请看这里(<a href="https://wenbohuang1002X.github.io/images/album/teach.gif">动态教程</a>&
-<a href="https://wenbohuang1002X.github.io/images/album/teach.jpg">静态教程</a>)。似乎发现的人还不太多，但我真真切切的能
+打开淘宝→我的淘宝→从上向下数第四个模块，也就是领淘金币那一栏左滑便可以看到小流浪旅舍了，实在不会请看这里(<a href="https://wenbohuang1002.github.io/images/album/teach.gif">动态教程</a>&
+<a href="https://wenbohuang1002.github.io/images/album/teach.jpg">静态教程</a>)。似乎发现的人还不太多，但我真真切切的能
 感觉到是在用心救助流浪动物的，宗旨是“云救助，真捐粮”，没有那种很烦人的分享界面，就是小时候宠物机上那种最简单的操作，不同的是这
 里面每一只动物都是在现实中存在的，尽管我一直不太喜欢国内的任何互联网公司，但这次还是值得推荐的。2022年8月5日，我在里面很喜欢的
 一只名叫黑煤球的小猫回喵星了，就是左侧动图那只小黑猫，也是让我挺难受的，所以我希望以此记住她，也能让更多人发现这么个有温度的小程序。

@@ -8,7 +8,7 @@ permalink: /experience
 <div class="col-sm-4" align="right" style="display:table-cell; vertical-align:middle; text-align:center">
 
   <ul style="overflow: hidden">
-  <a href ="https://wenbohuang1002X.github.io"> <img align="right" src="{{ site.url }}{{ site.baseurl }}/images/pages/admin.jpg" class="img-responsive" width="100%" /></a>
+  <a href ="https://wenbohuang1002.github.io"> <img align="right" src="{{ site.url }}{{ site.baseurl }}/images/pages/admin.jpg" class="img-responsive" width="100%" /></a>
   </ul>
   Photoed at NJTECH in 2018<br>
 </div>

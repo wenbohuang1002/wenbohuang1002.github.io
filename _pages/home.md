@@ -24,9 +24,9 @@ My research interests including Deep Learning and Ubiquitous Computing. I am als
 Everyone can find the papers they need <a href="https://sci-hub.st/">here [Sci-Hub]</a>. -->
 <br>
 <!-- ### **Notice**
-欢迎先阅读这个<a href="https://wenbohuang1002X.github.io/document">文档</a>。
+欢迎先阅读这个<a href="https://wenbohuang1002.github.io/document">文档</a>。
 <br>
-Welcome to read this <a href="https://wenbohuang1002X.github.io/document">document</a>. -->
+Welcome to read this <a href="https://wenbohuang1002.github.io/document">document</a>. -->
 <!-- <del>Select the part inside the arrow to reveal the hidden content.</del> -->
 
 <!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=128&d=Xit1o4P9tPO4V5F-vf13Il6mKflR-sERYSPiKcWoLcM"></script> -->
@@ -51,7 +51,7 @@ Welcome to read this <a href="https://wenbohuang1002X.github.io/document">docume
 
 
 ### **CV<font color="white"><sup><sub><font size="2">   PS：为了更新简历，我还tm花99买了超级简历的终生会员。</font></sub></sup></font>**
-You can download my latest CV (<a href="https://wenbohuang1002X.github.io/papers/resume/Wenbo Huang's CV.pdf" target="_blank">English Version</a> and <a href="https://wenbohuang1002X.github.io/papers/resume/黄文博的简历.pdf" target="_blank">Chinese Version</a>).<br>
+You can download my latest CV (<a href="https://wenbohuang1002.github.io/papers/resume/Wenbo Huang's CV.pdf" target="_blank">English Version</a> and <a href="https://wenbohuang1002.github.io/papers/resume/黄文博的简历.pdf" target="_blank">Chinese Version</a>).<br>
 CV was last updated on 2022.7.22. <br>
 <!-- <pre>
                             CV was last updated on October 25, 2021.
@@ -99,7 +99,7 @@ CV was last updated on 2022.7.22. <br>
   
   Nanjing, Jiangsu, China. <br> 
   
-  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=8-DvOgF_lbECI1LW2zYseuVsLWocq2FTI6ih18Dk81g&co=0095ff&cmo=ff6200&cmn=00ff00&ct=000000'></script>
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=Xit1o4P9tPO4V5F-vf13Il6mKflR-sERYSPiKcWoLcM&co=2d78ad&cmo=ff7700&cmn=00ad00&ct=000000'></script>
   
   
 </div>
@@ -272,7 +272,7 @@ CV was last updated on 2022.7.22. <br>
 	<!-- - <a href="http://www.iccbbs.org/">International Conference on Computational Biology and Biomedical Science (CBBS 2022)</a>, 2023. -->
 	<!-- - <a href="http://www.icctis.org/">International Conference on Computer Technology and Information Science (CTIS 2023)</a>, 2023. -->
 	<!-- - <a href="http://www.iceeep.org/">The Seventh International Conference on Energy Engineering and Environmental Protection (EEEP2022)</a>, 2022. -->
-    - <a href="http://www.csaeconf.org/">ACM The 6th International Conference on Computer Science and Application Engineering (CSAE 2022)</a>, 2022, <a href="https://wenbohuang1002X.github.io/papers/CSAE2022 Certificate of Appreciation_Wenbo Huang.pdf">Certificate</a>.
+    - <a href="http://www.csaeconf.org/">ACM The 6th International Conference on Computer Science and Application Engineering (CSAE 2022)</a>, 2022, <a href="https://wenbohuang1002.github.io/papers/CSAE2022 Certificate of Appreciation_Wenbo Huang.pdf">Certificate</a>.
 	<!-- - <a href="http://www.icoice.org/">International Conference on Optoelectronic Information and Computer Engineering (OCIE 2022)</a>, 2022. -->
 	
 * **Book Reviewer**
@@ -286,8 +286,8 @@ CV was last updated on 2022.7.22. <br>
 
 #### **Award & Honor**
 * **Scholarship**
-	- Freshman Scholarship (Excellent Ph.D Training Program, total 50), 2022, Southeast University, <a href="https://wenbohuang1002X.github.io/papers/2022freshman.pdf">Certificate</a>.
-    - National Scholarship for Postgraduate Students (rank 1, total 65), 2021, The Chinese Ministry of Education (MOE), <a href="https://wenbohuang1002X.github.io/papers/2021national.pdf">Certificate No.SSY202120653</a>.
+	- Freshman Scholarship (Excellent Ph.D Training Program, total 50), 2022, Southeast University, <a href="https://wenbohuang1002.github.io/papers/2022freshman.pdf">Certificate</a>.
+    - National Scholarship for Postgraduate Students (rank 1, total 65), 2021, The Chinese Ministry of Education (MOE), <a href="https://wenbohuang1002.github.io/papers/2021national.pdf">Certificate No.SSY202120653</a>.
 	- First-class Academic Scholarship (rank 6, total 65), 2021, Nanjing Normal University.
 
 <!-- * **Competition** 
@@ -296,8 +296,8 @@ CV was last updated on 2022.7.22. <br>
 	/Chinese Academy of Social Sciences/National Federation of Students. -->
 
 * **Honor**
-	- Outstanding graduate, 2022, Nanjing Normal University, <a href="https://wenbohuang1002X.github.io/papers/2022graduate.pdf">Certificate</a>.
-	- Outstanding postgraduate (rank 3, total 31), 2021, Nanjing Normal University, <a href="https://wenbohuang1002X.github.io/papers/2021outstanding.pdf">Certificate</a>.
+	- Outstanding graduate, 2022, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/2022graduate.pdf">Certificate</a>.
+	- Outstanding postgraduate (rank 3, total 31), 2021, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/2021outstanding.pdf">Certificate</a>.
 
 
 <!-- #### <a href="#top" class="btn-xs btn-primary">Go Back to Top</a> -->

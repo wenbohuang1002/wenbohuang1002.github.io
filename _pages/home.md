@@ -66,7 +66,7 @@ CV was last updated on 2022.7.22. <br>
 　＼二つ
 </pre> -->
 
-### **News** 
+### **News1111** 
 {% for article in site.data.news limit:4 %}
 {{ article.date }} :
 <em>{{ article.headline }}</em>

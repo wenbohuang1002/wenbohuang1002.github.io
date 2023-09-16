@@ -82,7 +82,7 @@ CV was last updated on 2022.7.22. <br>
 <div class="col-sm-4" style="display:table-cell; vertical-align:middle; text-align:center">
 
   <ul style="overflow: hidden">
-  <a href ="{{ site.url }}{{ site.baseurl }}/experience"> <img src="{{ site.url }}{{ site.baseurl }}/images/pages/adminRX.jpg" class="img-responsive" width="100%" alt="我自己"/></a>
+  <a href ="{{ site.url }}{{ site.baseurl }}/experience"> <img src="{{ site.url }}{{ site.baseurl }}/images/pages/adminZ.jpg" class="img-responsive" width="100%" alt="我自己"/></a>
   </ul>
 
   <!-- <br clear="all" /> -->

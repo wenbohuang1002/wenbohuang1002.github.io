@@ -3,7 +3,7 @@
   description: We provide an alternative called Channel Equalization in this paper to reactivate these inhibited channels by performing whitening or decorrelation operation, which compels all channels to contribute more or less to feature representation.
   authors: <strong>Wenbo Huang</strong> , Lei Zhang*, Hao Wu, Fuhong Min and Aiguo Song
   venue: TMC 2022-1 <font color="red">(Journal Paper)</font> 
-  name: IEEE Transactions on Mobile Computing (CCF Rank A, IF=6.075, ESI Top 1% Highly Cited)
+  name: IEEE Transactions on Mobile Computing (CCF Rank A, IF=7.9, ESI Top 1% Highly Cited)
   DOI: 'DOI: 10.1109/TMC.2022.3174816'
   number_link: 6
   link1:
@@ -30,7 +30,7 @@
   description: We propose a novel CNN for HAR that uses filter activation. In comparison with filter pruning that is motivated for efficient consideration, filter activation aims to activate these invalid filters from an accuracy boosting perspective.
   authors: <strong>Wenbo Huang</strong> , Lei Zhang*, Shuoyuan Wang, Hao Wu and Aiguo Song
   venue: TECS 2022-1 <font color="red">(Journal Paper)</font> 
-  name: ACM Transactions on Embedded Computing Systems (CCF Rank B, IF=1.886, <a href="https://wenbohuang1002.github.io/papers/TECS_HC.pdf">ESI Top 1% Highly Cited</a>)
+  name: ACM Transactions on Embedded Computing Systems (CCF Rank B, IF=2.0, <a href="https://wenbohuang1002.github.io/papers/TECS_HC.pdf">ESI Top 1% Highly Cited</a>)
   DOI: 'DOI: 10.1145/3551486'
   number_link: 6
   link1:
@@ -57,7 +57,7 @@
   description: We use the Channel-selectivity method to greatly improve the classification accuracy of the sensor signals by CNN without increasing the parameters.
   authors: <strong>Wenbo Huang</strong> , Lei Zhang*, Qi Teng, Chaoda Song and Jun He
   venue: JBHI 2021-1 <font color="red">(Journal Paper)</font> 
-  name: IEEE Journal of Biomedical and Health Informatics (Old Name：IEEE Transactions on Information Technology in Biomedicine, CCF Rank C, IF=7.021)
+  name: IEEE Journal of Biomedical and Health Informatics (Old Name：IEEE Transactions on Information Technology in Biomedicine, CCF Rank C, IF=7.7)
   DOI: 'DOI: 10.1109/JBHI.2021.3092396'
   number_link: 6
   link1:
@@ -84,7 +84,7 @@
   description: We pay more attention to Cross-channel-communication and apply it on CNN. This method can make shallow CNNs have a similar performance with deep CNNs when classify sensor singal.
   authors: <strong>Wenbo Huang</strong>, Lei Zhang*, Wenbin Gao , Fuhong Min and Jun He
   venue: TIM 2021-1 <font color="red">(Journal Paper)</font>
-  name: IEEE Transactions on Instrumentation and Measurement (CIS Rank T1, CAA Rank B, IF=5.332)
+  name: IEEE Transactions on Instrumentation and Measurement (CIS Rank T1, CAA Rank B, IF=5.6)
   DOI: 'DOI: 10.1109/TIM.2021.3091990'
   number_link: 6
   link1:
@@ -111,7 +111,7 @@
   description: We use Selective Kernal Convolution on CNN. This method improves the performance of deep neural networks.
   authors: Wenbin Gao, Lei Zhang*, <strong>Wenbo Huang</strong>, Fuhong Min, Jun He and Aiguo Song
   venue: TIM 2021-2 <font color="red">(Journal Paper)</font>
-  name: IEEE Transactions on Instrumentation and Measurement (CIS Rank T1, CAA Rank B, IF=5.332)
+  name: IEEE Transactions on Instrumentation and Measurement (CIS Rank T1, CAA Rank B, IF=5.6)
   DOI: 'DOI: 10.1109/TIM.2021.3102735'
   number_link: 4
   link1:
@@ -132,7 +132,7 @@
   description: We use Tunable Speed-Accuracy Trade-off on CNN. This method can complete Human Activity Recognition tasks more effectiviely.
   authors: Xing Wang, Lei Zhang*, <strong>Wenbo Huang</strong>, Shuoyuan Wang, Jun He and Aiguo Song
   venue: TIM 2021-3 <font color="red">(Journal Paper)</font>
-  name: IEEE Transactions on Instrumentation and Measurement (CIS Rank T1, CAA Rank B, IF=5.332)
+  name: IEEE Transactions on Instrumentation and Measurement (CIS Rank T1, CAA Rank B, IF=5.6)
   DOI: 'DOI: 10.1109/TIM.2021.3132088'
   number_link: 4
   link1:
@@ -153,7 +153,7 @@
   description: Deformable Convolutional Networks for Multimodal Human Activity Recognition.
   authors: Suige Xu, Lei Zhang*, <strong>Wenbo Huang</strong>, Hao Wu and Aiguo Song
   venue: TIM 2022-1 <font color="red">(Journal Paper)</font>
-  name: IEEE Transactions on Instrumentation and Measurement (CIS Rank T1, CAA Rank B, IF=5.332)
+  name: IEEE Transactions on Instrumentation and Measurement (CIS Rank T1, CAA Rank B, IF=5.6)
   DOI: 'DOI: 10.1109/TIM.2022.3158427'
   number_link: 4
   link1:
@@ -174,7 +174,7 @@
   description: We use Heterogeneous Convolutional Neural Networkse on Human Activity Recognition tasks.
   authors: Chaolei Han, Lei Zhang*, Yin Tang, <strong>Wenbo Huang</strong>, Fuhong Min and Jun He
   venue: ESWA 2022-1 <font color="red">(Journal Paper)</font>
-  name: Elesvier Expert Systems with Applications (CCF Rank C, IF=8.665)
+  name: Elesvier Expert Systems with Applications (CCF Rank C, IF=8.5)
   DOI: 'DOI: 10.1016/J.ESWA.2022.116764'
   number_link: 4
   link1:

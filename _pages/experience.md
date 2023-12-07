@@ -31,7 +31,7 @@ permalink: /experience
 
 * <em>2019.9 - 2022.6</em>
     - <strong>Nanjing Normal University</strong>, Nanjing, Jiangsu, China
-	- Master degree in Control Science and Engineering (Pattern Recognition and Intelligent System)
+	- Master degree in Electronic Information
 	- Supervisor: <a href="http://leizhangnjnu.github.io" target="_blank">A.P Lei Zhang</a>
 
 <br>

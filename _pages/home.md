@@ -19,7 +19,7 @@ and pursuing my degree in
 <!-- <a href="http://palm.seu.edu.cn/" target="_blank">PAttern Learning and Mining (PALM) Lab</a>, -->
 <a href="https://cse.seu.edu.cn/" target="_blank">School of Computer Science and Engineering</a>, <a href="https://www.seu.edu.cn/">Southeast University</a>,
 Nanjing, China, under the supervision of <a href="https://jhzhangseu.gitee.io/" target="_blank">A.P Jinghui Zhang</a>. 
-My research interests including Deep Learning and Ubiquitous Computing. I am also an <a href="{{ site.url }}{{ site.baseurl }}/images/pages/animal lover.jpg">animal lover</a> (<a href="{{ site.url }}{{ site.baseurl }}/papers/resume/fahlo.pdf">fahlo link</a>). 
+My research interests including Video Analysis and Ubiquitous Computing. I am also an <a href="{{ site.url }}{{ site.baseurl }}/images/pages/animal lover.jpg">animal lover</a> (<a href="{{ site.url }}{{ site.baseurl }}/papers/resume/fahlo.pdf">fahlo link</a>). 
 <!-- By the way, I must express my gratitude to <a href="https://sci-hub.se/alexandra">Alexandra Elbakyan</a>. The website built by her helps me much on paper writing and search.
 Everyone can find the papers they need <a href="https://sci-hub.st/">here [Sci-Hub]</a>. -->
 <br>

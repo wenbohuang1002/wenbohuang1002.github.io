@@ -52,7 +52,7 @@ Welcome to read this <a href="https://wenbohuang1002.github.io/document">documen
 
 ### **CV<font color="white"><sup><sub><font size="2">   PS：为了更新简历，我还tm花99买了超级简历的终生会员。</font></sub></sup></font>**
 You can download my latest CV (<a href="https://wenbohuang1002.github.io/papers/resume/Wenbo Huang's CV.pdf" target="_blank">English Version</a> and <a href="https://wenbohuang1002.github.io/papers/resume/黄文博的简历.pdf" target="_blank">Chinese Version</a>).<br>
-CV was last updated on 2022.7.22. <br>
+CV was last updated on 2024.1.14. <br>
 <!-- <pre>
                             CV was last updated on October 25, 2021.
 　　　　　／＞＿＿＿フ       

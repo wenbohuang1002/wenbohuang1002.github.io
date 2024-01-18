@@ -78,7 +78,28 @@
   link6:
     url: https://wenbohuang1002.github.io/papers/bib/JBHI-2021-1.txt
     display: Cite by bib
-    
+
+- title: PatchHAR: A MLP-like Architecture for Efficient Activity Recognition using Wearables
+  image: 24_TBIOM_MLP.png
+  description: We propose a lightweight network architecture called all-MLP for HAR, which is entirely built on MLP layers with a gating unit. 
+  authors: <strong>Wenbo Huang</strong>, Lei Zhang*, Wenbin Gao , Fuhong Min and Jun He
+  venue: TBIOM-2024-1 <font color="red">(Journal Paper)</font>
+  name: IEEE Transactions on Biometrics, Behavior, and Identity Science
+  DOI: '10.1109/TBIOM.2024.3354261'
+  number_link: 4
+  link1:
+    url: https://wenbohuang1002.github.io/papers/TBIOM-2024-1.pdf
+    display: PDF
+  link2: 
+    url: https://wenbohuang1002.github.io/404
+    display: Code (GitHub)
+  link3:
+    url: https://ieeexplore.ieee.org/document/10400955
+    display: Website Online
+  link4:
+    url: https://wenbohuang1002.github.io/papers/bib/TIM-2021-1.txt
+    display: Cite by bib
+
 - title: Shallow Convolutional Neural Networks for Human Activity Recognition using Wearable Sensors
   image: 21_TIM_C3.png
   description: We pay more attention to Cross-channel-communication and apply it on CNN. This method can make shallow CNNs have a similar performance with deep CNNs when classify sensor singal.

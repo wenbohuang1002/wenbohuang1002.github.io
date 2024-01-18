@@ -106,25 +106,25 @@
     url: https://wenbohuang1002.github.io/papers/bib/TIM-2021-1.txt
     display: Cite by bib
 
-- title: Deep Neural Networks for Sensor-Based Human Activity Recognition Using Selective Kernel Convolution
-  image: 21_TIM_SK1.png
-  description: We use Selective Kernal Convolution on CNN. This method improves the performance of deep neural networks.
-  authors: Wenbin Gao, Lei Zhang*, <strong>Wenbo Huang</strong>, Fuhong Min, Jun He and Aiguo Song
-  venue: TIM 2021-2 <font color="red">(Journal Paper)</font>
-  name: IEEE Transactions on Instrumentation and Measurement (CIS Rank T1, CAA Rank B, IF=5.6)
-  DOI: 'DOI: 10.1109/TIM.2021.3102735'
+- title: "PatchHAR: A MLP-like Architecture for Efficient Activity Recognition using Wearables"
+  image: 24_TBIOM_MLP.png
+  description: We propose a lightweight network architecture called all-MLP for HAR, which is entirely built on MLP layers with a gating unit. 
+  authors: <strong>Wenbo Huang</strong>, Lei Zhang*, Wenbin Gao , Fuhong Min and Jun He
+  venue: TBIOM-2024-1 <font color="red">(Journal Paper)</font>
+  name: IEEE Transactions on Biometrics, Behavior, and Identity Science
+  DOI: '10.1109/TBIOM.2024.3354261'
   number_link: 4
   link1:
-    url: https://wenbohuang1002.github.io/papers/TIM-2021-2.pdf
+    url: https://wenbohuang1002.github.io/papers/TBIOM-2024-1.pdf
     display: PDF
-  link2:
+  link2: 
     url: https://wenbohuang1002.github.io/404
     display: Code (GitHub)
   link3:
-    url: https://ieeexplore.ieee.org/document/9507456
+    url: https://ieeexplore.ieee.org/document/10400955
     display: Website Online
   link4:
-    url: https://wenbohuang1002.github.io/papers/bib/TIM-2021-2.txt
+    url: https://wenbohuang1002.github.io/papers/bib/TIM-2021-1.txt
     display: Cite by bib
 
 - title: Deep Neural Networks for Sensor-Based Human Activity Recognition Using Selective Kernel Convolution

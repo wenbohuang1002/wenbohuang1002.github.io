@@ -11,7 +11,7 @@ permalink: /
 <div class="row">
 <div class="col-sm-8">
 
-### **111About <font color="#00d1ff">Me</font>**
+### **About <font color="#00d1ff">Me</font>**
 I come from Nanjing, Jiangsu, China, where is known as 'Capital of Six Dynasties' and 'City of Stone'. I was a <del>script kiddie</del> and received the 
 B.S. degree from <a href="http://www.njtech.edu.cn/" target="_blank">Nanjing Tech University</a>, Nanjing, China, in 2019. I received the M.S degree with the supervision by <a href="http://leizhangnjnu.github.io" target="_blank">A.P Lei Zhang</a> 
 from <a href="http://www.njnu.edu.cn/" target="_blank">Nanjing Normal University</a>, Nanjing, China, in 2022. Now I am a Ph.D student under the Excellent Ph.D Training Program 

@@ -1,7 +1,7 @@
 - title: 'Channel-Equalization-HAR: A Light-weight Convolutional Neural Network for Wearable Sensor Based Human Activity Recognition'
   image: 22_TMC_CE.png
   description: We provide an alternative called Channel Equalization in this paper to reactivate these inhibited channels by performing whitening or decorrelation operation, which compels all channels to contribute more or less to feature representation.
-  authors: <strong>Wenbo Huang</strong> , Lei Zhang*, Hao Wu, Fuhong Min and Aiguo Song
+  authors: <strong>Wenbo Huang</strong> , Lei Zhang*, Hao Wu, Fuhong Min, and Aiguo Song
   venue: TMC 2022-1 <font color="red">(Journal Paper)</font> 
   name: IEEE Transactions on Mobile Computing (CCF Rank A, IF=7.9, <a href="https://wenbohuang1002.github.io/papers/TMC_HC.pdf">ESI Top 1% Highly Cited</a>)
   DOI: 'DOI: 10.1109/TMC.2022.3174816'
@@ -28,7 +28,7 @@
 - title: 'Deep Ensemble Learning for Human Activity Recognition Using Wearable Sensors via Filter Activation'
   image: 22_TECS_FA.png
   description: We propose a novel CNN for HAR that uses filter activation. In comparison with filter pruning that is motivated for efficient consideration, filter activation aims to activate these invalid filters from an accuracy boosting perspective.
-  authors: <strong>Wenbo Huang</strong> , Lei Zhang*, Shuoyuan Wang, Hao Wu and Aiguo Song
+  authors: <strong>Wenbo Huang</strong> , Lei Zhang*, Shuoyuan Wang, Hao Wu, and Aiguo Song
   venue: TECS 2022-1 <font color="red">(Journal Paper)</font> 
   name: ACM Transactions on Embedded Computing Systems (CCF Rank B, IF=2.0, <a href="https://wenbohuang1002.github.io/papers/TECS_HC.pdf">ESI Top 1% Highly Cited</a>)
   DOI: 'DOI: 10.1145/3551486'
@@ -55,7 +55,7 @@
 - title: The Convolutional Neural Networks Training with Channel-Selectivity for Human Activity Recognition Based on Sensors
   image: 21_JBHI_SC.png
   description: We use the Channel-selectivity method to greatly improve the classification accuracy of the sensor signals by CNN without increasing the parameters.
-  authors: <strong>Wenbo Huang</strong> , Lei Zhang*, Qi Teng, Chaoda Song and Jun He
+  authors: <strong>Wenbo Huang</strong> , Lei Zhang*, Qi Teng, Chaoda Song, and Jun He
   venue: JBHI 2021-1 <font color="red">(Journal Paper)</font> 
   name: IEEE Journal of Biomedical and Health Informatics (Old Name：IEEE Transactions on Information Technology in Biomedicine, CCF Rank C, IF=7.7)
   DOI: 'DOI: 10.1109/JBHI.2021.3092396'
@@ -82,7 +82,7 @@
 - title: Shallow Convolutional Neural Networks for Human Activity Recognition using Wearable Sensors
   image: 21_TIM_C3.png
   description: We pay more attention to Cross-channel-communication and apply it on CNN. This method can make shallow CNNs have a similar performance with deep CNNs when classify sensor singal.
-  authors: <strong>Wenbo Huang</strong>, Lei Zhang*, Wenbin Gao , Fuhong Min and Jun He
+  authors: <strong>Wenbo Huang</strong>, Lei Zhang*, Wenbin Gao , Fuhong Min, and Jun He
   venue: TIM 2021-1 <font color="red">(Journal Paper)</font>
   name: IEEE Transactions on Instrumentation and Measurement (CIS Rank T1, CAA Rank B, IF=5.6)
   DOI: 'DOI: 10.1109/TIM.2021.3091990'
@@ -106,31 +106,10 @@
     url: https://wenbohuang1002.github.io/papers/bib/TIM-2021-1.txt
     display: Cite by bib
 
-- title: "PatchHAR: A MLP-like Architecture for Efficient Activity Recognition using Wearables"
-  image: 24_TBIOM_MLP.png
-  description: We propose a lightweight network architecture called all-MLP for HAR, which is entirely built on MLP layers with a gating unit. 
-  authors: <strong>Wenbo Huang</strong>, Lei Zhang*, Wenbin Gao , Fuhong Min and Jun He
-  venue: TBIOM-2024-1 <font color="red">(Journal Paper)</font>
-  name: IEEE Transactions on Biometrics, Behavior, and Identity Science
-  DOI: '10.1109/TBIOM.2024.3354261'
-  number_link: 4
-  link1:
-    url: https://wenbohuang1002.github.io/papers/TBIOM-2024-1.pdf
-    display: PDF
-  link2: 
-    url: https://wenbohuang1002.github.io/404
-    display: Code (GitHub)
-  link3:
-    url: https://ieeexplore.ieee.org/document/10400955
-    display: Website Online
-  link4:
-    url: https://wenbohuang1002.github.io/papers/bib/TIM-2021-1.txt
-    display: Cite by bib
-
 - title: Deep Neural Networks for Sensor-Based Human Activity Recognition Using Selective Kernel Convolution
   image: 21_TIM_SK1.png
   description: We use Selective Kernal Convolution on CNN. This method improves the performance of deep neural networks.
-  authors: Wenbin Gao, Lei Zhang*, <strong>Wenbo Huang</strong>, Fuhong Min, Jun He and Aiguo Song
+  authors: Wenbin Gao, Lei Zhang*, <strong>Wenbo Huang</strong>, Fuhong Min, Jun He, and Aiguo Song
   venue: TIM 2021-2 <font color="red">(Journal Paper)</font>
   name: IEEE Transactions on Instrumentation and Measurement (CIS Rank T1, CAA Rank B, IF=5.6)
   DOI: 'DOI: 10.1109/TIM.2021.3102735'
@@ -151,7 +130,7 @@
 - title: Deep Convolutional Networks with Tunable Speed-Accuracy Trade-off for Human Activity Recognition Using Wearables
   image: 21_TIM_TSAT.png
   description: We use Tunable Speed-Accuracy Trade-off on CNN. This method can complete Human Activity Recognition tasks more effectiviely.
-  authors: Xing Wang, Lei Zhang*, <strong>Wenbo Huang</strong>, Shuoyuan Wang, Jun He and Aiguo Song
+  authors: Xing Wang, Lei Zhang*, <strong>Wenbo Huang</strong>, Shuoyuan Wang, Jun He, and Aiguo Song
   venue: TIM 2021-3 <font color="red">(Journal Paper)</font>
   name: IEEE Transactions on Instrumentation and Measurement (CIS Rank T1, CAA Rank B, IF=5.6)
   DOI: 'DOI: 10.1109/TIM.2021.3132088'
@@ -172,7 +151,7 @@
 - title: Deformable Convolutional Networks for Multimodal Human Activity Recognition using Wearable Sensors
   image: 22_TIM_DCX.png
   description: Deformable Convolutional Networks for Multimodal Human Activity Recognition.
-  authors: Suige Xu, Lei Zhang*, <strong>Wenbo Huang</strong>, Hao Wu and Aiguo Song
+  authors: Suige Xu, Lei Zhang*, <strong>Wenbo Huang</strong>, Hao Wu, and Aiguo Song
   venue: TIM 2022-1 <font color="red">(Journal Paper)</font>
   name: IEEE Transactions on Instrumentation and Measurement (CIS Rank T1, CAA Rank B, IF=5.6)
   DOI: 'DOI: 10.1109/TIM.2022.3158427'
@@ -190,10 +169,31 @@
     url: https://wenbohuang1002.github.io/papers/bib/TIM-2022-1.txt
     display: Cite by bib
 
+- title: "PatchHAR: A MLP-like Architecture for Efficient Activity Recognition using Wearables"
+  image: 24_TBIOM_MLP.png
+  description: We propose a lightweight network architecture called all-MLP for HAR, which is entirely built on MLP layers with a gating unit. 
+  authors: Shuoyuan Wang, Lei Zhang*, Xing Wang, <strong>Wenbo Huang</strong>, Hao Wu, and Aiguo Song
+  venue: TBIOM-2024-1 <font color="red">(Journal Paper)</font>
+  name: IEEE Transactions on Biometrics, Behavior, and Identity Science
+  DOI: '10.1109/TBIOM.2024.3354261'
+  number_link: 4
+  link1:
+    url: https://wenbohuang1002.github.io/papers/TBIOM-2024-1.pdf
+    display: PDF
+  link2: 
+    url: https://wenbohuang1002.github.io/404
+    display: Code (GitHub)
+  link3:
+    url: https://ieeexplore.ieee.org/document/10400955
+    display: Website Online
+  link4:
+    url: https://wenbohuang1002.github.io/404
+    display: Cite by bib
+
 - title: Human Activity Recognition Using Wearable Sensors by Heterogeneous Convolutional Neural Networks
   image: 22_ESWA_HC.png
   description: We use Heterogeneous Convolutional Neural Networkse on Human Activity Recognition tasks.
-  authors: Chaolei Han, Lei Zhang*, Yin Tang, <strong>Wenbo Huang</strong>, Fuhong Min and Jun He
+  authors: Chaolei Han, Lei Zhang*, Yin Tang, <strong>Wenbo Huang</strong>, Fuhong Min, and Jun He
   venue: ESWA 2022-1 <font color="red">(Journal Paper)</font>
   name: Elesvier Expert Systems with Applications (CCF Rank C, IF=8.5)
   DOI: 'DOI: 10.1016/J.ESWA.2022.116764'

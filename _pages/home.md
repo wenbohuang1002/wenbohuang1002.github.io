@@ -270,6 +270,7 @@ CV was last updated on 2024.1.14. <br>
     <!-- - <a href="https://www.mdpi.com/journal/sensors">MDPI Sensors</a>, 2021. -->
 
 * **Conference Reviewer**
+	- <a href="https://2024.acmmm.org/">The 32nd ACM International Conference on Multimedia 2024 (ACM MM2024)</a>, 2024, <a href="https://wenbohuang1002.github.io/images/reviewer/MM2024Reviewer.png">Invitation</a>.
 	<!-- - <a href="http://www.iccbbs.org/">International Conference on Computational Biology and Biomedical Science (CBBS 2022)</a>, 2023. -->
 	<!-- - <a href="http://www.icctis.org/">International Conference on Computer Technology and Information Science (CTIS 2023)</a>, 2023. -->
 	<!-- - <a href="http://www.iceeep.org/">The Seventh International Conference on Energy Engineering and Environmental Protection (EEEP2022)</a>, 2022. -->

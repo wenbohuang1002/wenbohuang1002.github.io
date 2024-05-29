@@ -1,5 +1,8 @@
+- date: 2024.5.26
+  headline: 'I am invited by <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> as a reviewer.'
+
 - date: 2024.2.1
-  headline: 'I am invited by <a href="https://2024.acmmm.org/">ACM Multimedia 2024</a> as a <a href="https://wenbohuang1002.github.io/images/reviewer/MM2024Reviewer.png">reviewer</a>.'
+  headline: 'I am invited by <a href="https://2024.acmmm.org/">ACM Multimedia 2024</a> as a reviewer.'
 
 - date: 2024.1.12
   headline: 'A paper on <a href="https://wenbohuang1002.github.io/papers/TBIOM-2024-1.pdf">PatchHAR: A MLP-like Architecture for Efficient Activity Recognition using Wearables</a> is accepted by IEEE Transactions on Biometrics, Behavior, and Identity Science (IEEE TBIOM).'

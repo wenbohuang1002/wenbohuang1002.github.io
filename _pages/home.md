@@ -260,11 +260,12 @@ CV was last updated on 2024.1.14. <br>
 
 #### **Academic Service**
 * **Journal Reviewer**
-	- <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69">IEEE Transactions on Knowledge and Data Engineering</a>, 2023.
-	- <a href="https://www.sciencedirect.com/journal/neurocomputing">Elsevier Neurocomputing</a>, 2023.
+	- <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69">IEEE Transactions on Knowledge and Data Engineering</a>.
+	- <a href="https://www.sciencedirect.com/journal/neurocomputing">Elsevier Neurocomputing</a>.
+	- <a href="https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7361">IEEE Sensors</a>.
 	<!-- - <a href="https://www.tandfonline.com/journals/ucbs20/">Cybernetics and Systems</a>, 2023. -->
 	<!-- - <a href="https://www.springer.com/journal/11063/">Neural Processing Letters</a>, 2023. -->
-	- <a href="https://www.nature.com/srep/">Scientific Report</a>, 2022.
+	- <a href="https://www.nature.com/srep/">Scientific Report</a>.
 	<!-- - <a href="https://www.tandfonline.com/journals/yims20">The Imaging Science Journal</a>, 2022. -->
 	<!-- - <a href="https://benthamscience.com/journals/current-computer-aided-drug-design">Current Computer-Aided Drug Design</a>, 2022. -->
     <!-- - <a href="https://www.mdpi.com/journal/sensors">MDPI Sensors</a>, 2021. -->

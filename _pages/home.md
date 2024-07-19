@@ -175,6 +175,10 @@ CV was last updated on 2024.1.14. <br>
 
 {% endfor %}
 
+<br clear="all"/>
+
+#### <a href="{{ site.url }}{{ site.baseurl }}/publications" class="btn-xs btn-success">See All Publications</a>
+
 ### **<font color="red">Journal</font> Publication**
 
 {% for publi in site.data.j_publist limit:100 %}

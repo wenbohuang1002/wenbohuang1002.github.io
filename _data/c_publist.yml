@@ -1,16 +1,16 @@
-- title: 'Channel-Equalization-HAR: A Light-weight Convolutional Neural Network for Wearable Sensor Based Human Activity Recognition'
+- title: 'SOAP: Enhancing Spatio-Temporal Relation and Motion Information Capturing for Few-Shot Action Recognition'
   image: 22_TMC_CE.png
-  description: We provide an alternative called Channel Equalization in this paper to reactivate these inhibited channels by performing whitening or decorrelation operation, which compels all channels to contribute more or less to feature representation.
-  authors: <strong>Wenbo Huang</strong> , Lei Zhang*, Hao Wu, Fuhong Min, and Aiguo Song
-  venue: TMC 2022-1 <font color="red">(Journal Paper)</font> 
-  name: IEEE Transactions on Mobile Computing (CCF Rank A, IF=7.9, <a href="https://wenbohuang1002.github.io/papers/TMC_HC.pdf">ESI Top 1% Highly Cited</a>)
+  description: An intsereting work on few-shot action recognition, which is a challenging task in high frame-rate videos.
+  authors: <strong>Wenbo Huang</strong> , Jinghui Zhang*, Xuwei Qian, Zhen Wu, Meng Wang and Lei Zhang
+  venue: MM 2024-1 <font color="blue">(Conference Paper)</font> 
+  name: 2024 32nd ACM International Conference on Multimedia, Melbourne, Australia (CCF Rank A)
   DOI: 'DOI: 10.1109/TMC.2022.3174816'
   number_link: 6
   link1:
     url: https://wenbohuang1002.github.io/papers/TMC-2022-1.pdf
     display: PDF
   link2:
-    url: https://github.com/wenbohuang1002/Channel-Selectivity-HAR
+    url: https://github.com/wenbohuang1002/SOAP
     display: Code (GitHub)
   link3:
     url: https://wenbohuang1002.github.io/404

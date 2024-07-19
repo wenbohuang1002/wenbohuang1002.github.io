@@ -113,6 +113,69 @@ CV was last updated on 2024.1.14. <br>
 ### **Publications (<font color="red">Journal Papers</font> <font color="green">&</font> <font color="blue">Conference Papers</font>)**
 
 <!-- #### * means corresponding authors -->
+{% for publi in site.data.publist limit:100 %}
+
+<div class="col-sm-11 clearfix">
+ <div class="well">
+ <pubtit>{{ publi.title }}</pubtit>
+
+ <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="200px" style="float: left" />
+
+ <p>{{ publi.description }}</p>
+
+ <p><em>{{ publi.authors }}</em></p>
+
+ <p>{{ publi.venue }}</p>
+ 
+ <p>{{ publi.name }}</p>
+ 
+ <p>{{ publi.DOI }}</p>
+
+ {% if publi.number_link == 1 %}
+ <p><a href="{{ publi.link1.url }}" target="_blank" class="btn btn-default">{{ publi.link1.display }}</a>
+ {% endif %}
+ 
+ {% if publi.number_link == 2 %}
+ <p><a href="{{ publi.link1.url }}" target="_blank" class="btn btn-default">{{ publi.link1.display }}</a>
+ <a href="{{ publi.link2.url }}" target="_blank" class="btn btn-primary">{{ publi.link2.display }}</a></p>
+ {% endif %}
+ 
+ {% if publi.number_link == 3 %}
+ <p><a href="{{ publi.link1.url }}" target="_blank" class="btn btn-default">{{ publi.link1.display }}</a>
+ <a href="{{ publi.link2.url }}" target="_blank" class="btn btn-primary">{{ publi.link2.display }}</a>
+ <a href="{{ publi.link3.url }}" target="_blank" class="btn btn-success">{{ publi.link3.display }}</a></p>
+ {% endif %}
+ 
+ {% if publi.number_link == 4 %}
+ <p><a href="{{ publi.link1.url }}" target="_blank" class="btn btn-default">{{ publi.link1.display }}</a>
+ <a href="{{ publi.link2.url }}" target="_blank" class="btn btn-primary">{{ publi.link2.display }}</a>
+ <a href="{{ publi.link3.url }}" target="_blank" class="btn btn-success">{{ publi.link3.display }}</a>
+ <a href="{{ publi.link4.url }}" target="_blank" class="btn btn-info">{{ publi.link4.display }}</a></p>
+ {% endif %}
+ 
+ {% if publi.number_link == 5 %}
+ <p><a href="{{ publi.link1.url }}" target="_blank" class="btn btn-default">{{ publi.link1.display }}</a>
+ <a href="{{ publi.link2.url }}" target="_blank" class="btn btn-primary">{{ publi.link2.display }}</a>
+ <a href="{{ publi.link3.url }}" target="_blank" class="btn btn-success">{{ publi.link3.display }}</a>
+ <a href="{{ publi.link4.url }}" target="_blank" class="btn btn-info">{{ publi.link4.display }}</a>
+ <a href="{{ publi.link5.url }}" target="_blank" class="btn btn-warning">{{ publi.link5.display }}</a></p>
+ {% endif %}
+ 
+ {% if publi.number_link == 6 %}
+ <p><a href="{{ publi.link1.url }}" target="_blank" class="btn btn-default">{{ publi.link1.display }}</a>
+ <a href="{{ publi.link2.url }}" target="_blank" class="btn btn-primary">{{ publi.link2.display }}</a>
+ <a href="{{ publi.link3.url }}" target="_blank" class="btn btn-success">{{ publi.link3.display }}</a>
+ <a href="{{ publi.link4.url }}" target="_blank" class="btn btn-info">{{ publi.link4.display }}</a>
+ <a href="{{ publi.link5.url }}" target="_blank" class="btn btn-warning">{{ publi.link5.display }}</a>
+ <a href="{{ publi.link6.url }}" target="_blank" class="btn btn-danger">{{ publi.link6.display }}</a></p>
+ {% endif %}
+
+ </div>
+</div>
+
+{% endfor %}
+
+### **Publications (<font color="red">Journal Papers</font> <font color="green">&</font> <font color="blue">Conference Papers</font>)**
 
 {% for publi in site.data.publist limit:100 %}
 

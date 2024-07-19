@@ -1,0 +1,26 @@
+- title: 'Channel-Equalization-HAR: A Light-weight Convolutional Neural Network for Wearable Sensor Based Human Activity Recognition'
+  image: 22_TMC_CE.png
+  description: We provide an alternative called Channel Equalization in this paper to reactivate these inhibited channels by performing whitening or decorrelation operation, which compels all channels to contribute more or less to feature representation.
+  authors: <strong>Wenbo Huang</strong> , Lei Zhang*, Hao Wu, Fuhong Min, and Aiguo Song
+  venue: TMC 2022-1 <font color="red">(Journal Paper)</font> 
+  name: IEEE Transactions on Mobile Computing (CCF Rank A, IF=7.9, <a href="https://wenbohuang1002.github.io/papers/TMC_HC.pdf">ESI Top 1% Highly Cited</a>)
+  DOI: 'DOI: 10.1109/TMC.2022.3174816'
+  number_link: 6
+  link1:
+    url: https://wenbohuang1002.github.io/papers/TMC-2022-1.pdf
+    display: PDF
+  link2:
+    url: https://github.com/wenbohuang1002/Channel-Selectivity-HAR
+    display: Code (GitHub)
+  link3:
+    url: https://wenbohuang1002.github.io/404
+    display: Code (In Jittor)
+  link4:
+    url: https://ieeexplore.ieee.org/abstract/document/9774930
+    display: Website Online
+  link5:
+    url: https://wenbohuang1002.github.io/404
+    display: 中译版
+  link6:
+    url: https://wenbohuang1002.github.io/papers/bib/TMC-2022-1.txt
+    display: Cite by bib

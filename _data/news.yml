@@ -31,25 +31,16 @@
   headline: Public Repository is released. By the way, today is my mother's birthday, 2021.12.02 is a symmetrical day, happy birthday, my dear mother!  
 
 - date: 2021.11.25
-  headline: A paper on <a href="https://wenbohuang1002.github.io/papers/TIM-2021-3.pdf">Deep Convolutional Networks with Tunable Speed-Accuracy Trade-off for Human Activity Recognition Using Wearables</a> is accepted by IEEE Transactions on Instrumentation and Measurement (IEEE TIM).
-
-- date: 2021.10.10
-  headline: <a href="https://github.com/wenbohuang1002/Shallow-HAR">Code</a> for paper <a href="https://wenbohuang1002.github.io/papers/TIM-2021-1.pdf">Shallow Convolutional Neural Networks for Human Activity Recognition using Wearable Sensors</a> is released.
-
-- date: 2021.10.8
-  headline: I have built the Organization <a href="https://github.com/Xero-H">Xero (Github Public Repositories)</a>. I will synchronizedly upload our code on it.
+  headline: One paper is accepted by IEEE Transactions on Instrumentation and Measurement (IEEE TIM).
   
 - date: 2021.8.17
   headline: My master thesis Research on Mutiple-Channel Convolutional Neural Network based Human Activity Recognition is released. Today is also my father's birthday. Happy Birthday, my dear father!
   
 - date: 2021.7.23
-  headline: A paper on <a href="https://wenbohuang1002.github.io/papers/TIM-201-2.pdf">Deep Neural Networks for Sensor-Based Human Activity Recognition Using Selective Kernel Convolution</a> is accepted by IEEE Transactions on Instrumentation and Measurement (IEEE TIM).
-  
-- date: 2021.7.1
-  headline:  <a href="https://github.com/wenbohuang1002/Channel-Selectivity-HAR">Code</a> for paper <a href="https://wenbohuang1002.github.io/papers/JBHI-2021-1.pdf">The Convolutional Neural Networks Training with Channel-Selectivity for Human Activity Recognition Based on Sensors</a> is released.
+  headline: One paper is accepted by IEEE Transactions on Instrumentation and Measurement (IEEE TIM).
 
 - date: 2021.6.27
-  headline: My homepage <a href="https://wenbohuang1002.github.io">wenbohuang1002.github.io</a> is created.
+  headline: My homepage is created.
 
 - date: 2021.6.22
   headline: A paper on <a href="https://wenbohuang1002.github.io/papers/JBHI-2021-1.pdf">The Convolutional Neural Networks Training with Channel-Selectivity for Human Activity Recognition Based on Sensors</a> is accepted by IEEE Journal of Biomedical and Health Informatics (IEEE JBHI, Old Name：IEEE Transactions on Information Technology in Biomedicine, IEEE TITB).

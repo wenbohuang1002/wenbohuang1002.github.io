@@ -1,49 +1,60 @@
-- date: 2024.7.16
-  headline: 'One paper is accepted by 2024 32nd ACM International Conference on Multimedia, Melbourne, Australia (ACM MM 2024).'
-  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
-  hot: '<img src="images/logo/hot1.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
-
 - date: 2024.5.26
   headline: 'I am invited by <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> as a reviewer.'
 
 - date: 2024.2.1
-  headline: 'I am invited by ACM MM 2024 as a reviewer.'
+  headline: 'I am invited by <a href="https://2024.acmmm.org/">ACM MM 2024</a> as a reviewer.'
 
 - date: 2024.1.12
-  headline: 'One paper is accepted by IEEE Transactions on Biometrics, Behavior, and Identity Science (IEEE TBIOM).'
+  headline: 'A paper on <a href="https://wenbohuang1002.github.io/papers/TBIOM-2024-1.pdf">PatchHAR: A MLP-like Architecture for Efficient Activity Recognition using Wearables</a> is accepted by IEEE Transactions on Biometrics, Behavior, and Identity Science (IEEE TBIOM).'
+  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
 
 - date: 2022.7.22
-  headline: 'One paper is accepted by ACM Transactions on Embedded Computing Systems (ACM TECS).'
+  headline: 'A paper on <a href="https://wenbohuang1002.github.io/papers/TECS-2022-1.pdf">Deep Ensemble Learning for Human Activity Recognition Using Wearable Sensors via Filter Activation</a> is accepted by ACM Transactions on Embedded Computing Systems (ACM TECS).'
+  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
+  hot: '<img src="images/logo/hot1.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
   
 - date: 2022.5.10
-  headline: 'One paper is accepted by IEEE Transactions on Mobile Computing (IEEE TMC).'
+  headline: 'A paper on <a href="https://wenbohuang1002.github.io/papers/TMC-2022-1.pdf">Channel-Equalization-HAR: A Light-weight Convolutional Neural Network for Wearable Sensor Based Human Activity Recognition</a> is accepted by IEEE Transactions on Mobile Computing (IEEE TMC).'
+  news: '<img src="images/logo/hot1.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
   
 - date: 2022.2.28
-  headline: 'One paper is accepted by IEEE Transactions on Instrumentation and Measurement (IEEE TIM).'
+  headline: A paper on <a href="https://wenbohuang1002.github.io/papers/TIM-2022-1.pdf">Deformable Convolutional Networks for Multimodal Human Activity Recognition using Wearable Sensors</a> is accepted by IEEE Transactions on Instrumentation and Measurement (IEEE TIM).
 
 - date: 2022.2.25
-  headline: 'One paper is accepted by Elsevier Expert Systems with Applications (ESWA).'
+  headline: A paper on <a href="https://wenbohuang1002.github.io/papers/ESWA-2022-1.pdf">Human Activity Recognition Using Wearable Sensors by Heterogeneous Convolutional Neural Networks</a> is accepted by Elsevier Expert Systems with Applications (ESWA).
 
 - date: 2022.1.10
-  headline: 'I am admitted as a Ph.D student by School of Computer Science and Engineering, Southeast University.' 
+  headline: I am admitted as a Ph.D student by <a href="https://cse.seu.edu.cn/">School of Computer Science and Engineering</a>, <a href="https://www.seu.edu.cn/">Southeast University</a>. 
 
 - date: 2021.12.2
-  headline: 'Public Repository is released. By the way, today is my mother's birthday, 2021.12.02 is a symmetrical day, happy birthday, my dear mother!'  
+  headline: <a href="https://github.com/Xero-H/IEEE-TIM-2021-3">Code (Public Repositories)</a> and <a href="https://github.com/Chauncey-Wang/Tunable-Speed-Accuracy-Trade-off-for-HAR">Code</a> for paper <a href="https://wenbohuang1002.github.io/papers/TIM-2021-3.pdf">Deep Convolutional Networks with Tunable Speed-Accuracy Trade-off for Human Activity Recognition Using Wearables</a> is released. By the way, today is my mother's birthday, 2021.12.02 is a symmetrical day, happy birthday, my dear mother!  
 
 - date: 2021.11.25
-  headline: 'One paper is accepted by IEEE Transactions on Instrumentation and Measurement (IEEE TIM).'
+  headline: A paper on <a href="https://wenbohuang1002.github.io/papers/TIM-2021-3.pdf">Deep Convolutional Networks with Tunable Speed-Accuracy Trade-off for Human Activity Recognition Using Wearables</a> is accepted by IEEE Transactions on Instrumentation and Measurement (IEEE TIM).
+
+- date: 2021.10.10
+  headline: <a href="https://github.com/wenbohuang1002/Shallow-HAR">Code</a> for paper <a href="https://wenbohuang1002.github.io/papers/TIM-2021-1.pdf">Shallow Convolutional Neural Networks for Human Activity Recognition using Wearable Sensors</a> is released.
+
+- date: 2021.10.8
+  headline: I have built the Organization <a href="https://github.com/Xero-H">Xero (Github Public Repositories)</a>. I will synchronizedly upload our code on it.
   
 - date: 2021.8.17
   headline: My master thesis Research on Mutiple-Channel Convolutional Neural Network based Human Activity Recognition is released. Today is also my father's birthday. Happy Birthday, my dear father!
   
 - date: 2021.7.23
-  headline: 'One paper is accepted by IEEE Transactions on Instrumentation and Measurement (IEEE TIM).'
+  headline: A paper on <a href="https://wenbohuang1002.github.io/papers/TIM-201-2.pdf">Deep Neural Networks for Sensor-Based Human Activity Recognition Using Selective Kernel Convolution</a> is accepted by IEEE Transactions on Instrumentation and Measurement (IEEE TIM).
+  
+- date: 2021.7.1
+  headline:  <a href="https://github.com/wenbohuang1002/Channel-Selectivity-HAR">Code</a> for paper <a href="https://wenbohuang1002.github.io/papers/JBHI-2021-1.pdf">The Convolutional Neural Networks Training with Channel-Selectivity for Human Activity Recognition Based on Sensors</a> is released.
 
 - date: 2021.6.27
-  headline: 'My homepage is created.'
+  headline: My homepage <a href="https://wenbohuang1002.github.io">wenbohuang1002.github.io</a> is created.
 
 - date: 2021.6.22
-  headline: 'One paper is accepted by IEEE Journal of Biomedical and Health Informatics (IEEE JBHI).'
+  headline: A paper on <a href="https://wenbohuang1002.github.io/papers/JBHI-2021-1.pdf">The Convolutional Neural Networks Training with Channel-Selectivity for Human Activity Recognition Based on Sensors</a> is accepted by IEEE Journal of Biomedical and Health Informatics (IEEE JBHI, Old Name：IEEE Transactions on Information Technology in Biomedicine, IEEE TITB).
 
 - date: 2021.6.15
-  headline: 'One paper is accepted by IEEE Transactions on Instrumentation and Measurement (IEEE TIM).'
+  headline: A paper on <a href="https://wenbohuang1002.github.io/papers/TIM-2021-1.pdf">Shallow Convolutional Neural Networks for Human Activity Recognition using Wearable Sensors</a> is accepted by IEEE Transactions on Instrumentation and Measurement (IEEE TIM).
+
+- date: 2020.12.18
+  headline:  <a href="https://github.com/wenbohuang1002/SC-CNN-For-HAR">Code</a> for Actual Test APP of SC is released.

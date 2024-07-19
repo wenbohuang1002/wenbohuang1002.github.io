@@ -1,17 +1,16 @@
-- date: 2022.7.22
-  headline: 'A paper on is accepted by 2024 32nd ACM International Conference on Multimedia (ACM MM2024).'
+- date: 2024.7.16
+  headline: 'One paper on is accepted by 2024 32nd ACM International Conference on Multimedia (ACM MM2024).'
   news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
   hot: '<img src="images/logo/hot1.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
 
 - date: 2024.5.26
-  headline: 'I am invited by <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> as a reviewer.'
+  headline: 'I am invited by NeurIPS 2024 as a reviewer.'
 
 - date: 2024.2.1
-  headline: 'I am invited by <a href="https://2024.acmmm.org/">ACM MM 2024</a> as a reviewer.'
+  headline: 'I am invited by ACM MM 2024 as a reviewer.'
 
 - date: 2024.1.12
-  headline: 'A paper on <a href="https://wenbohuang1002.github.io/papers/TBIOM-2024-1.pdf">PatchHAR: A MLP-like Architecture for Efficient Activity Recognition using Wearables</a> is accepted by IEEE Transactions on Biometrics, Behavior, and Identity Science (IEEE TBIOM).'
-  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
+  headline: 'One paper is accepted by IEEE Transactions on Biometrics, Behavior, and Identity Science (IEEE TBIOM).'
 
 - date: 2022.7.22
   headline: 'A paper on <a href="https://wenbohuang1002.github.io/papers/TECS-2022-1.pdf">Deep Ensemble Learning for Human Activity Recognition Using Wearable Sensors via Filter Activation</a> is accepted by ACM Transactions on Embedded Computing Systems (ACM TECS).'

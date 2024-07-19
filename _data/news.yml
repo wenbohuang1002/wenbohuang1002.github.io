@@ -1,3 +1,8 @@
+- date: 2022.7.22
+  headline: 'A paper on is accepted by 2024 32nd ACM International Conference on Multimedia (ACM MM2024).'
+  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
+  hot: '<img src="images/logo/hot1.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
+
 - date: 2024.5.26
   headline: 'I am invited by <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> as a reviewer.'
 
@@ -55,6 +60,3 @@
 
 - date: 2021.6.15
   headline: A paper on <a href="https://wenbohuang1002.github.io/papers/TIM-2021-1.pdf">Shallow Convolutional Neural Networks for Human Activity Recognition using Wearable Sensors</a> is accepted by IEEE Transactions on Instrumentation and Measurement (IEEE TIM).
-
-- date: 2020.12.18
-  headline:  <a href="https://github.com/wenbohuang1002/SC-CNN-For-HAR">Code</a> for Actual Test APP of SC is released.

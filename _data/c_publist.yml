@@ -7,7 +7,7 @@
   DOI: 'DOI: 10.1145/3664647.3681062'
   number_link: 7
   link1:
-    url: https://wenbohuang1002.github.io/papers/TMC-2022-1.pdf
+    url: https://wenbohuang1002.github.io/papers/MM-2024-1.pdf
     display: PDF (Main text)
   link2:
     url: https://wenbohuang1002.github.io/404
@@ -22,7 +22,7 @@
     url: https://wenbohuang1002.github.io/papers/bib/TMC-2022-1.txt
     display: Latex
   link6:
-    url: https://ieeexplore.ieee.org/abstract/document/9774930
+    url: https://openreview.net/forum?id=ZDeczo36KR
     display: OpenReview
   link7:
     url: https://wenbohuang1002.github.io/papers/bib/TMC-2022-1.txt

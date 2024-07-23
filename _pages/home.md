@@ -13,13 +13,13 @@ permalink: /
 
 ### **About <font color="#00d1ff">Me</font>**
 I come from Nanjing, Jiangsu, China, where is known as 'Capital of Six Dynasties' and 'City of Stone'. I was a <del>script kiddie</del> and received the 
-B.S. degree from <a href="http://www.njtech.edu.cn/" target="_blank">Nanjing Tech University</a>, Nanjing, China, in 2019. I received the M.S degree with the supervision by <a href="http://leizhangnjnu.github.io" target="_blank">A.P Lei Zhang</a> 
+B.S. degree from <a href="http://www.njtech.edu.cn/" target="_blank">Nanjing Tech University</a>, Nanjing, China, in 2019. I received the M.S degree with the supervision by <a href="http://leizhangnjnu.github.io" target="_blank">Prof. Lei Zhang</a> 
 from <a href="http://www.njnu.edu.cn/" target="_blank">Nanjing Normal University</a>, Nanjing, China, in 2022. Now I am a Ph.D student under the Excellent Ph.D Training Program 
 and pursuing my degree in
 <!-- <a href="http://palm.seu.edu.cn/" target="_blank">PAttern Learning and Mining (PALM) Lab</a>, -->
 <a href="https://cse.seu.edu.cn/" target="_blank">School of Computer Science and Engineering</a>, <a href="https://www.seu.edu.cn/">Southeast University</a>,
-Nanjing, China, under the supervision of <a href="https://jhzhangseu.gitee.io/" target="_blank">A.P Jinghui Zhang</a>. 
-My research interests including Video Analytic, Multiedia, and Ubiquitous Computing. I am also an <a href="{{ site.url }}{{ site.baseurl }}/images/pages/animal lover.jpg">animal lover</a> (<a href="{{ site.url }}{{ site.baseurl }}/papers/resume/fahlo.pdf">fahlo link</a>). 
+Nanjing, China, under the supervision of <a href="https://jhzhangseu.github.io/" target="_blank">A.P Jinghui Zhang</a>. 
+My research interests including Video Analytic, Multimedia, and Ubiquitous Computing. I am also an <a href="{{ site.url }}{{ site.baseurl }}/images/pages/animal lover.jpg">animal lover</a> (<a href="{{ site.url }}{{ site.baseurl }}/papers/resume/fahlo.pdf">fahlo link</a>). 
 <br>
 
 

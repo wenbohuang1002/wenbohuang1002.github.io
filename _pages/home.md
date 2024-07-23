@@ -113,7 +113,7 @@ CV was last updated on 2024.1.14. <br>
 ### **<font color="blue">Conference</font> Publication**
 
 <!-- #### * means corresponding authors -->
-{% for publi in site.data.c_publist limit:4 %}
+{% for publi in site.data.c_publist limit:100 %}
 
 <div class="col-sm-11 clearfix">
  <div class="well">
@@ -192,7 +192,7 @@ CV was last updated on 2024.1.14. <br>
 
 ### **<font color="red">Journal</font> Publication**
 
-{% for publi in site.data.j_publist limit:100 %}
+{% for publi in site.data.j_publist limit:4 %}
 
 <div class="col-sm-11 clearfix">
  <div class="well">

@@ -4,23 +4,26 @@
   authors: <strong>Wenbo Huang</strong> , Jinghui Zhang*, Xuwei Qian, Zhen Wu, Meng Wang and Lei Zhang
   venue: MM 2024-1 <font color="blue">(Conference Paper)</font> 
   name: 2024 the 32nd ACM International Conference on Multimedia, Melbourne, Australia (CCF Rank A, Poster Presentation, Accept Rate 26.2%)
-  DOI: 'DOI: 10.1109/TMC.2022.3174816'
-  number_link: 6
+  DOI: 'DOI: 10.1145/3664647.3681062'
+  number_link: 7
   link1:
     url: https://wenbohuang1002.github.io/papers/TMC-2022-1.pdf
-    display: PDF
+    display: PDF (Main text)
   link2:
-    url: https://github.com/wenbohuang1002/SOAP
-    display: Code (GitHub)
+    url: https://wenbohuang1002.github.io/404
+    display: PDF (Full edition)
   link3:
     url: https://wenbohuang1002.github.io/404
-    display: Code (In Jittor)
-  link4:
-    url: https://ieeexplore.ieee.org/abstract/document/9774930
-    display: Website Online
-  link5:
-    url: https://wenbohuang1002.github.io/404
     display: 中译版
+  link4:
+    url: https://github.com/wenbohuang1002/SOAP
+    display: Code (GitHub)
+  link5:
+    url: https://wenbohuang1002.github.io/papers/bib/TMC-2022-1.txt
+    display: Latex
   link6:
+    url: https://ieeexplore.ieee.org/abstract/document/9774930
+    display: OpenReview
+  link7:
     url: https://wenbohuang1002.github.io/papers/bib/TMC-2022-1.txt
     display: Cite by bib

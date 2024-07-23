@@ -19,35 +19,8 @@ and pursuing my degree in
 <!-- <a href="http://palm.seu.edu.cn/" target="_blank">PAttern Learning and Mining (PALM) Lab</a>, -->
 <a href="https://cse.seu.edu.cn/" target="_blank">School of Computer Science and Engineering</a>, <a href="https://www.seu.edu.cn/">Southeast University</a>,
 Nanjing, China, under the supervision of <a href="https://jhzhangseu.gitee.io/" target="_blank">A.P Jinghui Zhang</a>. 
-My research interests including Video Analysis and Ubiquitous Computing. I am also an <a href="{{ site.url }}{{ site.baseurl }}/images/pages/animal lover.jpg">animal lover</a> (<a href="{{ site.url }}{{ site.baseurl }}/papers/resume/fahlo.pdf">fahlo link</a>). 
-<!-- By the way, I must express my gratitude to <a href="https://sci-hub.se/alexandra">Alexandra Elbakyan</a>. The website built by her helps me much on paper writing and search.
-Everyone can find the papers they need <a href="https://sci-hub.st/">here [Sci-Hub]</a>. -->
+My research interests including Video Analytic, Multiedia, and Ubiquitous Computing. I am also an <a href="{{ site.url }}{{ site.baseurl }}/images/pages/animal lover.jpg">animal lover</a> (<a href="{{ site.url }}{{ site.baseurl }}/papers/resume/fahlo.pdf">fahlo link</a>). 
 <br>
-<!-- ### **Notice**
-欢迎先阅读这个<a href="https://wenbohuang1002.github.io/document">文档</a>。
-<br>
-Welcome to read this <a href="https://wenbohuang1002.github.io/document">document</a>. -->
-<!-- <del>Select the part inside the arrow to reveal the hidden content.</del> -->
-
-<!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=128&d=Xit1o4P9tPO4V5F-vf13Il6mKflR-sERYSPiKcWoLcM"></script> -->
-
-<!-- ### **Skills & Hobbies (Sort by Proficiency)**
-
-#### **Skills**
-* Languages
-    - Python (PyTorch, Jittor, Keras, TensorFlow).
-	- C#, LaTeX.
-	- SQL, Kotlin.
-
-#### **Hobbies**
-* Sports
-    - Cycling.
-	- Rope Skipping.
-
-* Recreation
-    - Drum Set.
-	- Card Game (OCG like Yo☆Gi☆Oh).
-	- Drawing. -->
 
 
 ### **CV<font color="white"><sup><sub><font size="2">   PS：为了更新简历，我还tm花99买了超级简历的终生会员。</font></sub></sup></font>**

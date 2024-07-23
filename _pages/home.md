@@ -177,7 +177,7 @@ CV was last updated on 2024.1.14. <br>
  <a href="{{ publi.link4.url }}" target="_blank" class="btn btn-info">{{ publi.link4.display }}</a>
  <a href="{{ publi.link5.url }}" target="_blank" class="btn btn-warning">{{ publi.link5.display }}</a>
  <a href="{{ publi.link6.url }}" target="_blank" class="btn btn-danger">{{ publi.link6.display }}</a>
- <a href="{{ publi.link7.url }}" target="_blank" class="btn">{{ publi.link7.display }}</a></p>
+ <a href="{{ publi.link7.url }}" target="_blank" class="btn btn-default">{{ publi.link7.display }}</a></p>
 
  {% endif %}
 

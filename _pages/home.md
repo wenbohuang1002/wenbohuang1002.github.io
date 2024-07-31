@@ -29,7 +29,7 @@ My research interests including Video Analytic, Multimedia, and Ubiquitous Compu
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_5.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_6.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_7.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">  
-I have fortunately escaped from a <del><font color="red">torture group</font></del> for 1 year.
+I have fortunately escaped from <del><font color="red">a torture group</font></del> for 1 year.
 <br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_1.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_2.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">

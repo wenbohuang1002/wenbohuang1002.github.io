@@ -21,7 +21,7 @@ and pursuing my degree in
 Nanjing, China, under the supervision of <a href="https://jhzhangseu.github.io/" target="_blank">A.P Jinghui Zhang</a>. 
 My research interests including Video Analytic, Multimedia, and Ubiquitous Computing. I am also an <a href="{{ site.url }}{{ site.baseurl }}/images/pages/animal lover.jpg">animal lover</a> (<a href="{{ site.url }}{{ site.baseurl }}/papers/resume/fahlo.pdf">fahlo link</a>). 
 <br>
-<p><img src="{{ site.url }}{{ site.baseurl }}/images/logo/doge_1.gif" width="30"> <img src="{{ site.url }}{{ site.baseurl }}/images/logo/doge_2.gif" width="30"> <img src="{{ site.url }}{{ site.baseurl }}/images/logo/cheer.gif" width="30"> I have escaped from a torture team for 1 year. <img src="{{ site.url }}{{ site.baseurl }}/images/logo/doge_1.gif" width="30"> <img src="{{ site.url }}{{ site.baseurl }}/images/logo/doge_2.gif" width="30"> <img src="{{ site.url }}{{ site.baseurl }}/images/logo/cheer.gif" width="30"></p>
+<p><img src="{{ site.url }}{{ site.baseurl }}/images/logo/doge_1.gif" width="20"> <img src="{{ site.url }}{{ site.baseurl }}/images/logo/doge_2.gif" width="20"> <img src="{{ site.url }}{{ site.baseurl }}/images/logo/cheer.gif" width="20" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"> I have escaped from a torture team for 1 year. <img src="{{ site.url }}{{ site.baseurl }}/images/logo/doge_1.gif" width="20"> <img src="{{ site.url }}{{ site.baseurl }}/images/logo/doge_2.gif" width="20"> <img src="{{ site.url }}{{ site.baseurl }}/images/logo/cheer.gif" width="20"></p>
 <br>
 
 

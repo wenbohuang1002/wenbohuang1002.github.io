@@ -23,7 +23,7 @@ My research interests including Video Analytic, Multimedia, and Ubiquitous Compu
 <br>
 <p><img src="{{ site.url }}{{ site.baseurl }}/images/logo/doge_1.gif" width="20" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"><img src="{{ site.url }}{{ site.baseurl }}/images/logo/doge_2.gif" width="20" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"><img src="{{ site.url }}{{ site.baseurl }}/images/logo/cheer.gif" width="20" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"> 
 <br>
-Congratulations! I have escaped from a torture team for 1 year.
+I have escaped from a torture team for 1 year.
 <br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/logo/cheer.gif" width="20" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"><img src="{{ site.url }}{{ site.baseurl }}/images/logo/doge_2.gif" width="20" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"><img src="{{ site.url }}{{ site.baseurl }}/images/logo/doge_1.gif" width="20" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"></p>
 

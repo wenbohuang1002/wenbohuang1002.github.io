@@ -21,6 +21,8 @@ and pursuing my degree in
 Nanjing, China, under the supervision of <a href="https://jhzhangseu.github.io/" target="_blank">A.P Jinghui Zhang</a>. 
 My research interests including Video Analytic, Multimedia, and Ubiquitous Computing. I am also an <a href="{{ site.url }}{{ site.baseurl }}/images/pages/animal lover.jpg">animal lover</a> (<a href="{{ site.url }}{{ site.baseurl }}/papers/resume/fahlo.pdf">fahlo link</a>). 
 <br>
+<p><img src="{{ site.url }}{{ site.baseurl }}/images/logo/doge_1.gif" width="30"> <img src="{{ site.url }}{{ site.baseurl }}/images/logo/doge_2.gif" width="30"> <img src="{{ site.url }}{{ site.baseurl }}/images/logo/cheer.gif" width="30"> I have escaped from a torture team for 1 year. <img src="{{ site.url }}{{ site.baseurl }}/images/logo/doge_1.gif" width="30"> <img src="{{ site.url }}{{ site.baseurl }}/images/logo/doge_2.gif" width="30"> <img src="{{ site.url }}{{ site.baseurl }}/images/logo/cheer.gif" width="30"></p>
+<br>
 
 
 ### **CV<font color="white"><sup><sub><font size="2">   PS：为了更新简历，我还tm花99买了超级简历的终生会员。</font></sub></sup></font>**
@@ -43,11 +45,11 @@ CV was last updated on 2024.1.14. <br>
 {% for article in site.data.news limit:4 %}
 {{ article.date }} :
 <em>{{ article.headline }}</em>
+{{article.news}}
+{{article.hot}}
 {{article.happy1}}
 {{article.happy2}}
 {{article.happy3}}
-{{article.news}}
-{{article.hot}}
 {% endfor %}
 
 #### <a href="{{ site.url }}{{ site.baseurl }}/allnews" class="btn-xs btn-success">See All News</a>

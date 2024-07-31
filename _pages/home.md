@@ -45,6 +45,9 @@ CV was last updated on 2024.1.14. <br>
 <em>{{ article.headline }}</em>
 {{article.news}}
 {{article.hot}}
+{{article.happy1}}
+{{article.happy2}}
+{{article.happy3}}
 {% endfor %}
 
 #### <a href="{{ site.url }}{{ site.baseurl }}/allnews" class="btn-xs btn-success">See All News</a>

@@ -19,11 +19,8 @@
     url: https://github.com/wenbohuang1002/SOAP
     display: Code (GitHub)
   link5:
-    url: https://wenbohuang1002.github.io/papers/bib/TMC-2022-1.txt
-    display: Latex
-  link6:
     url: https://openreview.net/forum?id=ZDeczo36KR
     display: OpenReview
-  link7:
+  link6:
     url: https://wenbohuang1002.github.io/papers/bib/TMC-2022-1.txt
     display: Cite by bib

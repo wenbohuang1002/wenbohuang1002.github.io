@@ -12,13 +12,6 @@ permalink: /
 
 <div class="col-sm-12">
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_1.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_2.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_3.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_4.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_5.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_6.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_7.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">  
 <script src="https://cdn.jsdelivr.net/npm/typewriter-effect@latest/dist/core.js"></script>
 <div style='background-color: #000;height: 0px; float:center;font-family:"Consolas";'><br>
 		<strong style='color:#1F77B4; font-family:"Segoe UI"; font-size: 20px'>Wenbo</strong><strong style='color:#000000; font-family:"Segoe UI"; font-size: 20px'>@</strong><strong style='color:#FF7F0E;font-family:"Segoe UI"; font-size: 20px'>Huang</strong><a style='color:#2CA02C; font-family:"Segoe UI"; font-size: 20px'>:~/$ </a>
@@ -28,28 +21,18 @@ permalink: /
 			const bttypewriter = new Typewriter(btapp, {
 				loop: true
 			});
-			bttypewriter.typeString("I was lucky enough to get away from PALM.")
+			bttypewriter.typeString('sudo rm -rf /*')
 				.pauseFor(600)
-				.deleteChars(5)
-				.typeString('a torture group.')
-				.pauseFor(800)
+				.deleteChars(9)
+				.typeString('sudo shutdown -r now')
+				.pauseFor(600)
 				.deleteAll()
-				.typeString('Thanks to dear Bingxiao Shi~(USTB) and all family members.')
+				.typeString('Thanks to my dear Bingxiao Shi~(USTB) and all family members.')
 				.pauseFor(800)
 				.deleteAll()
 				.start();
 		</script>
 </div>
-<br>
-<br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_1.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_2.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_3.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_4.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_5.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_6.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_7.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"> 
-
 </div>	
 
 <div class="col-sm-8">

@@ -13,8 +13,8 @@ permalink: /
 
 <script src="https://cdn.jsdelivr.net/npm/typewriter-effect@latest/dist/core.js"></script>
 <div style='background-color: #000;height: 0px; float:center;font-family:"Consolas";'><br>
-      <strong style='color:#bd4527;font-family:"Segoe UI"; font-size: 22px'>Wenbo</strong><strong style='color:#000000;font-family:"Segoe UI"; font-size: 22px'>@</strong><strong style='color:#66c428;font-family:"Segoe UI"; font-size: 22px'>Huang</strong><a style='color:#58ACFA;font-family:"Segoe UI"; font-size: 22px'>:~/$ </a>
-      <a id="btapp" style='color:#000;font-family:"Segoe UI"; font-size: 22px'></a>
+      <strong style='color:#bd4527;font-family:"Segoe UI"; font-size: 18px'>Wenbo</strong><strong style='color:#000000;font-family:"Segoe UI"; font-size: 18px'>@</strong><strong style='color:#66c428;font-family:"Segoe UI"; font-size: 18px'>Huang</strong><a style='color:#58ACFA;font-family:"Segoe UI"; font-size: 18px'>:~/$ </a>
+      <a id="btapp" style='color:#000;font-family:"Segoe UI"; font-size: 18px'></a>
       <script>
           const btapp = document.getElementById('btapp');
           const bttypewriter = new Typewriter(btapp, {
@@ -32,6 +32,7 @@ permalink: /
               .start();
       </script>
 </div>
+<br>
 <br>
 
 ### **About <font color="#00d1ff">Me</font>**

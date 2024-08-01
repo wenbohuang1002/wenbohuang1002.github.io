@@ -11,22 +11,32 @@ permalink: /
 <div class="row">
 <div class="col-sm-8">
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_1.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_2.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_3.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_4.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_5.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_6.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_7.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">  
+<br>
+<br>
+<br>
 <script src="https://cdn.jsdelivr.net/npm/typewriter-effect@latest/dist/core.js"></script>
 <div style='background-color: #000;height: 0px; float:center;font-family:"Consolas";'><br>
-      <strong style='color:#bd4527;font-family:"Segoe UI"; font-size: 18px'>Wenbo</strong><strong style='color:#000000;font-family:"Segoe UI"; font-size: 18px'>@</strong><strong style='color:#66c428;font-family:"Segoe UI"; font-size: 18px'>Huang</strong><a style='color:#58ACFA;font-family:"Segoe UI"; font-size: 18px'>:~/$ </a>
-      <a id="btapp" style='color:#000;font-family:"Segoe UI"; font-size: 18px'></a>
+      <strong style='color:#bd4527; font-family:"Segoe UI"; font-size: 16px'>Wenbo</strong><strong style='color:#000000; font-family:"Segoe UI"; font-size: 16px'>@</strong><strong style='color:#66c428;font-family:"Segoe UI"; font-size: 16px'>Huang</strong><a style='color:#58ACFA; font-family:"Segoe UI"; font-size: 16px'>:~/$ </a>
+      <a id="btapp" style='color:#000; font-family:"Segoe UI"; font-size: 16px'></a>
       <script>
           const btapp = document.getElementById('btapp');
           const bttypewriter = new Typewriter(btapp, {
               loop: true
           });
-          bttypewriter.typeString("The only true wisdom is in knowing you know anything.")
+          bttypewriter.typeString("I was lucky enough to get away from PALM.")
               .pauseFor(800)
-              .deleteChars(9)
-              .typeString('nothing.')
+              .deleteChars(5)
+              .typeString('a torture group.')
               .pauseFor(800)
               .deleteAll()
-              .typeString('The beautiful thing about learning is that no one can take it away from you.')
+              .typeString('Thanks to dear Bingxiao Shi~(USTB), all family members, and friends.')
               .pauseFor(800)
               .deleteAll()
               .start();
@@ -34,6 +44,14 @@ permalink: /
 </div>
 <br>
 <br>
+<br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_1.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_2.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_3.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_4.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_5.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_6.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_7.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"> 
 
 ### **About <font color="#00d1ff">Me</font>**
 <p style="text-align: justify;">

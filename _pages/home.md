@@ -18,31 +18,27 @@ permalink: /
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_5.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_6.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_7.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">  
-<br>
-<br>
-<br>
 <script src="https://cdn.jsdelivr.net/npm/typewriter-effect@latest/dist/core.js"></script>
 <div style='background-color: #000;height: 0px; float:center;font-family:"Consolas";'><br>
-      <strong style='color:#bd4527; font-family:"Segoe UI"; font-size: 16px'>Wenbo</strong><strong style='color:#000000; font-family:"Segoe UI"; font-size: 16px'>@</strong><strong style='color:#66c428;font-family:"Segoe UI"; font-size: 16px'>Huang</strong><a style='color:#58ACFA; font-family:"Segoe UI"; font-size: 16px'>:~/$ </a>
-      <a id="btapp" style='color:#000; font-family:"Segoe UI"; font-size: 16px'></a>
+      <strong style='color:#1F77B4; font-family:"Segoe UI"; font-size: 12px'>Wenbo</strong><strong style='color:#000000; font-family:"Segoe UI"; font-size: 12px'>@</strong><strong style='color:#FF7F0E;font-family:"Segoe UI"; font-size: 12px'>Huang</strong><a style='color:#2CA02C; font-family:"Segoe UI"; font-size: 12px'>:~/$ </a>
+      <a id="btapp" style='color:#000; font-family:"Segoe UI"; font-size: 12px'></a>
       <script>
           const btapp = document.getElementById('btapp');
           const bttypewriter = new Typewriter(btapp, {
               loop: true
           });
           bttypewriter.typeString("I was lucky enough to get away from PALM.")
-              .pauseFor(800)
+              .pauseFor(600)
               .deleteChars(5)
               .typeString('a torture group.')
               .pauseFor(800)
               .deleteAll()
-              .typeString('Thanks to dear Bingxiao Shi~(USTB), all family members, and friends.')
+              .typeString('Thanks to dear Bingxiao Shi~(USTB) and all family members.')
               .pauseFor(800)
               .deleteAll()
               .start();
       </script>
 </div>
-<br>
 <br>
 <br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_1.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">

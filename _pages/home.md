@@ -24,7 +24,7 @@ permalink: /
 			bttypewriter.typeString('sudo rm -rf /*')
 				.pauseFor(600)
 				.deleteChars(9)
-				.typeString('sudo shutdown -r now')
+				.typeString('shutdown -r now')
 				.pauseFor(600)
 				.deleteAll()
 				.typeString('Thanks to my dear Bingxiao Shi (USTB) and all family members.')

@@ -11,7 +11,6 @@ permalink: /
 <div class="row">
 <div class="col-sm-8">
 
-<div style='background-color: #000; height: 0px; clear: both'>
 <script src="https://cdn.jsdelivr.net/npm/typewriter-effect@latest/dist/core.js"></script>
 <div style='background-color: #000;height: 0px; float:center;font-family:"Consolas";'><br>
       <strong style='color:#bd4527;font-family:"Segoe UI";'>thomas</strong><strong style='color:#000000;font-family:"Segoe UI";'>@</strong><strong style='color:#66c428;font-family:"Segoe UI";'>wang</strong><a style='color:#58ACFA;font-family:"Segoe UI";'>:~/$ </a>
@@ -33,7 +32,7 @@ permalink: /
               .start();
       </script>
 </div>
-</div>
+<br>
 
 ### **About <font color="#00d1ff">Me</font>**
 <p style="text-align: justify;">

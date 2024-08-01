@@ -12,7 +12,6 @@ permalink: /
 <div class="col-sm-8">
 
 ### **About <font color="#00d1ff">Me</font>**
-<text-align: justify> 
 I come from Nanjing, Jiangsu, China, where is known as 'Capital of Six Dynasties' and 'City of Stone'. I was a <del>script kiddie</del> and received the 
 B.S. degree from <a href="http://www.njtech.edu.cn/" target="_blank">Nanjing Tech University</a>, Nanjing, China, in 2019. I received the M.S degree with the supervision by <a href="http://leizhangnjnu.github.io" target="_blank">Prof. Lei Zhang</a> 
 from <a href="http://www.njnu.edu.cn/" target="_blank">Nanjing Normal University</a>, Nanjing, China, in 2022. Now I am a Ph.D student under the Excellent Ph.D Training Program 
@@ -40,7 +39,7 @@ I have fortunately escaped from <del><font color="red">a torture group</font></d
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_6.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_7.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"> 
 </p>
-</text-align: justify>
+
 
 ### **CV<font color="white"><sup><sub><font size="2">   PS：为了更新简历，我还tm花99买了超级简历的终生会员。</font></sub></sup></font>**
 You can download my latest CV (<a href="https://wenbohuang1002.github.io/papers/resume/Wenbo Huang's CV.pdf" target="_blank">English Version</a> and <a href="https://wenbohuang1002.github.io/papers/resume/黄文博的简历.pdf" target="_blank">Chinese Version</a>).<br>

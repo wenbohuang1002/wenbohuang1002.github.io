@@ -88,13 +88,15 @@ CV was last updated on 2024.1.14. <br>
   
   211189 post code, Unknown room, Computer Building.<br>
 
-  <a href="https://cse.seu.edu.cn/" target="_blank">School of Computer Science and Engineering</a>, Jiulong Lake Campus (<a href="https://j.map.baidu.com/d6/Gugf">Maps</a>).<br>
+  <a href="https://cse.seu.edu.cn/" target="_blank">School of Computer Science and Engineering</a> (<a href="https://j.map.baidu.com/d6/Gugf">Jiulong Lake Campus</a>).<br>
   
   <a href="http://www.seu.edu.cn/" target="_blank">Southeast University (SEU)</a>.<br> 
   
   Nanjing, Jiangsu, China. 
   <br> 
+  <span style="display: inline-block; vertical-align: top;">
   <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=Xit1o4P9tPO4V5F-vf13Il6mKflR-sERYSPiKcWoLcM&co=2d78ad&cmo=ff7700&cmn=00ad00&ct=000000'></script>
+  </span>
   </p>
   
 </div>

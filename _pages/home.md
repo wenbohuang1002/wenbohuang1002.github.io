@@ -78,21 +78,15 @@ CV was last updated on 2024.1.14. <br>
   <a href ="{{ site.url }}{{ site.baseurl }}/experience"> <img src="{{ site.url }}{{ site.baseurl }}/images/pages/adminZ.jpg" width="100%" alt="我自己" style="overflow: hidden; border-radius: 0; box-shadow: none; float: right"/></a>
   
   <p style="text-align: right;">
-  Wenbo Huang (The left one)<br> 
-  
-  黄文博 (左一)<br> 
-  
-  211189 post code, Unknown room, Computer Building.<br>
-
-  <a href="https://cse.seu.edu.cn/" target="_blank">School of Computer Science and Engineering</a> (<a href="https://j.map.baidu.com/d6/Gugf">Jiulong Lake Campus</a>).<br>
-  
-  <a href="http://www.seu.edu.cn/" target="_blank">Southeast University (SEU)</a>.<br> 
-  
-  Nanjing, Jiangsu, China. 
-  <br> 
-  <span style="display: inline-block; vertical-align: top;">
-  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=Xit1o4P9tPO4V5F-vf13Il6mKflR-sERYSPiKcWoLcM&co=2d78ad&cmo=ff7700&cmn=00ad00&ct=000000'></script>
-  </span>
+	<span style="display: block;">Wenbo Huang (The left one)</span>
+	<span style="display: block;">黄文博 (左一)</span>
+	<span style="display: block;">211189 Post Code, Unknown room, Computer Building.</span>
+	<span style="display: block;"><a href="https://cse.seu.edu.cn/" target="_blank">School of Computer Science and Engineering</a> (<a href="https://j.map.baidu.com/d6/Gugf">Jiulong Lake Campus</a>).</span>
+	<span style="display: block;"><a href="http://www.seu.edu.cn/" target="_blank">Southeast University (SEU)</a>.</span>
+	<span style="display: block;">Nanjing, Jiangsu, China.</span>
+  	<span style="display: inline-block; vertical-align: top;">
+  	<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=Xit1o4P9tPO4V5F-vf13Il6mKflR-sERYSPiKcWoLcM&co=2d78ad&cmo=ff7700&cmn=00ad00&ct=000000'></script>
+  	</span>
   </p>
   
 </div>

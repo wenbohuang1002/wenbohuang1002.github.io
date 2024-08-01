@@ -11,6 +11,28 @@ permalink: /
 <div class="row">
 <div class="col-sm-8">
 
+<script src="https://cdn.jsdelivr.net/npm/typewriter-effect@latest/dist/core.js"></script>
+<div style='background-color: #000;height: 0px; float:center;font-family:"Consolas";'><br>
+      <strong style='color:#bd4527;font-family:"Segoe UI";'>thomas</strong><strong style='color:#000000;font-family:"Segoe UI";'>@</strong><strong style='color:#66c428;font-family:"Segoe UI";'>wang</strong><a style='color:#58ACFA;font-family:"Segoe UI";'>:~/$ </a>
+      <a id="btapp" style='color:#000;font-family:"Segoe UI";'></a>
+      <script>
+          const btapp = document.getElementById('btapp');
+          const bttypewriter = new Typewriter(btapp, {
+              loop: true
+          });
+          bttypewriter.typeString("The only true wisdom is in knowing you know anything.")
+              .pauseFor(800)
+              .deleteChars(9)
+              .typeString('nothing.')
+              .pauseFor(800)
+              .deleteAll()
+              .typeString('The beautiful thing about learning is that no one can take it away from you.')
+              .pauseFor(800)
+              .deleteAll()
+              .start();
+      </script>
+</div>
+
 ### **About <font color="#00d1ff">Me</font>**
 <p style="text-align: justify;">
 I come from Nanjing, Jiangsu, China, where is known as 'Capital of Six Dynasties' and 'City of Stone'. I was a <del>script kiddie</del> and received the 

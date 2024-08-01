@@ -94,7 +94,9 @@ CV was last updated on 2024.1.14. <br>
   
   Nanjing, Jiangsu, China. 
   <br> 
+  <div style="float: right;">
   <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=Xit1o4P9tPO4V5F-vf13Il6mKflR-sERYSPiKcWoLcM&co=2d78ad&cmo=ff7700&cmn=00ad00&ct=000000'></script>
+  </div>
   </p>
   
 </div>

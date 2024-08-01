@@ -75,7 +75,7 @@ CV was last updated on 2024.1.14. <br>
 
 <div class="col-sm-4" style="display: table-cell; vertical-align: middle; text-align: right">
 
-  <a href ="{{ site.url }}{{ site.baseurl }}/experience"> <img src="{{ site.url }}{{ site.baseurl }}/images/pages/adminZ.jpg" width="100%" alt="我自己" style="overflow: hidden; border-radius: 0; box-shadow: none; text-align: right"/></a>
+  <a href ="{{ site.url }}{{ site.baseurl }}/experience"> <img src="{{ site.url }}{{ site.baseurl }}/images/pages/adminZ.jpg" width="70%" alt="我自己" style="overflow: hidden; border-radius: 0; box-shadow: none; text-align: right"/></a>
   
   <p style="text-align: right;">
 	<span style="display: block;">Wenbo Huang (The left one)</span>
@@ -89,8 +89,6 @@ CV was last updated on 2024.1.14. <br>
 	<span style="display: block;"><a href="http://www.seu.edu.cn/" target="_blank">Southeast University (SEU)</a>, Jiulong Lake Campus (<a href="https://j.map.baidu.com/d6/Gugf">📍Maps</a>).</span>
 	<br>
 	<span style="display: block;">No.2 Southeast University Road, Moling Street, 211189 Post Code, Nanjing, Jiangsu, China.</span>
-	<br>
-	<span style="display: block;">211189 Post Code, Nanjing, Jiangsu, China.</span>
 	<br>
 	<span style="display: inline-block; vertical-align: top;">
   	<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=Xit1o4P9tPO4V5F-vf13Il6mKflR-sERYSPiKcWoLcM&co=2d78ad&cmo=ff7700&cmn=00ad00&ct=000000'></script>

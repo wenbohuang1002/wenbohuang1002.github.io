@@ -75,10 +75,10 @@ CV was last updated on 2024.1.14. <br>
 
 <div class="col-sm-4" style="display: table-cell; vertical-align: middle; text-align: right">
 
-  <div style="overflow: hidden; text-align: right">
+  <!-- <div style="overflow: hidden; text-align: right"> -->
   <a href ="{{ site.url }}{{ site.baseurl }}/experience"> <img src="{{ site.url }}{{ site.baseurl }}/images/pages/adminZ.jpg" width="100%" alt="我自己" style="overflow: hidden; border-radius: 0; box-shadow: none; text-align: right"/></a>
   <!-- <a href ="{{ site.url }}{{ site.baseurl }}/experience"> <img src="{{ site.url }}{{ site.baseurl }}/images/pages/adminZ.jpg" class="img-responsive" width="100%" alt="我自己"/></a> -->
-  </div>
+  <!-- </div> -->
 
   <!-- <br clear="all" /> -->
 

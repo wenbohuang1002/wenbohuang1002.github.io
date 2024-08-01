@@ -34,7 +34,7 @@ permalink: /
 		</script>
 </div>
 </div>	
-
+<br>
 <div class="col-sm-8">
 
 ### **About <font color="#00d1ff">Me</font>**

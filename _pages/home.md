@@ -11,6 +11,13 @@ permalink: /
 <div class="row">
 <div class="col-sm-8">
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_1.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_2.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_3.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_4.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_5.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_6.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_7.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">  
 <script src="https://cdn.jsdelivr.net/npm/typewriter-effect@latest/dist/core.js"></script>
 <div style='background-color: #000;height: 0px; float:center;font-family:"Consolas";'><br>
       <strong style='color:#bd4527;font-family:"Segoe UI";'>thomas</strong><strong style='color:#000000;font-family:"Segoe UI";'>@</strong><strong style='color:#66c428;font-family:"Segoe UI";'>wang</strong><a style='color:#58ACFA;font-family:"Segoe UI";'>:~/$ </a>
@@ -33,6 +40,13 @@ permalink: /
       </script>
 </div>
 <br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_1.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_2.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_3.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_4.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_5.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_6.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_7.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"> 
 
 ### **About <font color="#00d1ff">Me</font>**
 <p style="text-align: justify;">

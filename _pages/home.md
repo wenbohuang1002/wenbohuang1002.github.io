@@ -11,6 +11,23 @@ permalink: /
 <div class="row">
 <div class="col-sm-8">
 
+<script>
+	const btapp = document.getElementById('btapp');
+	const bttypewriter = new Typewriter(btapp, {
+		loop: true
+	});
+	bttypewriter.typeString("The only true wisdom is in knowing you know anything.")
+		.pauseFor(800)
+		.deleteChars(9)
+		.typeString('nothing.')
+		.pauseFor(800)
+		.deleteAll()
+		.typeString('The beautiful thing about learning is that no one can take it away from you.')
+		.pauseFor(800)
+		.deleteAll()
+		.start();
+</script>
+
 ### **About <font color="#00d1ff">Me</font>**
 <p style="text-align: justify;">
 I come from Nanjing, Jiangsu, China, where is known as 'Capital of Six Dynasties' and 'City of Stone'. I was a <del>script kiddie</del> and received the 

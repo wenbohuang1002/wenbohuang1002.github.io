@@ -75,13 +75,13 @@ CV was last updated on 2024.1.14. <br>
 
 <div class="col-sm-4" style="display: table-cell; vertical-align: middle; text-align: center">
 
-  <div style="overflow: hidden; text-align: center">
-  <a href ="{{ site.url }}{{ site.baseurl }}/experience"> <img src="{{ site.url }}{{ site.baseurl }}/images/pages/adminZ.jpg" width="100%" alt="我自己" style="border-radius: 0; box-shadow: none;"/></a>
+  <!-- <div style="overflow: hidden; text-align: center"> -->
+  <a href ="{{ site.url }}{{ site.baseurl }}/experience"> <img src="{{ site.url }}{{ site.baseurl }}/images/pages/adminZ.jpg" width="100%" alt="我自己" style="overflow: hidden; text-align: right; border-radius: 0; box-shadow: none;"/></a>
   <!-- <a href ="{{ site.url }}{{ site.baseurl }}/experience"> <img src="{{ site.url }}{{ site.baseurl }}/images/pages/adminZ.jpg" class="img-responsive" width="100%" alt="我自己"/></a> -->
-  </div>
+  <!-- </div> -->
 
   <!-- <br clear="all" /> -->
-
+  <p style="text-align: justify;">
   Wenbo Huang (The left one)<br> 
   
   黄文博 (左一)<br> 
@@ -93,7 +93,7 @@ CV was last updated on 2024.1.14. <br>
   <a href="http://www.seu.edu.cn/" target="_blank">Southeast University (SEU)</a>.<br> 
   
   Nanjing, Jiangsu, China. <br> 
-  
+  </p>
   <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=Xit1o4P9tPO4V5F-vf13Il6mKflR-sERYSPiKcWoLcM&co=2d78ad&cmo=ff7700&cmn=00ad00&ct=000000'></script>
   
   

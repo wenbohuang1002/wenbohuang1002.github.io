@@ -75,16 +75,22 @@ CV was last updated on 2024.1.14. <br>
 
 <div class="col-sm-4" style="display: table-cell; vertical-align: middle; text-align: center">
 
-  <a href ="{{ site.url }}{{ site.baseurl }}/experience"> <img src="{{ site.url }}{{ site.baseurl }}/images/pages/adminZ.jpg" width="100%" alt="我自己" style="overflow: hidden; border-radius: 0; box-shadow: none; float: right"/></a>
+  <a href ="{{ site.url }}{{ site.baseurl }}/experience"> <img src="{{ site.url }}{{ site.baseurl }}/images/pages/adminZ.jpg" width="100%" alt="我自己" style="overflow: hidden; border-radius: 0; box-shadow: none; text-align: right"/></a>
   
   <p style="text-align: right;">
 	<span style="display: block;">Wenbo Huang (The left one)</span>
+
 	<span style="display: block;">黄文博 (左一)</span>
+	
 	<span style="display: block;">211189 Post Code, Unknown room, Computer Building.</span>
+	
 	<span style="display: block;"><a href="https://cse.seu.edu.cn/" target="_blank">School of Computer Science and Engineering</a> (<a href="https://j.map.baidu.com/d6/Gugf">Jiulong Lake Campus</a>).</span>
+	
 	<span style="display: block;"><a href="http://www.seu.edu.cn/" target="_blank">Southeast University (SEU)</a>.</span>
+	
 	<span style="display: block;">Nanjing, Jiangsu, China.</span>
-  	<span style="display: inline-block; vertical-align: top;">
+  	
+	<span style="display: inline-block; vertical-align: top;">
   	<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=Xit1o4P9tPO4V5F-vf13Il6mKflR-sERYSPiKcWoLcM&co=2d78ad&cmo=ff7700&cmn=00ad00&ct=000000'></script>
   	</span>
   </p>

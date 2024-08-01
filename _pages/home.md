@@ -40,8 +40,8 @@ I was lucky enough to get away from <del><font color="red">a torture group</font
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_7.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"> 
 </p>
 
-
-### **CV<font color="white"><sup><sub><font size="2">   PS：为了更新简历，我还tm花99买了超级简历的终生会员。</font></sub></sup></font>**
+<!-- ### **CV<font color="white"><sup><sub><font size="2">   PS：为了更新简历，我还tm花99买了超级简历的终生会员。</font></sub></sup></font>** -->
+### **CV**
 You can download my latest CV (<a href="https://wenbohuang1002.github.io/papers/resume/Wenbo Huang's CV.pdf" target="_blank">English Version</a> and <a href="https://wenbohuang1002.github.io/papers/resume/黄文博的简历.pdf" target="_blank">Chinese Version</a>).<br>
 CV was last updated on 2024.1.14. <br>
 <!-- <pre>

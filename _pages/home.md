@@ -88,7 +88,7 @@ CV was last updated on 2024.1.14. <br>
 	<br>
 	<span style="display: block;"><a href="http://www.seu.edu.cn/" target="_blank">Southeast University (SEU)</a>, Jiulong Lake Campus (<a href="https://j.map.baidu.com/d6/Gugf">📍Maps</a>).</span>
 	<br>
-	<span style="display: block;">No.2 Southeast University Road, Moling Street.</span>
+	<span style="display: block;">No.2 Southeast University Road, Moling Street, 211189 Post Code, Nanjing, Jiangsu, China.</span>
 	<br>
 	<span style="display: block;">211189 Post Code, Nanjing, Jiangsu, China.</span>
 	<br>

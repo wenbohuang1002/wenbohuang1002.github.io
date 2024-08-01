@@ -86,9 +86,9 @@ CV was last updated on 2024.1.14. <br>
   
   黄文博 (左一)<br> 
   
-  211189 post code, Unknown room, Computer Building, Jiulong Lake Campus (<a href="https://j.map.baidu.com/d6/Gugf">Maps</a>).<br>
+  211189 post code, Unknown room, Computer Building.<br>
 
-  <a href="https://cse.seu.edu.cn/" target="_blank">School of Computer Science and Engineering</a>.<br>
+  <a href="https://cse.seu.edu.cn/" target="_blank">School of Computer Science and Engineering</a>, Jiulong Lake Campus (<a href="https://j.map.baidu.com/d6/Gugf">Maps</a>).<br>
   
   <a href="http://www.seu.edu.cn/" target="_blank">Southeast University (SEU)</a>.<br> 
   

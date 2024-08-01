@@ -13,7 +13,7 @@ permalink: /
 <div class="col-sm-12">
 <script src="https://cdn.jsdelivr.net/npm/typewriter-effect@latest/dist/core.js"></script>
 <div style='background-color: #000;height: 0px; float:center;font-family:"Consolas";'><br>
-		<strong style='color:#1F77B4; font-family:"Segoe UI"; font-size: 18px'>wenbohuang1002</strong><strong style='color:#000000; font-family:"Segoe UI"; font-size: 18px'>@</strong><strong style='color:#FF7F0E;font-family:"Segoe UI"; font-size: 18px'>Life</strong><a style='color:#2CA02C; font-family:"Segoe UI"; font-size: 18px'>:~/$ </a>
+		<strong style='color:#1F77B4; font-family:"Segoe UI"; font-size: 18px'>wenbohuang1002</strong><strong style='color:#000000; font-family:"Segoe UI"; font-size: 18px'>@</strong><strong style='color:#FF7F0E;font-family:"Segoe UI"; font-size: 18px'>LIFE</strong><a style='color:#2CA02C; font-family:"Segoe UI"; font-size: 18px'>:~/$ </a>
 		<a id="btapp" style='color:#000; font-family:"Segoe UI"; font-size: 18px'></a>
 		<script>
 			const btapp = document.getElementById('btapp');

@@ -67,12 +67,8 @@ I was lucky enough to get away from <del><font color="red">a torture group</font
 </p>
 <!-- ### **CV<font color="white"><sup><sub><font size="2">   PS：为了更新简历，我还tm花99买了超级简历的终生会员。</font></sub></sup></font>** -->
 ### **CV**
-You can download my latest CV (<a href="https://wenbohuang1002.github.io/papers/resume/Wenbo Huang's CV.pdf" target="_blank">English Version</a> and <a href="https://wenbohuang1002.github.io/papers/resume/黄文博的简历.pdf" target="_blank">Chinese Version</a>).<br>
+You can download my latest CV (<a class="shadowed-text" style='color:#1F77B4' href="https://wenbohuang1002.github.io/papers/resume/Wenbo Huang's CV.pdf" target="_blank">English Version</a> and <a class="shadowed-text" style='color:#FF7F0E' href="https://wenbohuang1002.github.io/papers/resume/黄文博的简历.pdf" target="_blank">Chinese Version</a>).<br>
 CV was last updated on 2024.7.28. 
-<br>
-<a class="shadowed-text" style='color:#1F77B4' href="https://scholar.google.com/citations?user=yFBDPqcAAAAJ&hl=zh-CN&oi=sra">Google Scholar</a>
-&#20;&#20;&#20;&#20;
-<a class="shadowed-text" style='color:#FF7F0E' href="https://github.com/wenbohuang1002">Github</a>
 <!-- <pre>
                             CV was last updated on October 25, 2021.
 　　　　　／＞＿＿＿フ       

@@ -107,3 +107,7 @@ firstp {
   bottom: 50px;
   right: 100px;
 }
+
+.shadowed-text {
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* 水平偏移量，垂直偏移量，模糊半径和阴影颜色 */
+    }

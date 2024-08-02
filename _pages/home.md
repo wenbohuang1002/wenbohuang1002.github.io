@@ -66,7 +66,7 @@ I was lucky enough to get away from <del><font color="red">a torture group</font
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_7.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"> 
 </p>
 
-<a class="shadowed-text" style='color:#3aba69' href="https://scholar.google.com/citations?user=mLeYNLoAAAAJ">Google Scholar</a>
+<a class="shadowed-text" style='color:#1F77B4' href="https://scholar.google.com/citations?user=yFBDPqcAAAAJ&hl=zh-CN&oi=sra">Google Scholar</a>      <a class="shadowed-text" style='color:#FF7F0E' href="https://github.com/wenbohuang1002">Github</a>
 
 <!-- ### **CV<font color="white"><sup><sub><font size="2">   PS：为了更新简历，我还tm花99买了超级简历的终生会员。</font></sub></sup></font>** -->
 ### **CV**

@@ -1,5 +1,5 @@
 ---
-title: "Wenbo Huang (黄文博) - Homepage"
+title: "Wenbo Huang"
 layout: gridlay
 excerpt: "Wenbo Huang"
 sitemap: false

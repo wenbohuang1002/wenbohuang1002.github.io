@@ -48,8 +48,6 @@ and pursuing my degree in
 Nanjing, China, under the supervision of <a href="https://jhzhangseu.github.io/" target="_blank">A.P Jinghui Zhang</a>. 
 My research interests including Video Analytic, Multimedia, and Ubiquitous Computing. I am also an <a href="{{ site.url }}{{ site.baseurl }}/images/pages/animal lover.jpg">animal lover</a> (<a href="{{ site.url }}{{ site.baseurl }}/papers/resume/fahlo.pdf">fahlo link</a>). 
 <br>
-<a class="shadowed-text" style='color:#1F77B4' href="https://scholar.google.com/citations?user=yFBDPqcAAAAJ&hl=zh-CN&oi=sra">Google Scholar</a>
-<br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_1.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_2.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_3.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
@@ -70,7 +68,11 @@ I was lucky enough to get away from <del><font color="red">a torture group</font
 <!-- ### **CV<font color="white"><sup><sub><font size="2">   PS：为了更新简历，我还tm花99买了超级简历的终生会员。</font></sub></sup></font>** -->
 ### **CV**
 You can download my latest CV (<a href="https://wenbohuang1002.github.io/papers/resume/Wenbo Huang's CV.pdf" target="_blank">English Version</a> and <a href="https://wenbohuang1002.github.io/papers/resume/黄文博的简历.pdf" target="_blank">Chinese Version</a>).<br>
-CV was last updated on 2024.7.28. <br>
+CV was last updated on 2024.7.28. 
+<br>
+<a class="shadowed-text" style='color:#1F77B4' href="https://scholar.google.com/citations?user=yFBDPqcAAAAJ&hl=zh-CN&oi=sra">Google Scholar</a>
+&#20;&#20;&#20;&#20;
+<a class="shadowed-text" style='color:#FF7F0E' href="https://github.com/wenbohuang1002">Github</a>
 <!-- <pre>
                             CV was last updated on October 25, 2021.
 　　　　　／＞＿＿＿フ       

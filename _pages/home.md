@@ -495,13 +495,15 @@ CV was last updated on 2024.7.28.
 
 <a href="#" class="toTop"><br><br><br><br>Go Back to Top</a>
 
-var panel = document.querySelector('.panel');
-var panelContent = document.querySelector('.panel-content');
+<script>
+	var panel = document.querySelector('.panel');
+	var panelContent = document.querySelector('.panel-content');
 
-panel.addEventListener('click', function() {
-  if (panelContent.style.display === 'none') {
-    panelContent.style.display = 'block';
-  } else {
-    panelContent.style.display = 'none';
-  }
-});
+	panel.addEventListener('click', function() {
+	if (panelContent.style.display === 'none') {
+		panelContent.style.display = 'block';
+	} else {
+		panelContent.style.display = 'none';
+	}
+	});
+</script>

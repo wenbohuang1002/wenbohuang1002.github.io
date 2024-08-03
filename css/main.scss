@@ -112,16 +112,19 @@ firstp {
       text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* 水平偏移量，垂直偏移量，模糊半径和阴影颜色 */
 }
 
-details {
-  background-color: #f9f9f9;
-  border: 1px solid #ddd;
-  padding: 10px;
-  margin: 10px 0;
+#collapsible-panel {
+  border: 1px solid #ccc;
+  border-radius: 5px;
 }
 
-summary {
-  font-size: 18px;
-  color: #333;
-  cursor: pointer; /* 鼠标悬停时显示为指针手势 */
-  outline: none; /* 点击后不显示轮廓 */
+#content {
+  display: none;
+  padding: 10px;
+}
+
+#toggle-button {
+  background-color: #ccc;
+  color: #fff;
+  padding: 5px 10px;
+  cursor: pointer;
 }

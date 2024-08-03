@@ -388,10 +388,13 @@ CV was last updated on 2024.7.28.
 	- Outstanding graduate, 2022, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/2022graduate.pdf">Certificate</a>.
 	- Outstanding postgraduate (rank 3, total 31), 2021, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/2021outstanding.pdf">Certificate</a>.
 
-<details>
-	<summary>点击展开的内容标题</summary>
-	<p>这里是展开后显示的内容。</p>
-</details>
+<div id="collapsible-panel">
+	<button id="toggle-button">点击这里</button>
+	<div id="content">
+		<!-- 这里是要被隐藏和显示的内容 -->
+	</div>
+</div>
+	  
 
 
 <!-- #### <a href="#top" class="btn-xs btn-primary">Go Back to Top</a> -->

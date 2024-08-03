@@ -390,12 +390,18 @@ CV was last updated on 2024.7.28.
 	- Outstanding graduate, 2022, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/2022graduate.pdf">Certificate</a>.
 	- Outstanding postgraduate (rank 3, total 31), 2021, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/2021outstanding.pdf">Certificate</a>.
 	  
-<div class="panel">
-	<div class="panel-heading">面板标题</div>
-	<div class="panel-content">
-		面板内容
-	</div>
-</div>
+<details>
+	<summary>Academic Service: Journal Reviewer</summary>
+	
+	<ul>
+		<li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69">IEEE Transactions on Knowledge and Data Engineering</a>.</li>
+		<li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69">IEEE Transactions on Multimedia</a>.</li>
+		<li><a href="https://www.sciencedirect.com/journal/neurocomputing">Elsevier Neurocomputing</a>.</li>
+		<li><a href="https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7361">IEEE Sensors</a>.</li>
+		<!-- 其他列表项可以按照上面的方式添加 -->
+	</ul>
+	
+</details>
 	  
 
 <!-- #### <a href="#top" class="btn-xs btn-primary">Go Back to Top</a> -->
@@ -494,16 +500,3 @@ CV was last updated on 2024.7.28.
 <!-- 每六个人后便需要加这句 -->
 
 <a href="#" class="toTop"><br><br><br><br>Go Back to Top</a>
-
-<script>
-	var panel = document.querySelector('.panel');
-	var panelContent = document.querySelector('.panel-content');
-
-	panel.addEventListener('click', function() {
-	if (panelContent.style.display === 'none') {
-		panelContent.style.display = 'block';
-	} else {
-		panelContent.style.display = 'none';
-	}
-	});
-</script>

@@ -120,18 +120,27 @@ firstp {
   /* background-color: #f0f0f0; 添加一个背景色以便更好地看到居中效果 */
 }
 
-.panel {
+details {
   border: 1px solid #ccc;
-  margin-bottom: 10px;
+  padding: 10px;
+  margin: 10px 0;
 }
 
-.panel-heading {
-  background-color: #f5f5f5;
-  padding: 10px;
+summary {
+  font-weight: bold;
   cursor: pointer;
 }
 
-.panel-content {
-  display: none;
-  padding: 10px;
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+li a:hover {
+  text-decoration: underline;
 }

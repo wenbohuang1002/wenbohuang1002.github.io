@@ -389,8 +389,8 @@ CV was last updated on 2024.7.28.
 	  
 
 	<details>
-		<summary>aaaaa</summary>
-		<p>Epcot xxxxc</p>
+		<div class="summary">aaaaa</div>
+		<div class="p">Epcot xxxxc</div>
 	</details>
 
 

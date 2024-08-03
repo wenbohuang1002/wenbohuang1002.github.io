@@ -120,7 +120,7 @@ firstp {
   /* background-color: #f0f0f0; 添加一个背景色以便更好地看到居中效果 */
 }
 
-details, summary, details p {
+.details, .summary, .details .p {
   font-family: inherit; /* 使用默认字体 */
   background-color: transparent; /* 无背景色 */
   border: none; /* 无边框 */

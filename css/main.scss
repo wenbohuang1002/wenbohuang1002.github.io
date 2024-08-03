@@ -119,20 +119,3 @@ firstp {
   /* height: 100vh; 让内容垂直居中 */
   /* background-color: #f0f0f0; 添加一个背景色以便更好地看到居中效果 */
 }
-
-#collapsible-panel {
-  border: 1px solid #ccc;
-  border-radius: 5px;
-}
-
-#content {
-  display: none;
-  padding: 10px;
-}
-
-#toggle-button {
-  background-color: #ccc;
-  color: #fff;
-  padding: 5px 10px;
-  cursor: pointer;
-}

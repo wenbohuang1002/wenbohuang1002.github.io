@@ -119,28 +119,3 @@ firstp {
   /* height: 100vh; 让内容垂直居中 */
   /* background-color: #f0f0f0; 添加一个背景色以便更好地看到居中效果 */
 }
-
-details {
-  border: 1px solid #ccc;
-  padding: 10px;
-  margin: 10px 0;
-}
-
-summary {
-  font-weight: bold;
-  cursor: pointer;
-}
-
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-li a {
-  color: #007bff;
-  text-decoration: none;
-}
-
-li a:hover {
-  text-decoration: underline;
-}

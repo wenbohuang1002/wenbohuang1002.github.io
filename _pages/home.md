@@ -346,25 +346,22 @@ CV was last updated on 2024.7.28.
 
 #### **Academic Service**
 * **Journal Reviewer**
-	- <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69">IEEE Transactions on Knowledge and Data Engineering</a>.
-	- <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69">IEEE Transactions on Multimedia</a>.
-	- <a href="https://www.sciencedirect.com/journal/neurocomputing">Elsevier Neurocomputing</a>.
-	- <a href="https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7361">IEEE Sensors</a>.
-	<!-- - <a href="https://www.tandfonline.com/journals/ucbs20/">Cybernetics and Systems</a>, 2023. -->
-	<!-- - <a href="https://www.springer.com/journal/11063/">Neural Processing Letters</a>, 2023. -->
-	- <a href="https://www.nature.com/srep/">Scientific Report</a>.
-	<!-- - <a href="https://www.tandfonline.com/journals/yims20">The Imaging Science Journal</a>, 2022. -->
-	<!-- - <a href="https://benthamscience.com/journals/current-computer-aided-drug-design">Current Computer-Aided Drug Design</a>, 2022. -->
-    <!-- - <a href="https://www.mdpi.com/journal/sensors">MDPI Sensors</a>, 2021. -->
+	- IEEE Transactions on Knowledge and Data Engineering.
+	- IEEE Transactions on Multimedia.
+	- Elsevier Neurocomputing.
+	- IEEE Sensors.
+	<!-- - Cybernetics and Systems, 2023. -->
+	<!-- - Neural Processing Letters, 2023. -->
+	- Scientific Report.
+	<!-- - The Imaging Science Journal, 2022. -->
+	<!-- - Current Computer-Aided Drug Design, 2022. -->
+    <!-- - MDPI Sensors, 2021. -->
 
 * **Conference Reviewer**
-    - <a href="https://neurips.cc/Conferences/2024">The 38th Annual Conference on Neural Information Processing Systems (NeurIPS 2024)</a>, 2024.
-	- <a href="https://2024.acmmm.org/">The 32nd ACM International Conference on Multimedia (ACM MM 2024)</a>, 2024.
-	<!-- - <a href="http://www.iccbbs.org/">International Conference on Computational Biology and Biomedical Science (CBBS 2022)</a>, 2023. -->
-	<!-- - <a href="http://www.icctis.org/">International Conference on Computer Technology and Information Science (CTIS 2023)</a>, 2023. -->
-	<!-- - <a href="http://www.iceeep.org/">The Seventh International Conference on Energy Engineering and Environmental Protection (EEEP2022)</a>, 2022. -->
-    - <a href="http://www.csaeconf.org/">ACM The 6th International Conference on Computer Science and Application Engineering (CSAE 2022)</a>, 2022, <a href="https://wenbohuang1002.github.io/papers/CSAE2022 Certificate of Appreciation_Wenbo Huang.pdf">Certificate</a>.
-	<!-- - <a href="http://www.icoice.org/">International Conference on Optoelectronic Information and Computer Engineering (OCIE 2022)</a>, 2022. -->
+    - The 38th Annual Conference on Neural Information Processing Systems (NeurIPS 2024), 2024.
+	- The 32nd ACM International Conference on Multimedia (ACM MM 2024), 2024.
+    - ACM The 6th International Conference on Computer Science and Application Engineering (CSAE 2022), 2022, <a href="https://wenbohuang1002.github.io/papers/CSAE2022 Certificate of Appreciation_Wenbo Huang.pdf">Certificate</a>.
+	<!-- - International Conference on Optoelectronic Information and Computer Engineering (OCIE 2022), 2022. -->
 	
 * **Book Reviewer**
     - Book entitled--'Digital Innovation Adoption: Architectural Recommendations and Security Solutions', 2022.
@@ -389,19 +386,6 @@ CV was last updated on 2024.7.28.
 * **Honor**
 	- Outstanding graduate, 2022, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/2022graduate.pdf">Certificate</a>.
 	- Outstanding postgraduate (rank 3, total 31), 2021, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/2021outstanding.pdf">Certificate</a>.
-	  
-<details>
-	<summary>Academic Service: Journal Reviewer</summary>
-	
-	<ul>
-		<li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69">IEEE Transactions on Knowledge and Data Engineering</a>.</li>
-		<li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69">IEEE Transactions on Multimedia</a>.</li>
-		<li><a href="https://www.sciencedirect.com/journal/neurocomputing">Elsevier Neurocomputing</a>.</li>
-		<li><a href="https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7361">IEEE Sensors</a>.</li>
-		<!-- 其他列表项可以按照上面的方式添加 -->
-	</ul>
-	
-</details>
 	  
 
 <!-- #### <a href="#top" class="btn-xs btn-primary">Go Back to Top</a> -->

@@ -389,7 +389,6 @@ CV was last updated on 2024.7.28.
 	- Outstanding postgraduate (rank 3, total 31), 2021, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/2021outstanding.pdf">Certificate</a>.
 
 <details>
-	<summary> a box of sweet chocolates (click to expand :) </summary>
 	<ul>
 		<li>2024-02: One paper got accepted to <a href="https://cvpr2024.thecvf.com/">CVPR2024🐱</a>
 		</li>

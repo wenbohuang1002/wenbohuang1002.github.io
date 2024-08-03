@@ -119,3 +119,7 @@ firstp {
   /* height: 100vh; 让内容垂直居中 */
   /* background-color: #f0f0f0; 添加一个背景色以便更好地看到居中效果 */
 }
+
+summary {
+  display: none; /* 不要隐藏summary元素 */
+}

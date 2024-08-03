@@ -388,6 +388,10 @@ CV was last updated on 2024.7.28.
 	- Outstanding postgraduate (rank 3, total 31), 2021, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/2021outstanding.pdf">Certificate</a>.
 	  
 
+	<details>
+		<summary>未来世界中心</summary>
+		<p>Epcot 是华特迪士尼世界度假区的主题公园，拥有令人兴奋的景点、国际展馆、屡获殊荣的烟花和季节性特别活动。</p>
+	  </details>
 <!-- #### <a href="#top" class="btn-xs btn-primary">Go Back to Top</a> -->
 
 <!-- ### **Research Partners (Partial)**

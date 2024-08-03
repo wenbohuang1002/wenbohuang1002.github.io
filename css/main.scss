@@ -124,23 +124,10 @@ summary {
   display: none; /* 不要隐藏summary元素 */
 }
 
-details {
-  border: 1px solid #aaa;
-  border-radius: 4px;
-  padding: 0.5em 0.5em 0;
-}
-
-summary {
-  font-weight: bold;
-  margin: -0.5em -0.5em 0;
-  padding: 0.5em;
-}
-
-details[open] {
-  padding: 0.5em;
-}
-
-details[open] summary {
-  border-bottom: 1px solid #aaa;
-  margin-bottom: 0.5em;
+details, summary, details p {
+  font-family: inherit; /* 使用默认字体 */
+  background-color: transparent; /* 无背景色 */
+  border: none; /* 无边框 */
+  padding: 0; /* 去除填充 */
+  margin: 0; /* 去除外边距 */
 }

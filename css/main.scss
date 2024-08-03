@@ -112,19 +112,10 @@ firstp {
       text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* 水平偏移量，垂直偏移量，模糊半径和阴影颜色 */
 }
 
-#collapsible-panel {
-  border: 1px solid #ccc;
-  border-radius: 5px;
-}
-
-#content {
-  display: none;
-  padding: 10px;
-}
-
-#toggle-button {
-  background-color: #ccc;
-  color: #fff;
-  padding: 5px 10px;
-  cursor: pointer;
+.centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 100vh; 让内容垂直居中 */
+  /* background-color: #f0f0f0; 添加一个背景色以便更好地看到居中效果 */
 }

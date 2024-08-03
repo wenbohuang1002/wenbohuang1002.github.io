@@ -85,14 +85,11 @@ CV was last updated on 2024.7.28.
 </pre> -->
 
 ### **News** 
-{% for article in site.data.news limit:4 %}
+{% for article in site.data.news limit:7 %}
 {{ article.date }} :
 <em>{{ article.headline }}</em>
 {{article.news}}
 {{article.hot}}
-{{article.happy1}}
-{{article.happy2}}
-{{article.happy3}}
 {% endfor %}
 
 #### <a href="{{ site.url }}{{ site.baseurl }}/allnews" class="btn-xs btn-success">See All News</a>

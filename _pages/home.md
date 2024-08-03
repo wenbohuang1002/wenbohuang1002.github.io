@@ -389,39 +389,8 @@ CV was last updated on 2024.7.28.
 	- Outstanding postgraduate (rank 3, total 31), 2021, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/2021outstanding.pdf">Certificate</a>.
 
 <details>
-	<ul>
-		<li>2024-02: One paper got accepted to <a href="https://cvpr2024.thecvf.com/">CVPR2024🐱</a>
-		</li>
-		<li>2023-10: We are organizing the Third Workshop of <a
-				href="https://cveu.github.io/">CVEU</a> @ICCV 2023🇫🇷</li>
-		<li>2023-08: One paper got accepted to <a href="https://asia.siggraph.org/2023/">SIGGRAPH
-				ASIA 2023🕶</a></li>
-		<li>2023-07: Two papers got accepted to <a
-				href="https://iccv2023.thecvf.com/">ICCV2023💕</a></li>
-		<li>2023-02 🚀 2023-06: Internship at <a href="https://about.meta.com/realitylabs/">Meta
-				Reality Labs, Pittsburgh👓</a></li>
-		<li>2023-02: Two papers got accepted to <a
-				href="https://cvpr2023.thecvf.com/">CVPR2023🗽</a></li>
-		<li>2022-07: One paper got accepted to <a href="https://eccv2022.ecva.net/">ECCV2022🌏</a>
-		</li>
-		<li>2022-03: One paper got accepted to <a
-				href="https://s2022.siggraph.org/">SIGGRAPH'2022🧑🏻‍🎨</a></li>
-		<li>2022-01: One paper got accepted to <a
-				href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046">TMM2022📹</a>
-		</li>
-		<li>2021-07: One paper got accepted to <a
-				href="https://iccv2021.thecvf.com/home">ICCV2021🥥</a></li>
-		<li>2021-06: One paper got accepted to <a
-				href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046">TMM2021🍃</a>
-		</li>
-		<li>2020-07: Three papers got accepted to <a href="https://eccv2020.eu/">ECCV2020🐈</a></li>
-		<li>2020-07: One paper got accepted to <a href="https://ieeemlsp.cc/">MLSP2020🐰</a></li>
-		<li>2020-02: One paper got accepted to <a href="http://cvpr2020.thecvf.com/">CVPR2020🦄</a>
-			<!-- <li>2019-12-25: Finally finished all my undergraduate courses, happy early graduation~ 🎓</li> -->
-		<li>2019-07: Got admitted to the PhD program at <a
-				href="http://mmlab.ie.cuhk.edu.hk/index.html">CUHK MMLab</a> (≧∇≦)ﾉ!!!</li>
-		<!-- <li>2019-05-20: Kick off our Luohu Hospital Project on Operation Research, work at <a hred="https://idda.cuhk.edu.cn/en">iDDA</a>.</li> -->
-	</ul>
+	<summary>点击展开的内容标题</summary>
+	<p>这里是展开后显示的内容。</p>
 </details>
 
 

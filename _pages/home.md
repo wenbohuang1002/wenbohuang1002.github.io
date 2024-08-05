@@ -335,14 +335,11 @@ CV was last updated on 2024.7.28.
 
 <p> &nbsp; </p>
 
-<details>
-	<summary>点击展开的内容标题</summary>
-	<p>这里是展开后显示的内容。</p>
-</details>
-
 </div>
 
 <!-- #### <a href="#top" class="btn-xs btn-primary">Go Back to Top</a> -->
+
+<div class="col-sm-12">
 
 ### **Academic Related**
 
@@ -383,5 +380,7 @@ CV was last updated on 2024.7.28.
 * **Honor**
 	- Outstanding graduate, 2022, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/2022graduate.pdf">Certificate</a>.
 	- Outstanding postgraduate (rank 3, total 31), 2021, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/2021outstanding.pdf">Certificate</a>.
+
+</div>
 
 <a href="#" class="toTop"><br><br><br><br>Go Back to Top</a>

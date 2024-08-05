@@ -338,10 +338,8 @@ CV was last updated on 2024.7.28.
 </div>
 
 <div>
-	<details>
-	<summary>点击展开的内容标题</summary>
+	<p>点击展开的内容标题</p>
 	<p>这里是展开后显示的内容。</p>
-	</details>
 </div>
 
 

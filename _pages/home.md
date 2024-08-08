@@ -27,8 +27,10 @@ permalink: /
 				.typeString('shutdown -r now')
 				.pauseFor(600)
 				.deleteAll()
-				.typeString('Thanks to my dear Bingxiao Shi and all family members.')
-				.pauseFor(800)
+				.typeString('echo Thanks to my dear Bingxiao Shi.')
+				.deleteChars(21)
+				.typeString('my all family members.')
+				.pauseFor(600)
 				.deleteAll()
 				.start();
 		</script>

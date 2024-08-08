@@ -29,7 +29,7 @@ permalink: /
 				.deleteAll()
 				.typeString('echo Thanks to my dear Bingxiao Shi.')
 				.deleteChars(21)
-				.typeString('my all family members.')
+				.typeString('all family members.')
 				.pauseFor(600)
 				.deleteAll()
 				.start();

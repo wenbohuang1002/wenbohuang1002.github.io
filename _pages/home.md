@@ -59,6 +59,7 @@ My research interests including Video Analytic, Multimedia, and Ubiquitous Compu
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_5.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_6.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_7.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">  
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_8.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"> 
 I was lucky enough to get away from <del><font color="red">a torture group</font></del> (2022.9~2023.9).
 <br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_1.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
@@ -68,6 +69,7 @@ I was lucky enough to get away from <del><font color="red">a torture group</font
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_5.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_6.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_7.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_8.gif" width="35" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"> 
 </p>
 <!-- ### **CV<font color="white"><sup><sub><font size="2">   PS：为了更新简历，我还tm花99买了超级简历的终生会员。</font></sub></sup></font>** -->
 ### **CV**

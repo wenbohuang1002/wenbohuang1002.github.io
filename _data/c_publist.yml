@@ -1,7 +1,7 @@
 - title: 'SOAP: Enhancing Spatio-Temporal Relation and Motion Information Capturing for Few-Shot Action Recognition'
   image: 24_MM_SOAP.jpg
   description: An intsereting work on few-shot action recognition, which is a challenging task in high frame-rate videos.
-  authors: <strong>Wenbo Huang</strong> , Jinghui Zhang*, Xuwei Qian, Zhen Wu, Meng Wang and Lei Zhang
+  authors: <strong>Wenbo Huang</strong>, Jinghui Zhang*, Xuwei Qian, Zhen Wu, Meng Wang and Lei Zhang
   venue: MM 2024-1 <font color="blue">(Conference Paper)</font> 
   name: 2024 the 32nd ACM International Conference on Multimedia, Melbourne, Australia (CCF Rank A, Poster Presentation, Accept Rate 26.2%)
   DOI: 'DOI: 10.1145/3664647.3681062'
@@ -22,5 +22,23 @@
     url: https://openreview.net/forum?id=ZDeczo36KR
     display: OpenReview
   link6:
+    url: https://wenbohuang1002.github.io/papers/bib/TMC-2022-1.txt
+    display: Cite by bib
+
+- title: 'E2E-MFD: Towards End-to-End Synchronous Multimodal Fusion Detection'
+  image: 24_NIPS_E2E.jpg
+  description: An amazimg work on Multimodal Fusion Detection.
+  authors: Jiaqing Zhang, Mingxiang Cao, Xue Yang*, Weiying Xie*, Jie Lei, Daixun Li, Geng Yang, <strong>Wenbo Huang</strong>, Yunsong Li
+  venue: NeurIPS 2024-1 <font color="blue">(Conference Paper)</font> 
+  name: 2024 the 38th Annual Conference on Neural Information Processing Systems, Vancouver, Canada (CCF Rank A, Oral Presentation, Accept Rate 25.8%)
+  DOI: 'DOI: 10.1145/3664647.3681062'
+  number_link: 3
+  link1:
+    url: https://arxiv.org/pdf/2403.09323
+    display: PDF
+  link2:
+    url: https://github.com/icey-zhang/E2E-MFD
+    display: Code (GitHub)
+  link3:
     url: https://wenbohuang1002.github.io/papers/bib/TMC-2022-1.txt
     display: Cite by bib

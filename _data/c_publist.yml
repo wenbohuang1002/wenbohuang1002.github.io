@@ -8,13 +8,13 @@
   number_link: 6
   link1:
     url: https://wenbohuang1002.github.io/papers/MM-2024-1.pdf
-    display: PDF (Main text)
+    display: PDF
   link2:
-    url: https://arxiv.org/abs/2407.16344
+    url: https://arxiv.org/pdf/2407.16344
     display: PDF (Full edition)
   link3:
     url: https://wenbohuang1002.github.io/404
-    display: 中译版
+    display: Poster
   link4:
     url: https://github.com/wenbohuang1002/SOAP
     display: Code (GitHub)
@@ -31,7 +31,7 @@
   authors: Jiaqing Zhang, Mingxiang Cao, Xue Yang*, Weiying Xie*, Jie Lei, Daixun Li, Geng Yang, <strong>Wenbo Huang</strong>, Yunsong Li
   venue: NeurIPS 2024-1 <font color="blue">(Conference Paper)</font> 
   name: 2024 the 38th Annual Conference on Neural Information Processing Systems, Vancouver, Canada (CCF Rank A, Oral Presentation, Accept Rate 25.8%)
-  DOI: 'DOI: 10.1145/3664647.3681062'
+  DOI: 'DOI: xx.xxxx/xxxxx.xxxxxx'
   number_link: 3
   link1:
     url: https://arxiv.org/pdf/2403.09323

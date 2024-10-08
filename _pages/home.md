@@ -44,13 +44,13 @@ permalink: /
 ### **About <font color="#00d1ff">Me</font>**
 <p style="text-align: justify;">
 I come from Nanjing, Jiangsu, China, where is known as 'Capital of Six Dynasties' and 'City of Stone'. I was a <del>script kiddie</del> and received the 
-B.S. degree from <a href="http://www.njtech.edu.cn/" target="_blank">Nanjing Tech University</a>, Nanjing, China, in 2019. I received the M.S degree with the supervision by <a href="http://leizhangnjnu.github.io" target="_blank">Prof. Lei Zhang</a> 
+B.S. degree from <a href="http://www.njtech.edu.cn/" target="_blank">Nanjing Tech University</a>, Nanjing, China, in 2019. I received the M.S degree 
 from <a href="http://www.njnu.edu.cn/" target="_blank">Nanjing Normal University</a>, Nanjing, China, in 2022. Now I am a Ph.D student under the Excellent Ph.D Training Program 
 and pursuing my degree in
 <!-- <a href="http://palm.seu.edu.cn/" target="_blank">PAttern Learning and Mining (PALM) Lab</a>, -->
 <a href="https://cse.seu.edu.cn/" target="_blank">School of Computer Science and Engineering</a>, <a href="https://www.seu.edu.cn/">Southeast University</a>,
-Nanjing, China, under the supervision of <a href="https://jhzhangseu.github.io/" target="_blank">A.P Jinghui Zhang</a>. 
-My research interests including Video Analytic, Multimedia, and Ubiquitous Computing. I am also an <a href="{{ site.url }}{{ site.baseurl }}/images/pages/animal lover.jpg">animal lover</a> (<a href="{{ site.url }}{{ site.baseurl }}/papers/resume/fahlo.pdf">fahlo link</a>). 
+Nanjing, China. 
+My research interests including Video Analytics, Multimedia, and Ubiquitous Computing. I am also an <a href="{{ site.url }}{{ site.baseurl }}/images/pages/animal lover.jpg">animal lover</a> (<a href="{{ site.url }}{{ site.baseurl }}/papers/resume/fahlo.pdf">fahlo link</a>). 
 <br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_1.gif" width="38" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_2.gif" width="38" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
@@ -70,7 +70,6 @@ I was lucky enough to get away from <del><font color="red">a torture group</font
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_6.gif" width="38" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_7.gif" width="38" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"> 
 </p>
-<!-- ### **CV<font color="white"><sup><sub><font size="2">   PS：为了更新简历，我还tm花99买了超级简历的终生会员。</font></sub></sup></font>** shadowed-text -->
 ### **CV**
 You can download my latest CV (<a class=" " style='color:#1F77B4' href="https://wenbohuang1002.github.io/papers/resume/Wenbo Huang's CV.pdf" target="_blank">English Version</a> and <a class=" " style='color:#FF7F0E' href="https://wenbohuang1002.github.io/papers/resume/黄文博的简历.pdf" target="_blank">Chinese Version</a>).<br>
 CV was last updated on 2024.7.28. 

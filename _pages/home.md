@@ -363,7 +363,7 @@ CV was last updated on 2024.7.28.
 	- The International Conference on Learning Representations (ICLR), 2025.
     - The Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
 	- The ACM International Conference on Multimedia (ACM MM), 2024.
-	- The International Conference on Artificial Intelligence and Statistics (AISTATS), 2025
+	- The International Conference on Artificial Intelligence and Statistics (AISTATS), 2025.
     - The ACM International Conference on Computer Science and Application Engineering (CSAE), 2022, <a href="https://wenbohuang1002.github.io/papers/CSAE2022 Certificate of Appreciation_Wenbo Huang.pdf">Certificate</a>.
 	<!-- - International Conference on Optoelectronic Information and Computer Engineering (OCIE 2022), 2022. -->
 	

@@ -1,7 +1,7 @@
 - title: 'SOAP: Enhancing Spatio-Temporal Relation and Motion Information Capturing for Few-Shot Action Recognition'
   image: 24_MM_SOAP.jpg
   description: An intsereting work on few-shot action recognition, which is a challenging task in high frame-rate videos.
-  authors: <strong>Wenbo Huang</strong>, Jinghui Zhang<sup>*</sup>, Xuwei Qian, Zhen Wu, Meng Wang and Lei Zhang
+  authors: <strong>Wenbo Huang</strong>, Jinghui Zhang<sup>*</sup>, Xuwei Qian, Zhen Wu, Meng Wang, Lei Zhang
   venue: MM 2024-1 <font color="blue">(Conference Paper)</font> 
   name: 2024 the 32nd ACM International Conference on Multimedia, Melbourne, Australia (CCF Rank A, Poster Presentation, Accept Rate 26.2%)
   DOI: 'DOI: 10.1145/3664647.3681062'

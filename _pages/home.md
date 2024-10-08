@@ -70,9 +70,9 @@ I was lucky enough to get away from <del><font color="red">a torture group</font
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_6.gif" width="38" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_7.gif" width="38" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"> 
 </p>
-<!-- ### **CV<font color="white"><sup><sub><font size="2">   PS：为了更新简历，我还tm花99买了超级简历的终生会员。</font></sub></sup></font>** -->
+<!-- ### **CV<font color="white"><sup><sub><font size="2">   PS：为了更新简历，我还tm花99买了超级简历的终生会员。</font></sub></sup></font>** shadowed-text -->
 ### **CV**
-You can download my latest CV (<a class="shadowed-text" style='color:#1F77B4' href="https://wenbohuang1002.github.io/papers/resume/Wenbo Huang's CV.pdf" target="_blank">English Version</a> and <a class="shadowed-text" style='color:#FF7F0E' href="https://wenbohuang1002.github.io/papers/resume/黄文博的简历.pdf" target="_blank">Chinese Version</a>).<br>
+You can download my latest CV (<a class=" " style='color:#1F77B4' href="https://wenbohuang1002.github.io/papers/resume/Wenbo Huang's CV.pdf" target="_blank">English Version</a> and <a class=" " style='color:#FF7F0E' href="https://wenbohuang1002.github.io/papers/resume/黄文博的简历.pdf" target="_blank">Chinese Version</a>).<br>
 CV was last updated on 2024.7.28. 
 <!-- <pre>
                             CV was last updated on October 25, 2021.
@@ -348,8 +348,8 @@ CV was last updated on 2024.7.28.
 
 #### **Academic Service**
 * **Journal Reviewer**
-	- IEEE Transactions on Knowledge and Data Engineering.
-	- IEEE Transactions on Multimedia.
+	- IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE).
+	- IEEE Transactions on Multimedia (IEEE TMM).
 	- Elsevier Neurocomputing.
 	- IEEE Sensors.
 	<!-- - Cybernetics and Systems, 2023. -->
@@ -360,10 +360,11 @@ CV was last updated on 2024.7.28.
     <!-- - MDPI Sensors, 2021. -->
 
 * **Conference Reviewer**
-	- The 13th International Conference on Learning Representations (ICLR 2025), 2025.
-    - The 38th Annual Conference on Neural Information Processing Systems (NeurIPS 2024), 2024.
-	- The 32nd ACM International Conference on Multimedia (ACM MM 2024), 2024.
-    - ACM The 6th International Conference on Computer Science and Application Engineering (CSAE 2022), 2022, <a href="https://wenbohuang1002.github.io/papers/CSAE2022 Certificate of Appreciation_Wenbo Huang.pdf">Certificate</a>.
+	- The International Conference on Learning Representations (ICLR), 2025.
+    - The Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
+	- The ACM International Conference on Multimedia (ACM MM), 2024.
+	- The International Conference on Artificial Intelligence and Statistics (AISTATS), 2025
+    - The ACM International Conference on Computer Science and Application Engineering (CSAE), 2022, <a href="https://wenbohuang1002.github.io/papers/CSAE2022 Certificate of Appreciation_Wenbo Huang.pdf">Certificate</a>.
 	<!-- - International Conference on Optoelectronic Information and Computer Engineering (OCIE 2022), 2022. -->
 	
 * **Book Reviewer**

@@ -52,7 +52,7 @@
     url: https://wenbohuang1002.github.io/papers/bib/TMC-2022-1.txt
     display: Cite by bib
 
-- title: 'Generalizable Sensor-based  Activity Recognition via Categorical Concept Invariant Learning'
+- title: 'Generalizable Sensor-Based Activity Recognition via Categorical Concept Invariant Learning'
   image: 25_AAAI_CCIL.jpg
   description: An intsereting work about sensor-based human activity recognition, focusing on categorical concept invariant learning.
   authors: Di Xiong, Shoyuan Wang, Lei Zhang<sup>*</sup>, <strong>Wenbo Huang</strong>, Chaolei Han

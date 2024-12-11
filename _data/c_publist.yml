@@ -81,7 +81,7 @@
 
 - title: 'E2E-MFD: Towards End-to-End Synchronous Multimodal Fusion Detection'
   image: 24_NIPS_E2E.jpg
-  description: An amazimg work on Multimodal Fusion Detection.
+  description: An amazimg work on multimodal fusion detection.
   authors: Jiaqing Zhang, Mingxiang Cao, Weiying Xie<sup>*</sup>, Jie Lei, Daixun Li, Geng Yang, <strong>Wenbo Huang</strong>, Yunsong Li, Xue Yang<sup>*</sup>
   venue: NeurIPS 2024-1 <font color="blue">(Conference Paper)</font> 
   name: 2024 the 38th Annual Conference on Neural Information Processing Systems, Vancouver, Canada (CCF Rank A, Oral Presentation, Accept Rate 25.8%)

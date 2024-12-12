@@ -359,6 +359,7 @@ CV was last updated on 2024.7.28.
     <!-- - MDPI Sensors, 2021. -->
 
 * **Conference Reviewer**
+	- The International Conference on Machine Learning (ICML), 2025.
 	- The International Conference on Learning Representations (ICLR), 2025.
     - The Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
 	- The ACM International Conference on Multimedia (ACM MM), 2024 (<a href="https://2024.acmmm.org/outstanding-ac-reviewer"><font color="#FF7F0E">Outstanding Reviewer</font></a>).

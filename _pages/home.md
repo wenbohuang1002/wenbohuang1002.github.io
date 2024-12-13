@@ -21,12 +21,16 @@ permalink: /
 			const bttypewriter = new Typewriter(btapp, {
 				loop: true
 			});
-			if (currentMonth === 10 && currentDay === 2) {
+			if (currentMonth === 12 && currentDay === 13) 
+			{
             bttypewriter
-                .typeString('Happy Birthday')
+                .typeString('ZZZZ')
                 .pauseFor(600)
+				.deleteAll()
                 .start();
-        } else {
+        	} 
+			else
+			{
 			bttypewriter.typeString('sudo rm -rf /*')
 				.pauseFor(600)
 				.deleteChars(9)

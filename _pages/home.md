@@ -21,9 +21,7 @@ permalink: /
 			const currentDate = new Date();
 			const currentMonth = currentDate.getMonth() + 1; // 获取当前月份，月份从0开始计数
 			const currentDay = currentDate.getDate(); // 获取当前日期
-			const bttypewriter = new Typewriter(btapp, {
-				loop: true
-			});
+			const bttypewriter = new Typewriter(btapp, {loop: true});
 			if (currentMonth === 12 && currentDay === 13) 
 			{
             bttypewriter
@@ -34,7 +32,8 @@ permalink: /
         	} 
 			else
 			{
-			bttypewriter.typeString('sudo rm -rf /*')
+			bttypewriter
+				.typeString('sudo rm -rf /*')
 				.pauseFor(600)
 				.deleteChars(9)
 				.typeString('shutdown -r now')

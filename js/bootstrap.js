@@ -2362,7 +2362,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const currentDay = currentDate.getDate();
 
     // 检查是否是特定日期
-    if ((currentMonth === 12 && currentDay === 13) || (currentMonth === 5 && currentDay === 12)) {
+    if ((currentMonth === 12 && currentDay === 14) || (currentMonth === 5 && currentDay === 12)) {
         document.body.classList.add('grayscale');
     } else {
         // 如果不是特定日期，确保移除grayscale类

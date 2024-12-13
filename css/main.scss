@@ -14,6 +14,10 @@ body {
 	padding-top: 70px;
 }
 
+.grayscale {
+  filter: grayscale(1);
+}
+
 figcaption {
     text-align: center;
     margin-top: -20px;

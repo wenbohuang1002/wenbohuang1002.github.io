@@ -2355,17 +2355,3 @@ if (typeof jQuery === 'undefined') {
   })
 
 }(jQuery);
-
-document.addEventListener('DOMContentLoaded', function() {
-    const currentDate = new Date();
-    const currentMonth = currentDate.getMonth() + 1;
-    const currentDay = currentDate.getDate();
-
-    // 检查是否是特定日期
-    if ((currentMonth === 12 && currentDay === 14) || (currentMonth === 5 && currentDay === 12)) {
-        document.body.classList.add('grayscale');
-    } else {
-        // 如果不是特定日期，确保移除grayscale类
-        document.body.classList.remove('grayscale');
-    }
-});

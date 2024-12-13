@@ -2365,8 +2365,4 @@ document.addEventListener('DOMContentLoaded', function() {
   if ((currentMonth === 12 && currentDay === 13) || (currentMonth === 5 && currentDay === 12)) {
       document.body.classList.add('grayscale');
   }
-  else {
-        // 如果不是特定日期，确保移除grayscale类
-        document.body.classList.remove('grayscale');
-    }
 });

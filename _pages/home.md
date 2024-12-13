@@ -12,29 +12,44 @@ permalink: /
 
 <div class="col-sm-12">
 <div class="centered">
-<script src="https://cdn.jsdelivr.net/npm/typewriter-effect@latest/dist/core.js"></script>
-<div style='background-color: #000;height: 0px; float:center;font-family:"Consolas";'><br>
+	<script src="https://cdn.jsdelivr.net/npm/typewriter-effect@latest/dist/core.js"></script>
+	<div style='background-color: #000;height: 0px; float:center;font-family:"Consolas";'>
+		<br>
 		<a style='color:#1F77B4; font-family:"Segoe UI"; font-size: 18px'>wenbohuang1002</a><a style='color:#000000; font-family:"Segoe UI"; font-size: 18px'>@</a><strong style='color:#FF7F0E;font-family:"Segoe UI"; font-size: 18px'>LIFE</strong><a style='color:#2CA02C; font-family:"Segoe UI"; font-size: 18px'>:~/$ </a>
 		<a id="btapp" style='color:#000; font-family:"Segoe UI"; font-size: 18px'></a>
 		<script>
 			const btapp = document.getElementById('btapp');
+			const currentDate = new Date();
+			const currentMonth = currentDate.getMonth() + 1; // 获取当前月份，月份从0开始计数
+			const currentDay = currentDate.getDate(); // 获取当前日期
+	
 			const bttypewriter = new Typewriter(btapp, {
 				loop: true
 			});
-			bttypewriter.typeString('sudo rm -rf /*')
-				.pauseFor(600)
-				.deleteChars(9)
-				.typeString('shutdown -r now')
-				.pauseFor(600)
-				.deleteAll()
-				.typeString('echo Thanks to my dear Bingxiao Shi.')
-				.deleteChars(21)
-				.typeString('all family members.')
-				.pauseFor(600)
-				.deleteAll()
-				.start();
+	
+			// 检查是否是10月2日
+			if (currentMonth === 12 && currentDay === 13) {
+				bttypewriter
+					.typeString('Happy Birthday')
+					.pauseFor(600)
+					.start();
+			} else {
+				bttypewriter
+					.typeString('sudo rm -rf /*')
+					.pauseFor(600)
+					.deleteChars(9)
+					.typeString('shutdown -r now')
+					.pauseFor(600)
+					.deleteAll()
+					.typeString('echo Thanks to my dear Bingxiao Shi.')
+					.deleteChars(21)
+					.typeString('all family members.')
+					.pauseFor(600)
+					.deleteAll()
+					.start();
+			}
 		</script>
-</div>
+	</div>
 </div>
 </div>	
 <br>

@@ -2355,14 +2355,3 @@ if (typeof jQuery === 'undefined') {
   })
 
 }(jQuery);
-
-document.addEventListener('DOMContentLoaded', function() {
-  const currentDate = new Date();
-  const currentMonth = currentDate.getMonth() + 1; // 获取当前月份，月份从0开始计数
-  const currentDay = currentDate.getDate(); // 获取当前日期
-
-  // 检查是否是特定日期
-  if ((currentMonth === 12 && currentDay === 13) || (currentMonth === 5 && currentDay === 12)) {
-      document.body.classList.add('grayscale');
-  }
-});

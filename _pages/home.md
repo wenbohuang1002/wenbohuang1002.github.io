@@ -18,20 +18,7 @@ permalink: /
 		<a id="btapp" style='color:#000; font-family:"Segoe UI"; font-size: 18px'></a>
 		<script>
 			const btapp = document.getElementById('btapp');
-			const currentDate = new Date();
-			const currentMonth = currentDate.getMonth() + 1; // 获取当前月份，月份从0开始计数
-			const currentDay = currentDate.getDate(); // 获取当前日期
 			const bttypewriter = new Typewriter(btapp, {loop: true});
-			if (currentMonth === 12 && currentDay === 13) 
-			{
-            bttypewriter
-                .typeString('ZZZZ')
-                .pauseFor(600)
-				.deleteAll()
-                .start();
-        	} 
-			else
-			{
 			bttypewriter
 				.typeString('sudo rm -rf /*')
 				.pauseFor(600)
@@ -45,7 +32,6 @@ permalink: /
 				.pauseFor(600)
 				.deleteAll()
 				.start();
-			}
 		</script>
 </div>
 </div>

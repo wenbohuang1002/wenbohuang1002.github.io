@@ -357,7 +357,7 @@ CV was last updated on 2024.7.28.
 	<!-- - Current Computer-Aided Drug Design, 2022. -->
     <!-- - MDPI Sensors, 2021. -->
 
-* **Conference Reviewer**
+* **Conference Reviewer/Program Committee Number**
 	- The International Conference on Machine Learning (ICML), 2025.
 	- The International Conference on Learning Representations (ICLR), 2025.
     - The Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.

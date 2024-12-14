@@ -107,13 +107,13 @@ CV was last updated on 2024.7.28.
 	<br>
 	<span style="display: block;">黄文博 (左一)</span>
 	<br>
-	<span style="display: block;">Unknown room, Computer Building. </span>
+	<span style="display: block;">Room Unknown, Computer Building. </span>
 	<br>
 	<span style="display: block;"><a href="https://cse.seu.edu.cn/" target="_blank">School of Computer Science and Engineering</a>.</span>
 	<br>
 	<span style="display: block;"><a href="http://www.seu.edu.cn/" target="_blank">Southeast University (SEU)</a>, Jiulong Lake Campus (<a href="https://j.map.baidu.com/d6/Gugf">📍Maps</a>).</span>
 	<br>
-	<span style="display: block;">No.2 Southeast University Road, Moling Street, 211189 Post Code, Nanjing, Jiangsu, China.</span>
+	<span style="display: block;">No.2 Southeast University Road, Moling Street, Nanjing 211189, Jiangsu, China.</span>
 	<br>
 	<span style="display: inline-block; vertical-align: top;">
   	<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=Xit1o4P9tPO4V5F-vf13Il6mKflR-sERYSPiKcWoLcM&co=2d78ad&cmo=ff7700&cmn=00ad00&ct=000000'></script>

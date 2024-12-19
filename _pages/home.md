@@ -71,7 +71,7 @@ I was lucky enough to get away from <del><font color="red">a torture group</font
 </p>
 ### **CV**
 You can download my latest CV (<a class=" " style='color:#1F77B4' href="https://wenbohuang1002.github.io/papers/resume/Wenbo Huang's CV.pdf" target="_blank">English Version</a> and <a class=" " style='color:#FF7F0E' href="https://wenbohuang1002.github.io/papers/resume/黄文博的简历.pdf" target="_blank">Chinese Version</a>).<br>
-CV was last updated on 2024.7.28. 
+CV was last updated on 2024.12.19. 
 <!-- <pre>
                             CV was last updated on October 25, 2021.
 　　　　　／＞＿＿＿フ       

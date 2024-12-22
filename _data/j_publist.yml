@@ -30,7 +30,7 @@
   description: We propose a novel CNN for HAR that uses filter activation. In comparison with filter pruning that is motivated for efficient consideration, filter activation aims to activate these invalid filters from an accuracy boosting perspective.
   authors: <strong>Wenbo Huang</strong> , Lei Zhang<sup>*</sup>, Shuoyuan Wang, Hao Wu, Aiguo Song
   venue: TECS 2022-1 <font color="red">(Journal Paper)</font> 
-  name: ACM Transactions on Embedded Computing Systems (CCF Rank B, IF=2.0, <a href="https://wenbohuang1002.github.io/papers/TECS_HC.pdf">ESI Top 1% Highly Cited</a>)
+  name: ACM Transactions on Embedded Computing Systems (CCF Rank B, IF=2.0, 🏅<a href="https://wenbohuang1002.github.io/papers/TECS_HC.pdf">ESI Top 1% Highly Cited</a>)
   DOI: 'DOI: 10.1145/3551486'
   number_link: 6
   link1:

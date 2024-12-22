@@ -3,7 +3,7 @@
   description: An intsereting work on few-shot action recognition with Mamba, which is a challenging task in videos of long sequences.
   authors: <strong>Wenbo Huang</strong>, Jinghui Zhang<sup>*</sup>, Guang Li, Lei Zhang, Shoyuan Wang, Fang Dong, Jiahui Jin, Takahiro Ogawa, Miki Haseyama
   venue: AAAI 2025-1 <font color="blue">(Conference Paper)</font> 
-  name: 2025 the 39th Annual AAAI Conference on Artificial Intelligence, Philadelphia, USA (CCF Rank A, Unknown Presentation, Accept Rate 23.4%)
+  name: 2025 the 39th Annual AAAI Conference on Artificial Intelligence, Philadelphia, USA (🥇CCF Rank A, Unknown Presentation, Accept Rate 23.4%)
   number_link: 6
   link1:
     url: https://wenbohuang1002.github.io/papers/AAAI-2025-1.pdf
@@ -29,7 +29,7 @@
   description: An intsereting work on few-shot action recognition, which is a challenging task in high frame-rate videos.
   authors: <strong>Wenbo Huang</strong>, Jinghui Zhang<sup>*</sup>, Xuwei Qian, Zhen Wu, Meng Wang, Lei Zhang
   venue: MM 2024-1 <font color="blue">(Conference Paper)</font> 
-  name: 2024 the 32nd ACM International Conference on Multimedia, Melbourne, Australia (CCF Rank A, Poster Presentation, Accept Rate 26.2%)
+  name: 2024 the 32nd ACM International Conference on Multimedia, Melbourne, Australia (🥇CCF Rank A, Poster Presentation, Accept Rate 26.2%)
   number_link: 6
   link1:
     url: https://wenbohuang1002.github.io/papers/MM-2024-1.pdf
@@ -55,7 +55,7 @@
   description: An intsereting work about sensor-based human activity recognition, focusing on categorical concept invariant learning.
   authors: Di Xiong, Shoyuan Wang, Lei Zhang<sup>*</sup>, <strong>Wenbo Huang</strong>, Chaolei Han
   venue: AAAI 2025-2 <font color="blue">(Conference Paper)</font> 
-  name: 2025 the 39th Annual AAAI Conference on Artificial Intelligence, Philadelphia, USA (CCF Rank A, Unknown Presentation, Accept Rate 23.4%)
+  name: 2025 the 39th Annual AAAI Conference on Artificial Intelligence, Philadelphia, USA (🥇CCF Rank A, Unknown Presentation, Accept Rate 23.4%)
   number_link: 6
   link1:
     url: https://wenbohuang1002.github.io/papers/AAAI-2025-2.pdf
@@ -81,7 +81,7 @@
   description: An amazimg work on multimodal fusion detection.
   authors: Jiaqing Zhang, Mingxiang Cao, Weiying Xie<sup>*</sup>, Jie Lei, Daixun Li, Geng Yang, <strong>Wenbo Huang</strong>, Yunsong Li, Xue Yang<sup>*</sup>
   venue: NeurIPS 2024-1 <font color="blue">(Conference Paper)</font> 
-  name: 2024 the 38th Annual Conference on Neural Information Processing Systems, Vancouver, Canada (CCF Rank A, Oral Presentation, Accept Rate 25.8%)
+  name: 2024 the 38th Annual Conference on Neural Information Processing Systems, Vancouver, Canada (🥇CCF Rank A, Oral Presentation, Accept Rate 25.8%)
   number_link: 3
   link1:
     url: https://openreview.net/pdf?id=47loYmzxep

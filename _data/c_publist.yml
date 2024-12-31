@@ -1,6 +1,5 @@
 - title: 'Manta: Enhancing Mamba for Few-Shot Action Recognition of Long Sub-Sequence'
   image: 25_AAAI_Manta.jpg
-  description: An intsereting work on few-shot action recognition with Mamba, which is a challenging task in videos of long sequences.
   authors: <strong>Wenbo Huang</strong>, Jinghui Zhang<sup>*</sup>, Guang Li, Lei Zhang, Shoyuan Wang, Fang Dong, Jiahui Jin, Takahiro Ogawa, Miki Haseyama
   venue: AAAI 2025-1 <font color="blue">(Conference Paper)</font> 
   name: 2025 the 39th Annual AAAI Conference on Artificial Intelligence, Philadelphia, USA (🥇CCF Rank A, Unknown Presentation, Accept Rate 23.4%)
@@ -26,7 +25,6 @@
 
 - title: 'SOAP: Enhancing Spatio-Temporal Relation and Motion Information Capturing for Few-Shot Action Recognition'
   image: 24_MM_SOAP.jpg
-  description: An intsereting work on few-shot action recognition, which is a challenging task in high frame-rate videos.
   authors: <strong>Wenbo Huang</strong>, Jinghui Zhang<sup>*</sup>, Xuwei Qian, Zhen Wu, Meng Wang, Lei Zhang
   venue: MM 2024-1 <font color="blue">(Conference Paper)</font> 
   name: 2024 the 32nd ACM International Conference on Multimedia, Melbourne, Australia (🥇CCF Rank A, Poster Presentation, Accept Rate 26.2%)
@@ -52,7 +50,6 @@
 
 - title: 'Generalizable Sensor-Based Activity Recognition via Categorical Concept Invariant Learning'
   image: 25_AAAI_CCIL.jpg
-  description: An intsereting work about sensor-based human activity recognition, focusing on categorical concept invariant learning.
   authors: Di Xiong, Shoyuan Wang, Lei Zhang<sup>*</sup>, <strong>Wenbo Huang</strong>, Chaolei Han
   venue: AAAI 2025-2 <font color="blue">(Conference Paper)</font> 
   name: 2025 the 39th Annual AAAI Conference on Artificial Intelligence, Philadelphia, USA (🥇CCF Rank A, Unknown Presentation, Accept Rate 23.4%)

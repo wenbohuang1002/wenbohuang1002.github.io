@@ -363,7 +363,7 @@ CV was last updated on 2024.12.19.
     - The Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
 	- The ACM International Conference on Multimedia (ACM MM), 2024 (<a href="https://2024.acmmm.org/outstanding-ac-reviewer"><font color="#FF7F0E">Outstanding Reviewer</font></a>).
 	- The International Conference on Artificial Intelligence and Statistics (AISTATS), 2025.
-    - The ACM International Conference on Computer Science and Application Engineering (CSAE), 2022, <a href="https://wenbohuang1002.github.io/papers/CSAE2022 Certificate of Appreciation_Wenbo Huang.pdf">Certificate</a>.
+    - The ACM International Conference on Computer Science and Application Engineering (CSAE), 2022, <a href="https://wenbohuang1002.github.io/papers/certificate/CSAE2022 Certificate of Appreciation_Wenbo Huang.pdf">Certificate</a>.
 	<!-- - International Conference on Optoelectronic Information and Computer Engineering (OCIE 2022), 2022. -->
 	
 * **Book Reviewer**
@@ -377,13 +377,13 @@ CV was last updated on 2024.12.19.
 
 #### **Award & Honor**
 * **Scholarship**
-	- Freshman Scholarship (Excellent Ph.D Training Program, total 50), 2022, Southeast University, <a href="https://wenbohuang1002.github.io/papers/2022freshman.pdf">Certificate</a>.
-    - National Scholarship for Postgraduate Students (rank 1, total 65), 2021, The Chinese Ministry of Education (MOE), <a href="https://wenbohuang1002.github.io/papers/2021national.pdf">Certificate No.SSY202120653</a>.
+	- Freshman Scholarship (Excellent Ph.D Training Program, total 50), 2022, Southeast University, <a href="https://wenbohuang1002.github.io/papers/certificate/2022freshman.pdf">Certificate</a>.
+    - National Scholarship for Postgraduate Students (rank 1, total 65), 2021, The Chinese Ministry of Education (MOE), <a href="https://wenbohuang1002.github.io/papers/certificate/2021national.pdf">Certificate No.SSY202120653</a>.
 	- First-class Academic Scholarship (rank 6, total 65), 2021, Nanjing Normal University.
 
 * **Honor**
-	- Outstanding graduate, 2022, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/2022graduate.pdf">Certificate</a>.
-	- Outstanding postgraduate (rank 3, total 31), 2021, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/2021outstanding.pdf">Certificate</a>.
+	- Outstanding graduate, 2022, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/certificate/2022graduate.pdf">Certificate</a>.
+	- Outstanding postgraduate (rank 3, total 31), 2021, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/certificate/2021outstanding.pdf">Certificate</a>.
 
 </div>
 

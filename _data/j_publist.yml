@@ -3,7 +3,7 @@
   description: We provide an alternative called Channel Equalization in this paper to reactivate these inhibited channels by performing whitening or decorrelation operation, which compels all channels to contribute more or less to feature representation.
   authors: <strong>Wenbo Huang</strong> , Lei Zhang<sup>*</sup>, Hao Wu, Fuhong Min, Aiguo Song
   venue: TMC 2022-1 <font color="red">(Journal Paper)</font> 
-  name: IEEE Transactions on Mobile Computing (🥇CCF Rank A, IF=7.9, 🏅<a href="https://wenbohuang1002.github.io/papers/TMC_HC.pdf">ESI Top 1% Highly Cited</a>)
+  name: IEEE Transactions on Mobile Computing (🥇CCF Rank A, IF=7.9, 🏅<a href="https://wenbohuang1002.github.io/papers/certificate/TMC_HC.pdf">ESI Top 1% Highly Cited</a>)
   DOI: 'DOI: 10.1109/TMC.2022.3174816'
   number_link: 6
   link1:
@@ -30,7 +30,7 @@
   description: We propose a novel CNN for HAR that uses filter activation. In comparison with filter pruning that is motivated for efficient consideration, filter activation aims to activate these invalid filters from an accuracy boosting perspective.
   authors: <strong>Wenbo Huang</strong> , Lei Zhang<sup>*</sup>, Shuoyuan Wang, Hao Wu, Aiguo Song
   venue: TECS 2022-1 <font color="red">(Journal Paper)</font> 
-  name: ACM Transactions on Embedded Computing Systems (🥈CCF Rank B, IF=2.0, 🏅<a href="https://wenbohuang1002.github.io/papers/TECS_HC.pdf">ESI Top 1% Highly Cited</a>)
+  name: ACM Transactions on Embedded Computing Systems (🥈CCF Rank B, IF=2.0, 🏅<a href="https://wenbohuang1002.github.io/papers/certificate/TECS_HC.pdf">ESI Top 1% Highly Cited</a>)
   DOI: 'DOI: 10.1145/3551486'
   number_link: 6
   link1:

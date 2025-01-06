@@ -87,7 +87,7 @@ CV was last updated on 2024.12.19.
 
 ### **News** 
 {% for article in site.data.news limit:7 %}
-<a style='color:#1F77B4'>{{article.date}}:</a>
+<a style='color:#8115c5'>{{article.date}}:</a>
 <em>{{article.headline}}</em>
 {{article.news}}
 {{article.hot}}

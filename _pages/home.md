@@ -378,13 +378,13 @@ CV was last updated on 2024.12.19.
 
 #### **Award & Honor**
 * **Scholarship**
-	- Freshman Scholarship (Excellent Ph.D Training Program, total 50), 2022, Southeast University, <a href="https://wenbohuang1002.github.io/papers/certificate/2022freshman.pdf">Certificate</a>.
-    - National Scholarship for Postgraduate Students (rank 1, total 65), 2021, The Chinese Ministry of Education (MOE), <a href="https://wenbohuang1002.github.io/papers/certificate/2021national.pdf">Certificate No.SSY202120653</a>.
-	- First-class Academic Scholarship (rank 6, total 65), 2021, Nanjing Normal University.
+	- Special freshman Scholarship/Excellent Ph.D Training Program, 2022, Southeast University, <a href="https://wenbohuang1002.github.io/papers/certificate/2022freshman.pdf">Certificate</a>.
+    - National Scholarship for Postgraduate Students, 2021, The Chinese Ministry of Education, <a href="https://wenbohuang1002.github.io/papers/certificate/2021national.pdf">Certificate No.SSY202120653</a>.
+	- First-class Academic Scholarship, 2021, Nanjing Normal University.
 
 * **Honor**
 	- Outstanding graduate, 2022, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/certificate/2022graduate.pdf">Certificate</a>.
-	- Outstanding postgraduate (rank 3, total 31), 2021, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/certificate/2021outstanding.pdf">Certificate</a>.
+	- Outstanding postgraduate, 2021, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/certificate/2021outstanding.pdf">Certificate</a>.
 
 </div>
 

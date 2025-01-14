@@ -342,9 +342,9 @@ CV was last updated on 2024.12.19.
 
 <div class="col-sm-12">
 
-### **Academic Related**
+<!-- ### **Academic Related** -->
 
-#### **Academic Service**
+### **Academic Service**
 * **Conference Reviewer/Program Committee Number** (<font color="#FF7F0E">Outstanding</font>)
 	- The International Conference on Machine Learning (ICML), 2025.
 	- The International Conference on Learning Representations (ICLR), 2025.
@@ -376,7 +376,7 @@ CV was last updated on 2024.12.19.
 	<!-- - Teaching assistant of Artificial Intelligence and Big Data, Spring 2022, Nanjing Normal University. -->
 	<!-- - Security Administrator for the Institute of Information and Control Technologies, School of Electric and Autumation Engineerning, 2020-2021, Nanjing Normal University. -->
 
-#### **Award & Honor**
+### **Award & Honor**
 * **Scholarship**
 	- Special Freshman Scholarship/Excellent Ph.D Training Program (2022, Southeast University, <a href="https://wenbohuang1002.github.io/papers/certificate/2022freshman.pdf">Certificate</a>).
     - National Scholarship for Postgraduate Students (2021, The Chinese Ministry of Education, <a href="https://wenbohuang1002.github.io/papers/certificate/2021national.pdf">Certificate No.SSY202120653</a>).

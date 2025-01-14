@@ -345,6 +345,16 @@ CV was last updated on 2024.12.19.
 ### **Academic Related**
 
 #### **Academic Service**
+* **Conference Reviewer/Program Committee Number**
+	- The International Conference on Machine Learning (ICML), 2025.
+	- The International Conference on Learning Representations (ICLR), 2025.
+    - The Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
+	- The ACM International Conference on Multimedia (ACM MM), 2024 (<a href="https://2024.acmmm.org/outstanding-ac-reviewer"><font color="#FF7F0E">Outstanding Reviewer</font></a>).
+	- The International Joint Conferences on Artificial Intelligence (IJCAI), 2025.
+	- The International Conference on Artificial Intelligence and Statistics (AISTATS), 2025.
+    - The ACM International Conference on Computer Science and Application Engineering (CSAE), 2022, <a href="https://wenbohuang1002.github.io/papers/certificate/CSAE2022 Certificate of Appreciation_Wenbo Huang.pdf">Certificate</a>.
+	<!-- - International Conference on Optoelectronic Information and Computer Engineering (OCIE 2022), 2022. -->
+
 * **Journal Reviewer**
 	- IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE).
 	- IEEE Transactions on Multimedia (IEEE TMM).
@@ -356,16 +366,6 @@ CV was last updated on 2024.12.19.
 	<!-- - The Imaging Science Journal, 2022. -->
 	<!-- - Current Computer-Aided Drug Design, 2022. -->
     <!-- - MDPI Sensors, 2021. -->
-
-* **Conference Reviewer/Program Committee Number**
-	- The International Conference on Machine Learning (ICML), 2025.
-	- The International Conference on Learning Representations (ICLR), 2025.
-    - The Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
-	- The ACM International Conference on Multimedia (ACM MM), 2024 (<a href="https://2024.acmmm.org/outstanding-ac-reviewer"><font color="#FF7F0E">Outstanding Reviewer</font></a>).
-	- The International Joint Conferences on Artificial Intelligence (IJCAI), 2025.
-	- The International Conference on Artificial Intelligence and Statistics (AISTATS), 2025.
-    - The ACM International Conference on Computer Science and Application Engineering (CSAE), 2022, <a href="https://wenbohuang1002.github.io/papers/certificate/CSAE2022 Certificate of Appreciation_Wenbo Huang.pdf">Certificate</a>.
-	<!-- - International Conference on Optoelectronic Information and Computer Engineering (OCIE 2022), 2022. -->
 	
 * **Book Reviewer**
     - Book entitled--'Digital Innovation Adoption: Architectural Recommendations and Security Solutions', 2022.

@@ -266,7 +266,7 @@ CV was last updated on 2024.12.19.
 
 </div>
 
-<div class="col-sm-12">
+<!-- <div class="col-sm-12"> -->
 
 <!-- #### <a href="#top" class="btn-xs btn-primary">Go Back to Top</a> -->
 
@@ -336,11 +336,11 @@ CV was last updated on 2024.12.19.
 
 <!-- <p> &nbsp; </p> -->
 
-</div>
+<!-- </div> -->
 
 <!-- #### <a href="#top" class="btn-xs btn-primary">Go Back to Top</a> -->
 
-<div class="col-sm-12">
+<!-- <div class="col-sm-12"> -->
 
 ### **Academic Related**
 
@@ -371,7 +371,7 @@ CV was last updated on 2024.12.19.
     - Book entitled--'Digital Innovation Adoption: Architectural Recommendations and Security Solutions', 2022. -->
 
 * **Teaching Activity**
-	- Operating System (bilingual instruction, Teaching assistant, Spring 2023, Southeast University).
+	- Operating System (bilingual instruction, teaching assistant, Spring 2023, Southeast University).
 	<!-- - Teaching assistant of Edu-By: The Time of Robotics - Artificial Intelligence and Social Change (博雅课：机器人时代 - 人工智能与社会变革), Fall 2021, Nanjing Normal University. -->
 	<!-- - Teaching assistant of Artificial Intelligence and Big Data, Spring 2022, Nanjing Normal University. -->
 	<!-- - Security Administrator for the Institute of Information and Control Technologies, School of Electric and Autumation Engineerning, 2020-2021, Nanjing Normal University. -->

@@ -2,7 +2,7 @@
   image: 22_TMC_CE.png
   authors: <strong>Wenbo Huang</strong>, Lei Zhang<sup>*</sup>, Hao Wu, Fuhong Min, Aiguo Song
   venue: TMC 2022-1 <font color="red">(Journal Paper)</font> 
-  name: IEEE Transactions on Mobile Computing (🥇CCF Rank A, IF=7.9, 🏅<a href="https://wenbohuang1002.github.io/papers/certificate/TMC_HC.pdf">ESI Top 1% Highly Cited</a>)
+  name: IEEE Transactions on Mobile Computing (🥇CCF Rank A, 🏅<a href="https://wenbohuang1002.github.io/papers/certificate/TMC_HC.pdf">ESI Top 1% Highly Cited</a>)
   DOI: 'DOI: 10.1109/TMC.2022.3174816'
   number_link: 6
   link1:
@@ -28,7 +28,7 @@
   image: 22_TECS_FA.png
   authors: <strong>Wenbo Huang</strong>, Lei Zhang<sup>*</sup>, Shuoyuan Wang, Hao Wu, Aiguo Song
   venue: TECS 2022-1 <font color="red">(Journal Paper)</font> 
-  name: ACM Transactions on Embedded Computing Systems (🥈CCF Rank B, IF=2.0, 🏅<a href="https://wenbohuang1002.github.io/papers/certificate/TECS_HC.pdf">ESI Top 1% Highly Cited</a>)
+  name: ACM Transactions on Embedded Computing Systems (🥈CCF Rank B, 🏅<a href="https://wenbohuang1002.github.io/papers/certificate/TECS_HC.pdf">ESI Top 1% Highly Cited</a>)
   DOI: 'DOI: 10.1145/3551486'
   number_link: 6
   link1:
@@ -54,7 +54,7 @@
   image: 21_JBHI_SC.png
   authors: <strong>Wenbo Huang</strong>, Lei Zhang<sup>*</sup>, Qi Teng, Chaoda Song, Jun He
   venue: JBHI 2021-1 <font color="red">(Journal Paper)</font> 
-  name: IEEE Journal of Biomedical and Health Informatics (Old Name：IEEE Transactions on Information Technology in Biomedicine, 🥉CCF Rank C, IF=7.7)
+  name: IEEE Journal of Biomedical and Health Informatics (🥉CCF Rank C)
   DOI: 'DOI: 10.1109/JBHI.2021.3092396'
   number_link: 6
   link1:
@@ -80,7 +80,7 @@
   image: 21_TIM_C3.png
   authors: <strong>Wenbo Huang</strong>, Lei Zhang<sup>*</sup>, Wenbin Gao , Fuhong Min, Jun He
   venue: TIM 2021-1 <font color="red">(Journal Paper)</font>
-  name: IEEE Transactions on Instrumentation and Measurement (🏆IF=5.6)
+  name: IEEE Transactions on Instrumentation and Measurement (🏆)
   DOI: 'DOI: 10.1109/TIM.2021.3091990'
   number_link: 6
   link1:
@@ -106,7 +106,7 @@
   image: 21_TIM_SK1.png
   authors: Wenbin Gao, Lei Zhang<sup>*</sup>, <strong>Wenbo Huang</strong>, Fuhong Min, Jun He, Aiguo Song
   venue: TIM 2021-2 <font color="red">(Journal Paper)</font>
-  name: IEEE Transactions on Instrumentation and Measurement (🏆IF=5.6)
+  name: IEEE Transactions on Instrumentation and Measurement (🏆)
   DOI: 'DOI: 10.1109/TIM.2021.3102735'
   number_link: 4
   link1:
@@ -126,7 +126,7 @@
   image: 21_TIM_TSAT.png
   authors: Xing Wang, Lei Zhang<sup>*</sup>, <strong>Wenbo Huang</strong>, Shuoyuan Wang, Jun He, Aiguo Song
   venue: TIM 2021-3 <font color="red">(Journal Paper)</font>
-  name: IEEE Transactions on Instrumentation and Measurement (🏆IF=5.6)
+  name: IEEE Transactions on Instrumentation and Measurement (🏆)
   DOI: 'DOI: 10.1109/TIM.2021.3132088'
   number_link: 4
   link1:
@@ -146,7 +146,7 @@
   image: 22_TIM_DCX.png
   authors: Shige Xu, Lei Zhang<sup>*</sup>, <strong>Wenbo Huang</strong>, Hao Wu, Aiguo Song
   venue: TIM 2022-1 <font color="red">(Journal Paper)</font>
-  name: IEEE Transactions on Instrumentation and Measurement (🏆IF=5.6)
+  name: IEEE Transactions on Instrumentation and Measurement (🏆)
   DOI: 'DOI: 10.1109/TIM.2022.3158427'
   number_link: 4
   link1:
@@ -186,7 +186,7 @@
   image: 22_ESWA_HC.png
   authors: Chaolei Han, Lei Zhang<sup>*</sup>, Yin Tang, <strong>Wenbo Huang</strong>, Fuhong Min, Jun He
   venue: ESWA 2022-1 <font color="red">(Journal Paper)</font>
-  name: Elesvier Expert Systems with Applications (🥉CCF Rank C, IF=8.5)
+  name: Elesvier Expert Systems with Applications (🥉CCF Rank C)
   DOI: 'DOI: 10.1016/J.ESWA.2022.116764'
   number_link: 4
   link1:

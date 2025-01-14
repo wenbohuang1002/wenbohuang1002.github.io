@@ -340,7 +340,7 @@ CV was last updated on 2024.12.19.
 
 <!-- #### <a href="#top" class="btn-xs btn-primary">Go Back to Top</a> -->
 
-<!-- <div class="col-sm-12"> -->
+<div class="col-sm-12">
 
 ### **Academic Related**
 
@@ -371,20 +371,20 @@ CV was last updated on 2024.12.19.
     - Book entitled--'Digital Innovation Adoption: Architectural Recommendations and Security Solutions', 2022. -->
 
 * **Teaching Activity**
-	- Operating System (bilingual instruction, teaching assistant, Spring 2023, Southeast University).
+	- Operating System (Bilingual Instruction, Teaching Assistant, Spring 2023, Southeast University).
 	<!-- - Teaching assistant of Edu-By: The Time of Robotics - Artificial Intelligence and Social Change (博雅课：机器人时代 - 人工智能与社会变革), Fall 2021, Nanjing Normal University. -->
 	<!-- - Teaching assistant of Artificial Intelligence and Big Data, Spring 2022, Nanjing Normal University. -->
 	<!-- - Security Administrator for the Institute of Information and Control Technologies, School of Electric and Autumation Engineerning, 2020-2021, Nanjing Normal University. -->
 
 #### **Award & Honor**
 * **Scholarship**
-	- Special freshman Scholarship/Excellent Ph.D Training Program (2022, Southeast University, <a href="https://wenbohuang1002.github.io/papers/certificate/2022freshman.pdf">Certificate</a>).
+	- Special Freshman Scholarship/Excellent Ph.D Training Program (2022, Southeast University, <a href="https://wenbohuang1002.github.io/papers/certificate/2022freshman.pdf">Certificate</a>).
     - National Scholarship for Postgraduate Students (2021, The Chinese Ministry of Education, <a href="https://wenbohuang1002.github.io/papers/certificate/2021national.pdf">Certificate No.SSY202120653</a>).
-	- First-class Academic Scholarship (2021, Nanjing Normal University).
+	- First-Class Academic Scholarship (2021, Nanjing Normal University).
 
 * **Honor**
-	- Outstanding graduate (2022, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/certificate/2022graduate.pdf">Certificate</a>).
-	- Outstanding postgraduate (2021, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/certificate/2021outstanding.pdf">Certificate</a>).
+	- Outstanding Graduate (2022, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/certificate/2022graduate.pdf">Certificate</a>).
+	- Outstanding PPostgraduate (2021, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/certificate/2021outstanding.pdf">Certificate</a>).
 
 </div>
 

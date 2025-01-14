@@ -1,6 +1,6 @@
 - title: 'Channel-Equalization-HAR: A Light-weight Convolutional Neural Network for Wearable Sensor Based Human Activity Recognition'
   image: 22_TMC_CE.png
-  authors: <strong>Wenbo Huang</strong> , Lei Zhang<sup>*</sup>, Hao Wu, Fuhong Min, Aiguo Song
+  authors: <strong>Wenbo Huang</strong>, Lei Zhang<sup>*</sup>, Hao Wu, Fuhong Min, Aiguo Song
   venue: TMC 2022-1 <font color="red">(Journal Paper)</font> 
   name: IEEE Transactions on Mobile Computing (🥇CCF Rank A, IF=7.9, 🏅<a href="https://wenbohuang1002.github.io/papers/certificate/TMC_HC.pdf">ESI Top 1% Highly Cited</a>)
   DOI: 'DOI: 10.1109/TMC.2022.3174816'
@@ -26,7 +26,7 @@
 
 - title: 'Deep Ensemble Learning for Human Activity Recognition Using Wearable Sensors via Filter Activation'
   image: 22_TECS_FA.png
-  authors: <strong>Wenbo Huang</strong> , Lei Zhang<sup>*</sup>, Shuoyuan Wang, Hao Wu, Aiguo Song
+  authors: <strong>Wenbo Huang</strong>, Lei Zhang<sup>*</sup>, Shuoyuan Wang, Hao Wu, Aiguo Song
   venue: TECS 2022-1 <font color="red">(Journal Paper)</font> 
   name: ACM Transactions on Embedded Computing Systems (🥈CCF Rank B, IF=2.0, 🏅<a href="https://wenbohuang1002.github.io/papers/certificate/TECS_HC.pdf">ESI Top 1% Highly Cited</a>)
   DOI: 'DOI: 10.1145/3551486'
@@ -52,7 +52,7 @@
 
 - title: The Convolutional Neural Networks Training with Channel-Selectivity for Human Activity Recognition Based on Sensors
   image: 21_JBHI_SC.png
-  authors: <strong>Wenbo Huang</strong> , Lei Zhang<sup>*</sup>, Qi Teng, Chaoda Song, Jun He
+  authors: <strong>Wenbo Huang</strong>, Lei Zhang<sup>*</sup>, Qi Teng, Chaoda Song, Jun He
   venue: JBHI 2021-1 <font color="red">(Journal Paper)</font> 
   name: IEEE Journal of Biomedical and Health Informatics (Old Name：IEEE Transactions on Information Technology in Biomedicine, 🥉CCF Rank C, IF=7.7)
   DOI: 'DOI: 10.1109/JBHI.2021.3092396'
@@ -144,7 +144,7 @@
 
 - title: Deformable Convolutional Networks for Multimodal Human Activity Recognition using Wearable Sensors
   image: 22_TIM_DCX.png
-  authors: Suige Xu, Lei Zhang<sup>*</sup>, <strong>Wenbo Huang</strong>, Hao Wu, Aiguo Song
+  authors: Shige Xu, Lei Zhang<sup>*</sup>, <strong>Wenbo Huang</strong>, Hao Wu, Aiguo Song
   venue: TIM 2022-1 <font color="red">(Journal Paper)</font>
   name: IEEE Transactions on Instrumentation and Measurement (🏆IF=5.6)
   DOI: 'DOI: 10.1109/TIM.2022.3158427'

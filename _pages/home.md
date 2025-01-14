@@ -270,7 +270,7 @@ CV was last updated on 2024.12.19.
 
 <!-- #### <a href="#top" class="btn-xs btn-primary">Go Back to Top</a> -->
 
-### **Theses**
+<!-- ### **Theses**
 
 {% for publi in site.data.theseslist limit:6 %}
 
@@ -332,7 +332,7 @@ CV was last updated on 2024.12.19.
  </div>
 </div>
 
-{% endfor %}
+{% endfor %} -->
 
 <p> &nbsp; </p>
 

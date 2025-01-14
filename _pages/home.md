@@ -334,7 +334,7 @@ CV was last updated on 2024.12.19.
 
 {% endfor %} -->
 
-<p> &nbsp; </p>
+<!-- <p> &nbsp; </p> -->
 
 </div>
 
@@ -345,11 +345,11 @@ CV was last updated on 2024.12.19.
 ### **Academic Related**
 
 #### **Academic Service**
-* **Conference Reviewer/Program Committee Number**
+* **Conference Reviewer/Program Committee Number (<font color="#FF7F0E">Outstanding</font>)**
 	- The International Conference on Machine Learning (ICML), 2025.
 	- The International Conference on Learning Representations (ICLR), 2025.
     - The Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
-	- The ACM International Conference on Multimedia (ACM MM), 2024 (<a href="https://2024.acmmm.org/outstanding-ac-reviewer"><font color="#FF7F0E">Outstanding Reviewer</font></a>).
+	- The ACM International Conference on Multimedia (ACM MM), <a href="https://2024.acmmm.org/outstanding-ac-reviewer"><font color="#FF7F0E">2024</font></a>.
 	- The International Joint Conferences on Artificial Intelligence (IJCAI), 2025.
 	- The International Conference on Artificial Intelligence and Statistics (AISTATS), 2025.
     <!-- - The ACM International Conference on Computer Science and Application Engineering (CSAE), 2022, <a href="https://wenbohuang1002.github.io/papers/certificate/CSAE2022 Certificate of Appreciation_Wenbo Huang.pdf">Certificate</a>. -->
@@ -360,9 +360,9 @@ CV was last updated on 2024.12.19.
 	- IEEE Transactions on Multimedia (IEEE TMM).
 	- Elsevier Neurocomputing.
 	- IEEE Sensors.
+	- Scientific Report.
 	<!-- - Cybernetics and Systems, 2023. -->
 	<!-- - Neural Processing Letters, 2023. -->
-	- Scientific Report.
 	<!-- - The Imaging Science Journal, 2022. -->
 	<!-- - Current Computer-Aided Drug Design, 2022. -->
     <!-- - MDPI Sensors, 2021. -->
@@ -378,13 +378,13 @@ CV was last updated on 2024.12.19.
 
 #### **Award & Honor**
 * **Scholarship**
-	- Special freshman Scholarship/Excellent Ph.D Training Program, 2022, Southeast University, <a href="https://wenbohuang1002.github.io/papers/certificate/2022freshman.pdf">Certificate</a>.
-    - National Scholarship for Postgraduate Students, 2021, The Chinese Ministry of Education, <a href="https://wenbohuang1002.github.io/papers/certificate/2021national.pdf">Certificate No.SSY202120653</a>.
-	- First-class Academic Scholarship, 2021, Nanjing Normal University.
+	- Special freshman Scholarship/Excellent Ph.D Training Program (2022, Southeast University, <a href="https://wenbohuang1002.github.io/papers/certificate/2022freshman.pdf">Certificate</a>).
+    - National Scholarship for Postgraduate Students (2021, The Chinese Ministry of Education, <a href="https://wenbohuang1002.github.io/papers/certificate/2021national.pdf">Certificate No.SSY202120653</a>).
+	- First-class Academic Scholarship (2021, Nanjing Normal University).
 
 * **Honor**
-	- Outstanding graduate, 2022, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/certificate/2022graduate.pdf">Certificate</a>.
-	- Outstanding postgraduate, 2021, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/certificate/2021outstanding.pdf">Certificate</a>.
+	- Outstanding graduate (2022, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/certificate/2022graduate.pdf">Certificate</a>).
+	- Outstanding postgraduate (2021, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/certificate/2021outstanding.pdf">Certificate</a>).
 
 </div>
 

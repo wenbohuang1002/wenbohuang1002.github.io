@@ -351,7 +351,8 @@ CV was last updated on 2024.12.19.
     - The Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
 	- The ACM International Conference on Multimedia (ACM MM), <a href="https://2024.acmmm.org/outstanding-ac-reviewer"><font color="#FF7F0E">2024</font></a>.
 	- The International Joint Conferences on Artificial Intelligence (IJCAI), 2025.
-	- The International Conference on Artificial Intelligence and Statistics (AISTATS), 2025.
+	etc.
+	<!-- - The International Conference on Artificial Intelligence and Statistics (AISTATS), 2025. -->
     <!-- - The ACM International Conference on Computer Science and Application Engineering (CSAE), 2022, <a href="https://wenbohuang1002.github.io/papers/certificate/CSAE2022 Certificate of Appreciation_Wenbo Huang.pdf">Certificate</a>. -->
 	<!-- - International Conference on Optoelectronic Information and Computer Engineering (OCIE 2022), 2022. -->
 
@@ -361,6 +362,7 @@ CV was last updated on 2024.12.19.
 	- Elsevier Neurocomputing.
 	- IEEE Sensors.
 	- Scientific Report.
+	etc.
 	<!-- - Cybernetics and Systems, 2023. -->
 	<!-- - Neural Processing Letters, 2023. -->
 	<!-- - The Imaging Science Journal, 2022. -->
@@ -371,7 +373,7 @@ CV was last updated on 2024.12.19.
     - Book entitled--'Digital Innovation Adoption: Architectural Recommendations and Security Solutions', 2022. -->
 
 * **Teaching Activity**
-	- Teaching assistant of Operating System (bilingual instruction), Spring 2023, Southeast University.
+	- Operating System (bilingual instruction, Teaching assistant, Spring 2023, Southeast University).
 	<!-- - Teaching assistant of Edu-By: The Time of Robotics - Artificial Intelligence and Social Change (博雅课：机器人时代 - 人工智能与社会变革), Fall 2021, Nanjing Normal University. -->
 	<!-- - Teaching assistant of Artificial Intelligence and Big Data, Spring 2022, Nanjing Normal University. -->
 	<!-- - Security Administrator for the Institute of Information and Control Technologies, School of Electric and Autumation Engineerning, 2020-2021, Nanjing Normal University. -->

@@ -345,14 +345,12 @@ CV was last updated on 2024.12.19.
 ### **Academic Related**
 
 #### **Academic Service**
-* **Conference Reviewer/Program Committee Number (<font color="#FF7F0E">Outstanding</font>)**
+* **Conference Reviewer/Program Committee Number** (<font color="#FF7F0E">Outstanding</font>)
 	- The International Conference on Machine Learning (ICML), 2025.
 	- The International Conference on Learning Representations (ICLR), 2025.
     - The Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
 	- The ACM International Conference on Multimedia (ACM MM), <a href="https://2024.acmmm.org/outstanding-ac-reviewer"><font color="#FF7F0E">2024</font></a>.
 	- The International Joint Conferences on Artificial Intelligence (IJCAI), 2025.
-	<br>
-	etc.
 	<!-- - The International Conference on Artificial Intelligence and Statistics (AISTATS), 2025. -->
     <!-- - The ACM International Conference on Computer Science and Application Engineering (CSAE), 2022, <a href="https://wenbohuang1002.github.io/papers/certificate/CSAE2022 Certificate of Appreciation_Wenbo Huang.pdf">Certificate</a>. -->
 	<!-- - International Conference on Optoelectronic Information and Computer Engineering (OCIE 2022), 2022. -->
@@ -361,10 +359,8 @@ CV was last updated on 2024.12.19.
 	- IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE).
 	- IEEE Transactions on Multimedia (IEEE TMM).
 	- Scientific Report.
-	<br>
-	etc.
-	- Elsevier Neurocomputing.
-	- IEEE Sensors.
+	<!-- - Elsevier Neurocomputing. -->
+	<!-- - IEEE Sensors. -->
 	<!-- - Cybernetics and Systems, 2023. -->
 	<!-- - Neural Processing Letters, 2023. -->
 	<!-- - The Imaging Science Journal, 2022. -->

@@ -352,7 +352,7 @@ CV was last updated on 2024.12.19.
 	- The ACM International Conference on Multimedia (ACM MM), 2024 (<a href="https://2024.acmmm.org/outstanding-ac-reviewer"><font color="#FF7F0E">Outstanding Reviewer</font></a>).
 	- The International Joint Conferences on Artificial Intelligence (IJCAI), 2025.
 	- The International Conference on Artificial Intelligence and Statistics (AISTATS), 2025.
-    - The ACM International Conference on Computer Science and Application Engineering (CSAE), 2022, <a href="https://wenbohuang1002.github.io/papers/certificate/CSAE2022 Certificate of Appreciation_Wenbo Huang.pdf">Certificate</a>.
+    <!-- - The ACM International Conference on Computer Science and Application Engineering (CSAE), 2022, <a href="https://wenbohuang1002.github.io/papers/certificate/CSAE2022 Certificate of Appreciation_Wenbo Huang.pdf">Certificate</a>. -->
 	<!-- - International Conference on Optoelectronic Information and Computer Engineering (OCIE 2022), 2022. -->
 
 * **Journal Reviewer**
@@ -367,8 +367,8 @@ CV was last updated on 2024.12.19.
 	<!-- - Current Computer-Aided Drug Design, 2022. -->
     <!-- - MDPI Sensors, 2021. -->
 	
-* **Book Reviewer**
-    - Book entitled--'Digital Innovation Adoption: Architectural Recommendations and Security Solutions', 2022.
+<!-- * **Book Reviewer**
+    - Book entitled--'Digital Innovation Adoption: Architectural Recommendations and Security Solutions', 2022. -->
 
 * **Teaching Activity**
 	- Teaching assistant of Operating System (bilingual instruction), Spring 2023, Southeast University.

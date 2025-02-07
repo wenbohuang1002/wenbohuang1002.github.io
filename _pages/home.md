@@ -357,10 +357,9 @@ CV was last updated on 2024.12.19.
 	<!-- - International Conference on Optoelectronic Information and Computer Engineering (OCIE 2022), 2022. -->
 
 * **Journal Reviewer**
-	- IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE).
 	- IEEE Transactions on Multimedia (IEEE TMM).
 	- Scientific Report.
-	<!-- - Elsevier Neurocomputing. -->
+	- Elsevier Neurocomputing.
 	<!-- - IEEE Sensors. -->
 	<!-- - Cybernetics and Systems, 2023. -->
 	<!-- - Neural Processing Letters, 2023. -->

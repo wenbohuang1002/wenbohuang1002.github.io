@@ -105,7 +105,7 @@ CV was last updated on 2024.12.19.
   <p style="text-align: right;">
 	<span style="display: block;">Wenbo Huang (The left one)</span>
 	<br>
-	<span style="display: block;"><font style="font-family: kaiti;font-weight: 450;">黄文博(左一)</font> </span>
+	<span style="display: block;"><font style="font-family: SimSun;font-weight: 450;">黄文博(左一)</font> </span>
 	<br>
 	<span style="display: block;">Room Unknown, Computer Building. </span>
 	<br>

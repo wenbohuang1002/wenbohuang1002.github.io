@@ -348,7 +348,7 @@ CV was last updated on 2024.12.19.
 * **Conference Reviewer/Program Committee Number** (<font color="#FF7F0E">Outstanding</font>)
 	- The International Conference on Machine Learning (ICML), 2025.
 	- The International Conference on Learning Representations (ICLR), 2025.
-    - The Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
+    - The Annual Conference on Neural Information Processing Systems (NeurIPS), 2024, 2025.
 	- The ACM International Conference on Multimedia (ACM MM), <a href="https://2024.acmmm.org/outstanding-ac-reviewer"><font color="#FF7F0E">2024</font></a>.
 	- The ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025.
 	- The International Joint Conferences on Artificial Intelligence (IJCAI), 2025.

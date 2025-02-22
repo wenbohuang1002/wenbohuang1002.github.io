@@ -384,7 +384,7 @@ CV was last updated on 2024.12.19.
 
 * **Honor**
 	- Outstanding Graduate (2022, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/certificate/2022graduate.pdf">Certificate</a>).
-	- Outstanding PPostgraduate (2021, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/certificate/2021outstanding.pdf">Certificate</a>).
+	- Outstanding Postgraduate (2021, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/certificate/2021outstanding.pdf">Certificate</a>).
 
 </div>
 

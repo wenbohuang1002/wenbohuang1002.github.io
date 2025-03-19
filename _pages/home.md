@@ -59,12 +59,12 @@ My research interests including Video Analytics, Multimedia, and Ubiquitous Comp
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_6.gif" width="38" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_7.gif" width="38" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
 <br>
-Certified <del><font color="red">academic escape room</font></del> champion (2022.9~2023.9). <br>
-	- Time to beat: About 365 days. <br>
-	- Trophies: This smirk. 😏 <br>
-	- Results: 0 publications, 100% resilience. <br>
-	- Crash log: No systems crashed, except possibly my mental stack. 💥 <br>
-	- Status: Recovery completed. 🛠️
+<b>Certified <del><font color="red">academic escape room</font></del> champion (2022.9~2023.9).</b> <br>
+	- <b>Time to beat</b>: About 365 days. <br>
+	- <b>Trophies</b>: This smirk. 😏 <br>
+	- <b>Results</b>: 0 publications, 100% resilience. <br>
+	- <b>Crash log</b>: No systems crashed, except possibly my mental stack. 💥 <br>
+	- <b>Status</b>: Recovery completed. 🛠️
 <br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_1.gif" width="38" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_2.gif" width="38" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">

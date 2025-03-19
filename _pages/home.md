@@ -60,6 +60,10 @@ My research interests including Video Analytics, Multimedia, and Ubiquitous Comp
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_7.gif" width="38" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
 <br>
 I was lucky enough to get away from <del><font color="red">a torture group</font></del> (2022.9~2023.9).
+Certified academic escape room champion (2022.9~2023.9).
+Time to beat: 365 days.
+Results: 0 publications, 100% resilience.
+Trophies: This smirk. 😏
 <br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_1.gif" width="38" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_2.gif" width="38" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
@@ -349,7 +353,7 @@ CV was last updated on 2024.12.19.
 	- The International Conference on Machine Learning (ICML), 2025.
 	- The International Conference on Learning Representations (ICLR), 2025.
     - The Annual Conference on Neural Information Processing Systems (NeurIPS), 2024, 2025.
-	- The ACM International Conference on Multimedia (ACM MM), <a href="https://2024.acmmm.org/outstanding-ac-reviewer"><font color="#FF7F0E">2024</font></a>.
+	- The ACM International Conference on Multimedia (ACM MM), <a href="https://2024.acmmm.org/outstanding-ac-reviewer"><font color="#FF7F0E">2024</font></a>, 2025.
 	- The ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025.
 	- The International Joint Conferences on Artificial Intelligence (IJCAI), 2025.
 	<!-- - The International Conference on Artificial Intelligence and Statistics (AISTATS), 2025. -->

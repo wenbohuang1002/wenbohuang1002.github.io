@@ -59,10 +59,9 @@ My research interests including Video Analytics, Multimedia, and Ubiquitous Comp
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_6.gif" width="38" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_7.gif" width="38" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
 <br>
-I was lucky enough to get away from <del><font color="red">a torture group</font></del> (2022.9~2023.9).
-Certified academic escape room champion (2022.9~2023.9). <br>
-Time to beat: 365 days. <br>
-Results: 0 publications, 100% resilience. <br>
+Certified <del><font color="red">academic escape room</font></del> champion (2022.9~2023.9). <br>
+Time to beat: About 365 days. <br>
+Results: 0 publications, 100% resilience, no lab rats were harmed, except possibly me. <br>
 Trophies: This smirk. 😏
 <br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_1.gif" width="38" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">

@@ -62,7 +62,9 @@ My research interests including Video Analytics, Multimedia, and Ubiquitous Comp
 Certified <del><font color="red">academic escape room</font></del> champion (2022.9~2023.9). <br>
 	- Time to beat: About 365 days. <br>
 	- Trophies: This smirk. 😏 <br>
-	- Results: 0 publications, 100% resilience, no systems crashed, except possibly my mental stack. 💥
+	- Results: 0 publications, 100% resilience. <br>
+	- Crash log: No systems crashed, except possibly my mental stack. 💥 <br>
+	- Status: Recovery completed. 🛠️
 <br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_1.gif" width="38" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy2_2.gif" width="38" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">

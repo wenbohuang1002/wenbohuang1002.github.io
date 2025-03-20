@@ -49,7 +49,7 @@ and pursuing my degree in
 <!-- <a href="http://palm.seu.edu.cn/" target="_blank">PAttern Learning and Mining (PALM) Lab</a>, -->
 <a href="https://cse.seu.edu.cn/" target="_blank">School of Computer Science and Engineering</a>, <a href="https://www.seu.edu.cn/">Southeast University</a>,
 Nanjing, China. 
-My research interests including Video Analytics, Multimedia, and Ubiquitous Computing. I am also an <a href="{{ site.url }}{{ site.baseurl }}/images/pages/animal lover.jpg">animal lover</a> (<a href="{{ site.url }}{{ site.baseurl }}/papers/resume/fahlo.pdf">fahlo link</a>). 
+My research interests include Video Analysis, Multimedia, and Ubiquitous Computing. I am also an <a href="{{ site.url }}{{ site.baseurl }}/images/pages/animal lover.jpg">animal lover</a> (<a href="{{ site.url }}{{ site.baseurl }}/papers/resume/fahlo.pdf">fahlo link</a>). 
 <br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_1.gif" width="38" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/happy/happy1_2.gif" width="38" style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;">

@@ -3,23 +3,20 @@
   authors: <strong>Wenbo Huang</strong>, Jinghui Zhang<sup>*</sup>, Guang Li, Lei Zhang, Shoyuan Wang, Fang Dong, Jiahui Jin, Takahiro Ogawa, Miki Haseyama
   venue: AAAI 2025-1 <font color="blue">(Conference Paper)</font> 
   name: 2025 the 39th Annual AAAI Conference on Artificial Intelligence, Philadelphia, USA (🥇CCF Rank A, Poster Presentation, Accept Rate 23.4%)
-  number_link: 6
+  number_link: 5
   link1:
-    url: https://wenbohuang1002.github.io/papers/AAAI-2025-1.pdf
-    display: PDF
-  link2:
     url: https://arxiv.org/pdf/2412.07481
     display: PDF (Full edition)
-  link3:
+  link2:
     url: https://wenbohuang1002.github.io/404
     display: Poster
-  link4:
+  link3:
     url: https://github.com/wenbohuang1002/Manta
     display: Code (GitHub)
-  link5:
+  link4:
     url: https://wenbohuang1002.github.io/404
     display: OpenReview
-  link6:
+  link5:
     url: https://wenbohuang1002.github.io/papers/bib/TMC-2022-1.txt
     display: Cite by bib
 
@@ -28,23 +25,20 @@
   authors: <strong>Wenbo Huang</strong>, Jinghui Zhang<sup>*</sup>, Xuwei Qian, Zhen Wu, Meng Wang, Lei Zhang
   venue: MM 2024-1 <font color="blue">(Conference Paper)</font> 
   name: 2024 the 32nd ACM International Conference on Multimedia, Melbourne, Australia (🥇CCF Rank A, Poster Presentation, Accept Rate 26.2%)
-  number_link: 6
+  number_link: 5
   link1:
-    url: https://wenbohuang1002.github.io/papers/MM-2024-1.pdf
-    display: PDF
-  link2:
     url: https://arxiv.org/pdf/2407.16344
     display: PDF (Full edition)
-  link3:
+  link2:
     url: https://wenbohuang1002.github.io/404
     display: Poster
-  link4:
+  link3:
     url: https://github.com/wenbohuang1002/SOAP
     display: Code (GitHub)
-  link5:
+  link4:
     url: https://openreview.net/forum?id=ZDeczo36KR
     display: OpenReview
-  link6:
+  link5:
     url: https://wenbohuang1002.github.io/papers/bib/TMC-2022-1.txt
     display: Cite by bib
 
@@ -53,23 +47,20 @@
   authors: Di Xiong, Shoyuan Wang, Lei Zhang<sup>*</sup>, <strong>Wenbo Huang</strong>, Chaolei Han
   venue: AAAI 2025-2 <font color="blue">(Conference Paper)</font> 
   name: 2025 the 39th Annual AAAI Conference on Artificial Intelligence, Philadelphia, USA (🥇CCF Rank A, Poster Presentation, Accept Rate 23.4%)
-  number_link: 6
+  number_link: 5
   link1:
-    url: https://wenbohuang1002.github.io/papers/AAAI-2025-2.pdf
-    display: PDF
-  link2:
     url: https://arxiv.org/pdf/2412.13594
     display: PDF (Full edition)
-  link3:
+  link2:
     url: https://wenbohuang1002.github.io/404
     display: Poster
-  link4:
+  link3:
     url: https://wenbohuang1002.github.io/404
     display: Code (GitHub)
-  link5:
+  link4:
     url: https://wenbohuang1002.github.io/404
     display: OpenReview
-  link6:
+  link5:
     url: https://wenbohuang1002.github.io/papers/bib/TMC-2022-1.txt
     display: Cite by bib
 
@@ -80,8 +71,8 @@
   name: 2024 the 38th Annual Conference on Neural Information Processing Systems, Vancouver, Canada (🥇CCF Rank A, Oral Presentation, Accept Rate 25.8%)
   number_link: 3
   link1:
-    url: https://openreview.net/pdf?id=47loYmzxep
-    display: PDF
+    url: https://arxiv.org/pdf/2403.09323
+    display: PDF (Full edition)
   link2:
     url: https://github.com/icey-zhang/E2E-MFD
     display: Code (GitHub)
